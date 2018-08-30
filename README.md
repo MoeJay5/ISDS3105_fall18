@@ -1,4 +1,4 @@
-## ISDS3105: Internet Development Tools - R programming (Fall 2018)
+## ISDS3105: Internet Development Tools - R programming (Fall 2018) 
 
 **T-Th, 3.00-4.20 PM, 1835 Business Education Complex**
 
