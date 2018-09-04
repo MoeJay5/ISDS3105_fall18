@@ -213,7 +213,7 @@ Conditional Execution
 Using `if(condition) { }` you can conditionally execute a snippet of code. For instance, we can test whether you installed the library `tidyverse` and install it if not:
 
 ``` r
-if(!require(tidyverse)) {install.packages(tidyverse)}
+if(!require(tidyverse)) {install.packages('tidyverse')}
 ```
 
 Each if-statement evaluates to a `TRUE` or `FALSE`, thus be carefull when you are testing vectors: Only the first element will be used.
@@ -289,10 +289,10 @@ Turn the followings into functions, making sure that your function retrieves an 
 
 -   `sd(x, na.rm = TRUE) / mean(x, na.rm = TRUE)`
 
-For the pros: Use `BRRR::skrrrahh(33)` to listen DJ Khaled yelling "They don't wanna see us win!" when `x` is not numeric. The package is available on GitHub only:
+For the pros: Use `BRRR::skrrrahh(34)` to listen DJ Khaled yelling "They don't wanna see us win!" when `x` is not numeric. The package is available on GitHub only:
 
 ``` r
-if(!require(devtools)) {install.packages(devtools)}
+if(!require(devtools)) {install.packages('devtools')}
 devtools::install_github("brooke-watson/BRRR")
 ```
 

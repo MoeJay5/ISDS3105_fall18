@@ -60,9 +60,9 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 |-------------------------|---------------|----------------|----------|
 | Tuesday, August 21       | Introduction and set-up    |   |  |
 | Thursday, August 23     | Git/GitHub  |   Assignment1 (install RStudio, git/github)  | [*Do you have a moment to talk about version control?*](https://moodle3.lsu.edu/pluginfile.php/1643503/mod_resource/content/1/about_version_control.pdf)|
-| Tuesday, August 28       | Base  R - data structures 1  |              |    lesson1     
-| Thursday, August 30     | Base  R - data structures 2  |              |   lesson2            
-| Tuesday, September 4    | Base R - functions  |    Assignment2        | lesson3
+| Tuesday, August 28      | Base  R - data structures 1  |              |    lesson1     
+| Thursday, August 30     |  Base R - functions             |  | lesson2            
+| Tuesday, September 4    |  Base  R - data structures 2  |    Assignment2        | lesson3
 | Thursday, September 6    | DataViz ggplot2     |                       | lesson4
 | Tuesday, September 11   | DataViz ggplot2     |                       | lesson5         
 | Thursday, September 13  | Tidy data           | Assignment3           | lesson6
