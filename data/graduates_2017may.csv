@@ -1,0 +1,4168 @@
+Sex,Ethnicity,College,Curriculum
+F,White,AGRI,ADP
+M,White,BADM,ACCT
+F,White,AGRI,ADP
+M,White,ENGR,ME
+F,Asian,ADSN,LA
+M,White,GRAD,PBDM
+M,White,ENGR,ME
+M,White,BADM,FIN
+M,White,SCI,BIOL
+F,White,L,JDCL
+M,White,L,JDCL
+F,White,BADM,FIN
+F,White,VETM,VMED
+F,Asian,GRAD,MBADM
+M,White,HSE,KIN
+F,White,HSS,FREN
+F,White,BADM,GBUS
+F,Hispanic,ENGR,PETE
+F,White,SCI,MATH
+M,White,HSS,ENGL
+M,White,BADM,FIN
+F,White,HSS,LIBAR
+F,White,AGRI,NFS
+M,White,ENGR,ME
+M,White,GRAD,SKIN
+F,White,GRAD,SKIN
+M,White,ENGR,CM
+F,White,HSS,PSYCS
+F,White,GRAD,MBADM
+M,White,ENGR,CM
+M,White,BADM,GBUS
+F,White,ENGR,CHE
+M,White,ADSN,ARCH
+F,White,AGRI,NREM
+F,Hispanic,GRAD,PCOMP
+M,White,GRAD,PME
+M,White,L,JDCL
+F,Asian,ENGR,CE
+F,White,GRAD,MBADM
+F,White,ENGR,CHE
+F,Hispanic,SCI,BCH
+F,White,BADM,ACCT
+F,Black or African American,SCI,BIOL
+F,Black or African American,MCOM,MC
+M,White,ENGR,EEC
+F,White,HSE,KIN
+F,White,L,JD
+M,Multi-Racial,BADM,ECONS
+M,White,ENGR,ME
+F,White,MCOM,MC
+M,White,ENGR,ME
+M,Asian,BADM,MGT
+F,White,HSS,COMD
+F,White,BADM,MGT
+F,White,HSE,ELED
+M,White,MCOM,MC
+M,White,HSE,SPADM
+M,White,SCI,BIOL
+F,White,HSE,KIN
+M,White,SCI,BIOL
+M,Asian,ENGR,PETE
+M,White,HSE,SPADM
+F,White,HSE,CFS
+F,White,AGRI,TAM
+F,Black or African American,HSE,KIN
+M,White,ENGR,PETE
+M,White,GRAD,PSOCL
+F,White,SCI,BIOL
+F,White,GRAD,MMC
+M,White,BADM,ACCT
+M,White,ENGR,CM
+M,Hispanic,BADM,FIN
+M,White,ENGR,PETE
+F,White,HSE,KIN
+F,Black or African American,HSE,ELED
+M,White,BADM,ACCT
+F,White,HSE,SPADM
+F,Black or African American,HSS,CMST
+F,White,HSE,KIN
+M,White,ENGR,PETE
+M,White,GRAD,MBADM
+M,White,HSS,HIST
+F,Hispanic,BADM,MGT
+F,White,GRAD,DMUS
+F,White,HSS,PSYCS
+F,White,HSS,PSYCS
+F,Black or African American,MCOM,MC
+F,Black or African American,HSE,SPADM
+F,White,GRAD,MSW
+M,White,ENGR,CHE
+M,White,ENGR,ME
+F,White,HSE,ELED
+F,White,MCOM,MC
+M,White,AGRI,NREM
+F,White,VETM,VMED
+F,Hispanic,SCI,BIOL
+M,Black or African American,BADM,MGT
+M,Black or African American,HSS,PHIL
+F,White,HSE,ELED
+M,White,VETM,VMED
+F,White,HSE,SPADM
+F,White,GRAD,MSW
+F,White,GRAD,SKIN
+F,Black or African American,HSE,CFS
+M,White,BADM,GBUS
+F,White,HSS,PSYCS
+F,White,GRAD,MSW
+F,White,HSS,ENGL
+F,White,ENGR,CM
+M,White,HSS,PHIL
+F,Hispanic,ENGR,PETE
+F,White,BADM,MKT
+F,Black or African American,HSE,KIN
+F,Black or African American,HSS,SOCL
+F,White,GRAD,MFACW
+M,White,GRAD,SKIN
+F,White,GRAD,ACMST
+F,White,AGRI,NFS
+F,White,HSS,IS
+M,White,ENGR,PETE
+F,White,HSE,KIN
+M,Multi-Racial,ENGR,ME
+M,White,GRAD,AANTH
+M,White,GRAD,PHIST
+F,White,AGRI,NFS
+F,White,MCOM,MC
+F,White,HSS,PHIL
+F,White,ADSN,ID
+F,White,HSE,KIN
+F,Black or African American,HSS,ENGL
+F,White,HSE,KIN
+M,White,HSS,HIST
+M,White,ENGR,ME
+M,White,SCI,MATH
+F,White,HSE,CFS
+M,White,BADM,ECONS
+F,White,HSS,SOCL
+M,White,ENGR,PETE
+F,Asian,GRAD,SCECO
+M,White,ENGR,PETE
+F,White,GRAD,AELRC
+F,White,BADM,MKT
+M,White,ENGR,PETE
+F,White,BADM,MKT
+F,White,GRAD,SKIN
+M,Hispanic,ENGR,PETE
+F,White,HSE,ELED
+M,White,HSS,ENGL
+F,Asian,SCI,BIOL
+F,White,HSS,COMD
+F,White,BADM,MKT
+M,White,HSS,FREN
+F,White,HSS,CMST
+M,White,ENGR,PETE
+F,White,BADM,ISDS
+F,White,GRAD,SACCT
+F,Black or African American,MDA,MUSED
+F,White,HSE,ELED
+M,Asian,ENGR,CM
+F,Multi-Racial,HSS,PSYCS
+M,White,ENGR,CE
+F,White,GRAD,MMUS
+M,White,ADSN,ARCH
+F,Black or African American,AGRI,NREM
+F,White,L,JDCL
+F,White,ENGR,CHE
+M,White,ENGR,CHE
+F,White,L,JDCL
+F,White,BADM,MKT
+F,Asian,GRAD,SACCT
+F,White,HSE,CFS
+M,White,ENGR,ME
+F,White,MCOM,MC
+M,White,HSE,SPADM
+F,White,HSS,IS
+F,White,GRAD,ACOMD
+M,White,BADM,FIN
+F,White,AGRI,NFS
+M,Asian,ENGR,EE
+F,White,HSS,PSYCS
+M,White,HSS,HIST
+F,White,HSE,CFS
+F,White,AGRI,ENSYS
+M,White,SCI,BIOL
+M,White,ADSN,ARCH
+F,Black or African American,HSE,PK3CT
+F,White,BADM,MKT
+F,Black or African American,BADM,GBUS
+F,Black or African American,BADM,MKT
+M,White,ENGR,PETE
+F,Hispanic,AGRI,AGBU
+F,Black or African American,HSE,KIN
+F,Multi-Racial,MDA,THTR
+F,Black or African American,GRAD,MSW
+F,White,ENGR,CHE
+M,Multi-Racial,HSS,IS
+F,White,BADM,FIN
+F,Hispanic,BADM,MKT
+M,White,SCI,BIOL
+M,White,HSE,ATRN
+F,White,HSS,HIST
+F,White,BADM,MKT
+M,White,GRAD,SADPA
+M,White,L,JD
+M,White,ENGR,ME
+F,White,ENGR,PETE
+M,White,L,JD
+M,Black or African American,MDA,THTR
+F,White,BADM,MKT
+F,White,GRAD,SACCT
+M,White,SCI,GEOLP
+M,White,ENGR,CM
+F,White,ENGR,CHE
+F,White,AGRI,NREM
+F,White,GRAD,MMUS
+F,Black or African American,GRAD,SKIN
+F,White,AGRI,PLSYS
+F,White,ADSN,STAR
+M,Hispanic,GRAD,PES
+M,White,BADM,FIN
+M,White,ENGR,ME
+F,White,HSS,SOCL
+F,White,HSS,ANTH
+M,White,BADM,MKT
+F,Asian,SCI,BIOL
+M,White,ENGR,PETE
+F,Multi-Racial,SCI,BIOL
+M,White,ENGR,IE
+M,White,BADM,FIN
+F,Black or African American,HSS,POLI
+F,White,BADM,MKT
+F,White,GRAD,PVMPB
+F,White,GRAD,PGA
+F,White,GRAD,MSW
+M,White,ENGR,ME
+F,White,HSS,ENGL
+F,White,L,JDCL
+F,Black or African American,HSS,SOCL
+M,White,HSE,SPADM
+F,White,AGRI,TAM
+F,Asian,GRAD,PENTM
+F,White,BADM,MKT
+F,Asian,SCI,BIOL
+M,Asian,GRAD,MCHE
+F,White,HSS,ENGL
+M,White,BADM,MGT
+M,White,HSS,IS
+F,White,HSE,HRE
+M,Black or African American,ADSN,ARCH
+M,White,BADM,MKT
+F,White,ENGR,CHE
+F,White,BADM,MGT
+M,White,GRAD,MALA
+F,White,SCI,BIOL
+F,White,MDA,MUSED
+F,White,GRAD,MATS
+M,White,ENGR,ME
+F,White,BADM,MKT
+F,White,AGRI,TAM
+F,Black or African American,SCI,BIOL
+F,White,ENGR,CHE
+M,Hispanic,ENGR,CHE
+F,White,SCI,BIOL
+M,White,L,JDCL
+F,White,HSE,KIN
+F,White,GRAD,MBADM
+F,White,L,JDCL
+F,White,HSE,CFS
+M,White,BADM,GBUS
+F,White,AGRI,ADP
+F,White,ADSN,STAR
+M,White,BADM,MGT
+F,White,BADM,MGT
+F,White,HSE,KIN
+F,White,BADM,MKT
+M,Asian,SCI,BIOL
+M,Black or African American,GRAD,AELRC
+F,Black or African American,ENGR,CSC
+F,White,GRAD,SACCT
+F,Asian,GRAD,SACCT
+F,White,HSS,ENGL
+M,White,ENGR,PETE
+F,White,HSE,KIN
+F,White,AGRI,NFS
+F,White,HSS,INTL
+M,Hispanic,BADM,FIN
+F,Hispanic,SCI,BIOL
+F,White,ENGR,ME
+F,White,BADM,ACCT
+M,White,ADSN,ARCH
+F,White,HSE,KIN
+M,Hispanic,GRAD,PEDLR
+F,White,ENGR,PETE
+F,White,HSE,ELED
+M,White,ENGR,PETE
+F,White,HSS,COMD
+F,Asian,HSS,SOCL
+M,Black or African American,ENGR,PETE
+M,White,BADM,MGT
+M,White,GRAD,PPHYS
+F,White,L,JDCL
+F,White,VETM,VMED
+F,Black or African American,GRAD,PSW
+M,Hispanic,GRAD,SISDS
+M,Hispanic,BADM,ITF
+F,White,ADSN,ARCH
+F,White,BADM,MKT
+M,White,ENGR,PETE
+M,Hispanic,ENGR,CM
+F,White,ADSN,STAR
+F,White,BADM,MGT
+M,White,GRAD,MATS
+F,Hispanic,GRAD,ACOMD
+M,Hispanic,ENGR,PETE
+M,Did not respond,VETM,VMED
+M,White,BADM,ACCT
+M,Multi-Racial,GRAD,AELRC
+M,Asian,ENGR,CE
+F,White,MCOM,MC
+M,White,ENGR,CE
+M,White,SCI,BIOL
+M,White,ENGR,PETE
+F,White,GRAD,ACOMD
+M,White,ENGR,PETE
+F,White,BADM,MGT
+F,White,HSE,DUALC
+M,White,ENGR,EE
+F,Asian,GRAD,PME
+F,White,HSE,DUALC
+M,White,SCI,MATH
+F,White,ENGR,CE
+M,White,AGRI,AGBU
+F,White,HSS,IS
+M,White,HSE,KIN
+M,Did not respond,L,JDCL
+M,Hispanic,GRAD,MBADM
+F,White,VETM,VMED
+F,White,ENGR,BE
+F,White,HSE,SPADM
+M,White,SCI,BIOL
+M,White,MCOM,MC
+F,White,ENGR,CSC
+F,White,HSS,COMD
+M,White,ENGR,CE
+F,White,SCI,BIOL
+M,White,GRAD,MBADM
+M,White,SCI,BCH
+M,Black or African American,ENGR,PETE
+F,Asian,HSS,LIBAR
+M,White,L,JDCL
+F,White,MCOM,MC
+M,White,GRAD,MFATH
+M,White,GRAD,SISDS
+F,Hispanic,HSE,CFS
+M,Black or African American,GRAD,SVMCB
+M,White,ENGR,CM
+M,White,ENGR,PETE
+F,White,ADSN,STAR
+M,White,HSS,PHIL
+F,Asian,ENGR,CHE
+M,White,HSS,SOCL
+F,White,ADSN,ARCH
+F,White,GRAD,MSW
+F,White,VETM,VMED
+M,Black or African American,HSS,IS
+F,White,AGRI,TAM
+M,White,GRAD,MBADM
+M,White,AGRI,NREM
+F,White,MCOM,MC
+M,White,ENGR,CSC
+M,White,ENGR,CM
+M,White,HSS,ENGL
+M,White,GRAD,PES
+M,White,ENGR,CM
+M,White,ADSN,ARCH
+F,White,BADM,MGT
+F,Black or African American,HSS,SOCL
+M,Black or African American,HSE,KIN
+F,White,HSE,SPADM
+F,White,HSE,DUALC
+F,White,MCOM,MC
+F,White,L,LLM
+F,White,HSS,SOCL
+F,White,HSS,COMD
+F,White,BADM,ACCT
+F,Black or African American,AGRI,ADP
+M,Black or African American,HSS,PSYCS
+F,Hispanic,HSS,POLI
+M,White,GRAD,PEDLR
+F,White,GRAD,PCHEN
+F,White,HSS,SPAN
+F,White,GRAD,MLIS
+M,Black or African American,BADM,GBUS
+F,White,AGRI,NREM
+M,White,BADM,FIN
+F,White,HSS,SOCL
+F,Hispanic,AGRI,ENSYS
+M,Asian,BADM,FIN
+F,Hispanic,BADM,ISDS
+F,White,BADM,MKT
+M,Multi-Racial,ENGR,CHE
+F,White,GRAD,MSW
+F,White,GRAD,MCE
+F,Hispanic,VETM,VMED
+F,Hispanic,HSS,PSYCS
+F,White,MCOM,MC
+M,White,HSS,CMST
+M,Multi-Racial,SCI,MATH
+M,White,ENGR,CHE
+F,White,HSE,KIN
+F,White,HSS,COMD
+M,White,BADM,MGT
+F,White,SCI,MBIO
+F,American Indian or Alaskan Native,HSE,KIN
+F,White,BADM,ACCT
+F,White,HSE,KIN
+F,White,MCOM,MC
+M,White,BADM,MKT
+F,Hispanic,ENGR,CHE
+F,White,HSE,KIN
+F,White,HSS,COMD
+F,White,HSE,KIN
+F,White,HSS,SOCL
+F,White,GRAD,ACOMD
+F,White,AGRI,NREM
+F,White,HSS,COMD
+F,White,HSE,KIN
+F,White,HSE,CFS
+F,Hispanic,AGRI,NREM
+M,White,ENGR,CHE
+M,White,SCI,BIOL
+F,White,HSE,KIN
+F,White,ADSN,STAR
+M,White,ENGR,EVEG
+M,Asian,GRAD,PEE
+F,White,HSS,PSYCS
+M,White,HSS,HIST
+F,White,AGRI,PLSYS
+F,Black or African American,HSE,KIN
+M,White,HSE,SPADM
+M,White,AGRI,AGBU
+F,White,SCI,BIOL
+F,White,HSE,KIN
+F,White,HSS,ENGL
+M,White,HSS,SOCL
+M,White,MDA,THTR
+F,White,VETM,VMED
+F,Hispanic,L,JDCL
+F,White,BADM,MKT
+M,White,SCI,CHEM
+M,White,ENGR,CM
+F,Black or African American,ENGR,CHE
+F,Asian,GRAD,MARCH
+M,White,ENGR,ME
+F,White,HSS,PSYCS
+F,Asian,ENGR,CE
+F,White,BADM,FIN
+F,White,VETM,VMED
+F,White,MCOM,MC
+F,White,GRAD,PCMST
+F,Black or African American,HSS,HIST
+F,Asian,ENGR,CE
+F,White,MCOM,MC
+M,Asian,GRAD,SGEOG
+F,White,VETM,VMED
+F,Black or African American,GRAD,SHRE
+F,White,BADM,MKT
+M,Did not respond,ENGR,PETE
+M,White,ENGR,PETE
+F,White,HSE,KIN
+F,White,MCOM,MC
+F,White,HSS,COMD
+F,White,HSS,SOCL
+F,White,HSS,PSYCS
+M,White,BADM,MKT
+F,White,SCI,BIOL
+M,Asian,ENGR,PETE
+F,White,HSE,KIN
+F,White,VETM,VMED
+F,Black or African American,HSE,CFS
+M,White,SCI,MBIO
+F,White,HSE,PK3CT
+M,White,MDA,THTR
+F,White,BADM,MKT
+F,White,HSS,PSYCS
+M,White,ENGR,IE
+M,Black or African American,HSS,HIST
+F,Hispanic,GRAD,MSW
+F,White,GRAD,AELRC
+F,White,GRAD,PEDLR
+F,White,GRAD,SGEOG
+F,White,BADM,ACCT
+F,White,HSS,COMD
+M,White,AGRI,AGBU
+M,White,SCI,CHEM
+F,White,GRAD,ECOUN
+M,White,ENGR,PETE
+M,White,BADM,GBUS
+M,Hispanic,BADM,GBUS
+F,Black or African American,BADM,ACCT
+M,White,ENGR,CHE
+M,White,GRAD,PMATH
+M,White,BADM,FIN
+F,White,ENGR,CHE
+F,White,BADM,GBUS
+F,Asian,GRAD,PEE
+F,Black or African American,MCOM,MC
+F,Did not respond,VETM,VMED
+M,Hispanic,GRAD,SHRE
+F,White,GRAD,MMC
+F,White,HSS,ANTH
+F,White,MCOM,MC
+M,White,L,JDCL
+M,White,BADM,FIN
+F,White,AGRI,NFS
+M,White,BADM,MKT
+F,Asian,BADM,GBUS
+F,White,HSS,POLI
+M,Asian,HSE,KIN
+F,White,VETM,VMED
+M,White,MCOM,MC
+F,White,MCOM,MC
+F,White,HSS,ENGL
+F,White,BADM,MGT
+F,White,GRAD,AHISP
+F,Black or African American,HSS,PSYCS
+M,Black or African American,HSE,SPADM
+M,Black or African American,HSE,KIN
+M,White,MCOM,MC
+M,White,ENGR,PETE
+F,White,HSS,SOCL
+F,White,HSS,IS
+F,Asian,SCI,BIOL
+F,Asian,HSS,PSYCS
+F,Asian,HSE,KIN
+F,White,ADSN,ARCH
+F,Did not respond,HSS,IS
+M,Black or African American,GRAD,MMUS
+F,White,HSE,KIN
+F,White,ENGR,CHE
+F,White,ADSN,ID
+M,Multi-Racial,BADM,MKT
+F,White,BADM,MGT
+F,White,HSE,KIN
+M,White,ENGR,CSC
+F,White,GRAD,MATE
+F,White,GRAD,ACOMD
+F,White,AGRI,NFS
+M,White,ENGR,EE
+F,White,BADM,MKT
+M,White,SCI,MATH
+F,White,SCI,BIOL
+F,White,HSE,ELED
+F,White,HSE,SPADM
+M,White,HSE,KIN
+M,White,ENGR,PETE
+F,Multi-Racial,SCI,MBIO
+F,White,GRAD,MSW
+M,White,ENGR,CHE
+M,White,GRAD,PENGL
+M,White,L,JD
+M,White,BADM,MGT
+M,White,ENGR,CE
+M,White,ENGR,CSC
+M,Black or African American,ENGR,ME
+M,Black or African American,GRAD,PMUSC
+M,Hispanic,GRAD,SISDS
+M,White,GRAD,PHRE
+M,White,MCOM,MC
+F,American Indian or Alaskan Native,AGRI,ADP
+M,Asian,BADM,ISDS
+F,Black or African American,GRAD,PEDLR
+F,Black or African American,ADSN,ID
+F,White,GRAD,ECIN
+M,White,ENGR,CM
+M,White,AGRI,NREM
+F,Black or African American,HSS,PSYCS
+F,Asian,GRAD,PEDLR
+M,White,ENGR,BE
+M,Multi-Racial,L,JD
+F,Black or African American,HSE,SPADM
+M,White,ENGR,CM
+M,White,BADM,MKT
+F,White,BADM,ACCT
+F,White,GRAD,PPSYC
+F,Asian,GRAD,MBADM
+F,White,GRAD,MBADM
+M,White,GRAD,MCE
+M,White,ENGR,CSC
+F,White,MCOM,MC
+M,White,HSS,FREN
+F,White,BADM,ACCT
+F,White,ADSN,ARCH
+F,White,HSS,ENGL
+M,Black or African American,GRAD,PEDLR
+M,Hispanic,GRAD,MMUS
+F,White,HSE,ELED
+F,White,AGRI,NREM
+F,White,GRAD,MFAS
+M,Hispanic,BADM,FIN
+F,White,HSE,DUALC
+F,White,MCOM,MC
+F,White,HSS,IS
+F,White,HSE,KIN
+F,White,HSE,CFS
+M,White,BADM,ITF
+F,Asian,SCI,MBIO
+F,White,HSE,KIN
+M,White,L,JDCL
+F,White,GRAD,PENGL
+M,White,ENGR,ME
+M,Black or African American,BADM,FIN
+M,Asian,SCI,MATH
+F,White,ENGR,CHE
+F,White,VETM,VMED
+M,White,ENGR,CSC
+F,White,HSE,PK3CT
+M,White,BADM,MKT
+M,White,ENGR,ME
+M,Black or African American,ENGR,BE
+M,White,HSE,SPADM
+F,Black or African American,BADM,GBUS
+M,White,HSE,KIN
+M,White,ENGR,PETE
+F,White,HSE,KIN
+M,White,ENGR,ME
+F,White,GRAD,ECOUN
+F,White,ENGR,CHE
+F,White,L,JDCL
+F,White,VETM,VMED
+M,White,ENGR,PETE
+F,White,HSS,IS
+M,White,BADM,ACCT
+F,White,MCOM,MC
+M,White,ENGR,ME
+F,White,ENGR,CHE
+F,White,MCOM,MC
+F,Black or African American,HSE,KIN
+F,White,GRAD,MPADM
+M,White,HSS,PSYCS
+F,Hispanic,HSE,ELED
+F,Did not respond,HSS,ENGL
+M,Black or African American,ENGR,CSC
+M,White,HSS,HIST
+F,White,HSS,COMD
+F,White,AGRI,TAM
+M,White,L,JDCL
+F,Hispanic,AGRI,NREM
+F,White,HSS,COMD
+M,White,ENGR,ME
+F,White,GRAD,MSW
+F,Black or African American,HSE,HRE
+F,White,ENGR,CM
+F,White,AGRI,ADP
+M,White,BADM,FIN
+F,White,ADSN,STAR
+F,White,GRAD,MLIS
+F,White,BADM,MKT
+M,White,HSS,SOCL
+F,Black or African American,HSS,ENGL
+M,White,L,JDCL
+M,White,BADM,GBUS
+F,Black or African American,HSS,PSYCS
+M,White,ENGR,ME
+F,White,HSS,POLI
+M,White,GRAD,SACCT
+M,White,SCI,PHYS
+M,White,BADM,FIN
+F,White,GRAD,MATE
+F,White,GRAD,SENVS
+M,White,ENGR,CE
+F,Black or African American,HSS,COMD
+M,Hispanic,ENGR,PETE
+F,White,AGRI,NFS
+F,White,L,JDCL
+F,White,HSE,SPADM
+M,White,ENGR,PETE
+F,White,HSE,DUALC
+F,White,L,JDCL
+M,White,ENGR,CM
+F,White,AGRI,NFS
+M,White,ENGR,CM
+M,White,ENGR,CE
+F,Black or African American,HSE,KIN
+F,White,MCOM,MC
+M,White,HSE,KIN
+M,White,ENGR,PETE
+F,Hispanic,ENGR,CE
+F,White,HSE,KIN
+M,White,AGRI,ENSYS
+M,White,BADM,MGT
+F,Multi-Racial,HSS,PSYCS
+F,Did not respond,GRAD,PBIOL
+F,White,AGRI,TAM
+F,Black or African American,MCOM,MC
+F,White,BADM,MKT
+F,White,SCI,BIOL
+F,White,BADM,ACCT
+M,White,ENGR,CM
+F,Hispanic,HSE,KIN
+M,White,HSE,KIN
+M,White,GRAD,MMUS
+F,White,ADSN,STAR
+F,White,ADSN,ID
+M,Asian,ENGR,PETE
+M,White,ENGR,ME
+M,White,ENGR,CE
+M,White,HSE,SPADM
+M,White,GRAD,PHIST
+M,Hispanic,VETM,VMED
+M,White,ENGR,PETE
+M,White,GRAD,AELRC
+F,White,ENGR,CE
+M,Hispanic,HSS,CMST
+F,Hispanic,GRAD,MMUS
+M,White,BADM,MGT
+F,White,SCI,BCH
+M,White,ENGR,CSC
+M,White,ENGR,PETE
+F,White,HSS,HIST
+M,White,SCI,BIOL
+F,White,ENGR,EVEG
+M,White,GRAD,SPESS
+F,White,GRAD,PENGL
+F,White,BADM,GBUS
+F,White,BADM,MKT
+M,White,BADM,ECONS
+F,White,HSS,COMD
+M,White,GRAD,MBADM
+M,White,ENGR,ME
+M,White,HSS,INTL
+F,White,ENGR,ME
+M,White,HSE,SPADM
+M,White,ENGR,IE
+F,White,BADM,FIN
+F,White,HSE,KIN
+M,White,BADM,ACCT
+F,White,HSE,KIN
+M,Multi-Racial,HSS,PSYCS
+F,Asian,GRAD,MLA
+F,White,MCOM,MC
+F,White,HSS,CMST
+M,White,BADM,ACCT
+F,White,VETM,VMED
+M,White,ENGR,ME
+F,White,HSS,PSYCS
+M,Hispanic,MCOM,MC
+F,White,ADSN,ARCH
+M,White,GRAD,MBADM
+F,White,MCOM,MC
+M,White,BADM,FIN
+M,White,ADSN,ARCH
+M,White,GRAD,CELRC
+M,White,ENGR,PETE
+M,White,SCI,BIOL
+M,White,ENGR,PETE
+F,White,BADM,MGT
+M,White,ENGR,CM
+F,White,BADM,MKT
+F,White,L,JD
+F,White,HSE,ELED
+F,White,MCOM,MC
+M,White,HSS,IS
+F,White,HSS,SOCL
+F,White,MCOM,MC
+F,White,HSE,KIN
+F,Hispanic,ADSN,STAR
+F,White,SCI,BIOL
+M,Hispanic,GRAD,PPOLI
+F,White,L,JDCL
+F,White,BADM,MKT
+F,Asian,HSS,SOCL
+F,White,SCI,BIOL
+F,White,GRAD,PADA
+F,White,HSS,ENGL
+F,White,HSE,KIN
+M,White,GRAD,SKIN
+F,White,GRAD,MATE
+M,White,ENGR,CM
+M,White,ENGR,CM
+M,White,ADSN,ARCH
+M,White,GRAD,PMATH
+M,White,BADM,MKT
+F,Asian,AGRI,NREM
+F,White,AGRI,ADP
+F,Black or African American,GRAD,AELRC
+M,White,HSS,POLI
+F,Hispanic,BADM,MKT
+F,Black or African American,BADM,MKT
+M,White,ENGR,EE
+M,White,AGRI,AGBU
+F,White,ENGR,ME
+M,Hispanic,BADM,ISDS
+F,Multi-Racial,ADSN,STAR
+M,Black or African American,MDA,MUSED
+F,White,HSE,ELED
+F,White,AGRI,PLSYS
+F,White,BADM,FIN
+M,White,ENGR,CE
+M,Black or African American,GRAD,SHRE
+M,White,HSS,IS
+F,White,BADM,ACCT
+M,Asian,GRAD,MEE
+M,White,HSE,SPADM
+F,Black or African American,HSS,PSYCS
+F,White,GRAD,SKIN
+M,White,ENGR,IE
+F,Black or African American,AGRI,TAM
+F,White,AGRI,NFS
+F,Hispanic,HSS,CMST
+M,Hispanic,HSS,SOCL
+F,Hispanic,ENGR,ME
+F,White,ENGR,EE
+F,Black or African American,HSS,POLI
+F,White,ENGR,EVEG
+F,White,MCOM,MC
+M,Hispanic,ENGR,ME
+M,White,ENGR,IE
+M,White,HSS,POLI
+F,White,L,JDCL
+M,White,MCOM,MC
+F,White,BADM,FIN
+F,White,SCI,CHEM
+F,White,HSE,PK3CT
+F,Black or African American,MCOM,MC
+M,White,HSS,HIST
+F,White,L,JDCL
+M,White,HSS,PSYCS
+M,White,AGRI,ANMLS
+F,Black or African American,BADM,MKT
+M,White,L,JDCL
+M,White,HSS,POLI
+M,White,HSS,IS
+M,White,HSE,KIN
+F,White,VETM,VMED
+F,White,SCI,BCH
+F,White,SCI,BIOL
+F,White,AGRI,NFS
+F,White,HSE,KIN
+F,White,AGRI,TAM
+M,White,SCI,BIOL
+M,White,HSS,SOCL
+F,White,SCI,BIOL
+F,Black or African American,MDA,MUSAR
+F,Hispanic,HSS,INTL
+F,White,BADM,FIN
+F,White,ADSN,ID
+M,Asian,ENGR,EE
+M,White,BADM,ACCT
+F,White,BADM,GBUS
+F,White,HSE,KIN
+M,White,HSS,IS
+F,White,BADM,MKT
+M,Black or African American,ENGR,CHE
+M,White,BADM,FIN
+M,White,ADSN,STAR
+F,White,HSS,POLI
+F,White,HSE,ELED
+M,White,ENGR,CSC
+F,White,GRAD,ACOMD
+F,Black or African American,BADM,MKT
+F,White,BADM,MKT
+F,White,HSE,ELED
+M,White,BADM,FIN
+M,White,BADM,ACCT
+F,Black or African American,GRAD,MSW
+F,Multi-Racial,ENGR,EVEG
+F,White,MCOM,MC
+M,White,ENGR,CM
+M,White,BADM,ECONS
+F,White,HSS,COMD
+F,White,HSS,PSYCS
+M,White,BADM,GBUS
+M,White,ENGR,EVEG
+F,White,HSE,KIN
+F,Hispanic,SCI,PHYS
+F,White,HSS,PSYCS
+M,Multi-Racial,ENGR,ME
+M,White,ENGR,ME
+F,White,GRAD,AELRC
+F,White,HSE,KIN
+M,White,SCI,BIOL
+M,White,HSS,PHIL
+M,White,ENGR,PETE
+F,White,HSS,COMD
+F,Asian,AGRI,ANMLS
+M,Multi-Racial,HSE,KIN
+F,White,HSE,KIN
+F,Black or African American,BADM,GBUS
+M,Black or African American,ENGR,PETE
+M,White,ENGR,CSC
+M,White,ADSN,STAR
+M,White,ENGR,PETE
+M,White,ENGR,CSC
+F,White,HSS,ECONA
+F,White,HSE,ELED
+F,White,HSS,INTL
+F,White,BADM,MKT
+M,White,L,JDCL
+M,White,GRAD,PECON
+F,Black or African American,BADM,GBUS
+M,White,HSS,INTL
+M,White,ENGR,EE
+M,White,SCI,BIOL
+M,White,BADM,MKT
+F,White,HSE,SPADM
+M,White,GRAD,SFIN
+F,Hispanic,HSE,KIN
+M,White,HSS,HIST
+F,White,GRAD,MATE
+M,White,HSE,KIN
+F,White,HSS,CMST
+M,White,L,JDCL
+M,White,ENGR,CHE
+M,White,BADM,GBUS
+F,White,HSE,ELED
+F,White,BADM,GBUS
+M,White,HSS,HIST
+F,Black or African American,MCOM,MC
+F,White,HSS,PSYCS
+M,White,HSS,ENGL
+M,Multi-Racial,GRAD,SDMAE
+M,Asian,SCI,BIOL
+M,White,VETM,VMED
+M,White,GRAD,MSW
+F,White,HSS,IS
+F,White,AGRI,ADP
+M,White,ENGR,CE
+F,White,SCI,BIOL
+M,White,BADM,MKT
+F,White,HSS,INTL
+F,White,HSE,KIN
+F,Multi-Racial,HSE,SPADM
+F,White,BADM,MKT
+M,Black or African American,L,JDCL
+M,White,SCI,BIOL
+M,White,HSS,POLI
+F,White,L,JDCL
+M,Asian,GRAD,MBADM
+F,Hispanic,GRAD,MMUS
+M,White,BADM,MKT
+F,White,BADM,FIN
+M,White,ENGR,PETE
+F,Black or African American,AGRI,NFS
+M,White,HSE,SPADM
+M,White,BADM,FIN
+M,White,HSS,POLI
+F,Black or African American,GRAD,PSOCL
+M,White,BADM,FIN
+M,White,ENGR,ME
+M,White,GRAD,DMUS
+M,White,ADSN,ARCH
+M,White,BADM,MKT
+F,White,BADM,FIN
+F,Hispanic,HSS,LIBAR
+F,White,HSS,IS
+F,White,BADM,MKT
+F,White,HSS,IS
+F,Asian,SCI,MATH
+F,Hispanic,SCI,BIOL
+M,White,ENGR,CM
+M,White,HSE,HRE
+F,White,HSE,KIN
+M,White,BADM,FIN
+M,White,BADM,GBUS
+F,White,HSS,PSYCS
+F,Black or African American,HSS,PSYCS
+M,White,HSE,SPADM
+M,White,HSE,KIN
+F,White,HSE,ELED
+M,Black or African American,AGRI,NFS
+M,White,GRAD,PCHEM
+F,White,AGRI,NREM
+M,Did not respond,VETM,VMED
+F,White,GRAD,MARCH
+M,White,BADM,FIN
+M,White,ENGR,IE
+F,White,ENGR,EVEG
+M,White,GRAD,AFAAH
+M,White,ENGR,CM
+F,White,GRAD,DMUS
+F,Black or African American,GRAD,PPSYC
+M,White,L,JDCL
+M,White,GRAD,MMUS
+F,White,MCOM,MC
+F,White,VETM,VMED
+M,White,ENGR,CE
+F,Black or African American,HSS,PSYCS
+F,Black or African American,HSS,POLI
+M,White,L,JDCL
+F,Asian,SCI,BCH
+M,Asian,ENGR,CSC
+M,White,HSS,LIBAR
+F,Asian,HSS,POLI
+M,Asian,GRAD,PMATH
+F,White,GRAD,MSW
+M,Asian,GRAD,MBADM
+F,Black or African American,GRAD,MPADM
+F,White,HSE,PK3CT
+M,White,BADM,ECONS
+M,Asian,ENGR,CHE
+F,White,BADM,MGT
+F,Asian,GRAD,MSYSC
+M,Black or African American,GRAD,MMC
+M,White,L,JDCL
+M,White,ENGR,PETE
+F,Black or African American,HSE,CFS
+F,White,BADM,ACCT
+M,White,ENGR,CHE
+F,White,GRAD,MATE
+M,Black or African American,L,JDCL
+F,White,GRAD,EGFE
+F,White,GRAD,SACCT
+M,White,HSE,KIN
+M,White,GRAD,MSW
+F,White,BADM,GBUS
+F,White,HSS,COMD
+F,Black or African American,GRAD,MSW
+M,White,HSS,ENGL
+F,Hispanic,HSS,COMD
+F,White,ADSN,STAR
+F,White,ADSN,STAR
+M,White,ENGR,IE
+M,White,ENGR,PETE
+M,White,SCI,MATH
+F,Black or African American,HSS,SOCL
+F,White,SCI,BCH
+F,White,SCI,MATH
+M,White,ENGR,CE
+F,White,MCOM,MC
+F,White,HSE,SPADM
+F,White,HSE,PK3CT
+F,Multi-Racial,MCOM,MC
+M,White,SCI,BIOL
+M,White,ENGR,CHE
+M,White,ENGR,CM
+F,Black or African American,BADM,MKT
+M,Asian,GRAD,MBADM
+F,Hispanic,BADM,FIN
+M,White,BADM,MKT
+F,Hispanic,L,JDCL
+F,White,HSS,INTL
+F,Hispanic,HSS,CMST
+F,White,ADSN,ID
+M,Black or African American,HSE,KIN
+F,White,BADM,ACCT
+F,White,GRAD,SKIN
+F,White,HSS,SOCL
+F,Black or African American,GRAD,PCHEM
+F,White,HSS,CMST
+M,White,BADM,FIN
+M,White,BADM,GBUS
+M,White,BADM,FIN
+F,Multi-Racial,BADM,MKT
+F,White,GRAD,SKIN
+F,White,BADM,FIN
+F,White,HSE,ELED
+F,Black or African American,HSS,IS
+M,White,GRAD,PKIN
+M,White,GRAD,SACCT
+F,Black or African American,BADM,GBUS
+M,White,GRAD,MBADM
+F,Black or African American,SCI,BIOL
+M,White,HSE,SPADM
+M,White,GRAD,MSW
+F,White,AGRI,ADP
+F,White,GRAD,AEDCI
+M,White,VETM,VMED
+M,White,HSS,PSYCS
+F,White,ENGR,PETE
+F,White,HSE,SPADM
+F,White,HSS,IS
+F,Multi-Racial,HSS,ANTH
+F,White,HSS,ECONA
+F,White,HSS,ENGL
+M,White,ENGR,PETE
+M,Hispanic,SCI,CHEM
+M,White,ENGR,CSC
+M,Asian,ENGR,CSC
+F,Black or African American,GRAD,MPADM
+M,White,ENGR,PETE
+M,Asian,GRAD,SENTM
+M,White,BADM,ACCT
+M,Asian,GRAD,PCOMP
+M,Black or African American,GRAD,MMUS
+M,White,ENGR,ME
+F,Asian,SCI,BIOL
+F,White,HSS,ENGL
+F,White,HSE,KIN
+F,White,MCOM,MC
+M,Asian,ENGR,PETE
+M,Asian,ENGR,EE
+F,White,GRAD,ACOMD
+F,White,GRAD,MPADM
+F,White,HSS,POLI
+F,White,MCOM,MC
+M,White,ADSN,STAR
+F,Black or African American,BADM,MKT
+F,White,HSE,KIN
+F,White,GRAD,SKIN
+M,White,BADM,MKT
+F,Asian,GRAD,PPETE
+F,White,HSE,KIN
+F,Black or African American,GRAD,MSW
+F,White,MCOM,MC
+F,White,HSE,KIN
+F,Black or African American,GRAD,SACCT
+F,Black or African American,BADM,ACCT
+M,White,SCI,MATH
+F,White,MCOM,MC
+F,White,SCI,CHEM
+F,Black or African American,HSE,SPADM
+F,White,ENGR,CE
+M,White,ENGR,EEC
+M,White,ENGR,CM
+F,White,VETM,VMED
+M,White,HSS,IS
+M,White,BADM,GBUS
+F,White,VETM,VMED
+M,White,ENGR,CE
+M,White,HSE,HRE
+F,White,ENGR,PETE
+M,White,BADM,FIN
+M,White,SCI,BIOL
+F,White,HSS,COMD
+F,Black or African American,HSE,KIN
+F,Hispanic,HSS,PHIL
+M,Black or African American,L,JDCL
+F,Multi-Racial,HSS,PSYCS
+M,White,HSS,POLI
+F,Hispanic,GRAD,SPLHL
+M,White,ENGR,PETE
+F,White,ENGR,PETE
+M,White,HSE,SPADM
+M,White,SCI,BCH
+M,White,ENGR,PETE
+F,White,BADM,MGT
+M,White,HSE,KIN
+F,Multi-Racial,HSS,PSYCS
+F,White,SCI,BIOL
+M,White,HSS,POLI
+F,White,VETM,VMED
+M,White,HSS,POLI
+M,Black or African American,SCI,BIOL
+F,White,GRAD,ACOMD
+F,White,BADM,ACCT
+M,Asian,ENGR,CSC
+F,White,VETM,VMED
+F,White,GRAD,MSW
+M,White,VETM,VMED
+F,White,HSE,HRE
+F,White,ENGR,CHE
+F,White,L,JDCL
+F,White,ENGR,CHE
+F,White,BADM,ISDS
+M,White,HSS,POLI
+M,White,ENGR,IE
+F,White,GRAD,ECOUN
+M,Hispanic,ENGR,IE
+F,Multi-Racial,HSS,SOCL
+M,White,ENGR,PETE
+M,Asian,GRAD,PEE
+F,Hispanic,MCOM,MC
+M,Asian,ENGR,PETE
+F,White,HSE,KIN
+M,White,AGRI,NFS
+F,White,HSS,FREN
+M,Multi-Racial,BADM,FIN
+M,White,ENGR,CHE
+M,Black or African American,GRAD,MSW
+M,White,SCI,CHEM
+F,Asian,GRAD,PPSYC
+M,White,ENGR,ME
+F,White,HSE,KIN
+M,White,ENGR,PETE
+F,Black or African American,HSE,SPADM
+F,White,BADM,MGT
+F,Black or African American,BADM,GBUS
+M,White,ENGR,PETE
+F,White,GRAD,PGA
+F,Black or African American,GRAD,MSW
+M,White,ENGR,ME
+F,White,SCI,BIOL
+M,White,BADM,MGT
+F,White,HSE,ELED
+M,White,ADSN,STAR
+M,White,ENGR,CE
+F,White,GRAD,MBADM
+M,White,ENGR,ME
+M,White,SCE,CES
+F,White,AGRI,NFS
+F,White,GRAD,MSW
+M,Hispanic,HSS,INTL
+F,White,MCOM,MC
+M,White,ENGR,CM
+M,White,GRAD,SISDS
+M,White,BADM,FIN
+F,Black or African American,MDA,THTR
+M,White,GRAD,MBADM
+M,Asian,ADSN,STAR
+F,Black or African American,HSS,SOCL
+F,White,AGRI,ADP
+F,Asian,L,JDCL
+M,White,HSS,PSYCS
+F,White,GRAD,MSW
+F,White,ADSN,ID
+F,White,ENGR,CM
+M,Black or African American,BADM,MGT
+M,White,ENGR,CHE
+M,White,ENGR,EEC
+M,Hispanic,BADM,ACCT
+F,White,MCOM,MC
+F,White,HSS,ENGL
+F,White,HSE,KIN
+F,White,SCI,MBIO
+F,White,HSE,CFS
+M,Black or African American,GRAD,MALA
+F,White,AGRI,ADP
+F,White,HSS,COMD
+F,White,MCOM,MC
+F,White,BADM,MGT
+F,White,HSS,COMD
+F,White,BADM,MKT
+F,White,VETM,VMED
+M,White,ENGR,CE
+M,White,GRAD,SENVS
+M,Hispanic,ENGR,IE
+F,White,BADM,MGT
+M,White,ENGR,PETE
+M,White,ENGR,CSC
+F,White,AGRI,NFS
+M,White,VETM,VMED
+M,Asian,ENGR,PETE
+M,White,HSS,PSYCS
+F,White,GRAD,MATS
+M,White,HSS,INTL
+F,Black or African American,HSS,SOCL
+F,White,BADM,MGT
+F,Multi-Racial,AGRI,NREM
+F,White,BADM,MKT
+M,Multi-Racial,SCI,BIOL
+M,Black or African American,ADSN,ARCH
+F,Asian,BADM,ECONS
+F,White,HSS,ENGL
+F,White,GRAD,ECOUN
+F,White,HSE,KIN
+M,Black or African American,ENGR,PETE
+F,White,HSS,PSYCS
+M,White,ENGR,CM
+F,Black or African American,GRAD,PHRE
+M,White,HSS,PHIL
+M,White,GRAD,MBADM
+F,Black or African American,BADM,FIN
+F,Black or African American,AGRI,TAM
+M,White,HSS,PSYCS
+M,White,ENGR,PETE
+F,Multi-Racial,SCI,BIOL
+M,Hispanic,GRAD,PES
+M,Black or African American,SCI,MBIO
+M,White,GRAD,MSW
+F,White,ADSN,STAR
+F,Black or African American,BADM,MGT
+F,White,ADSN,STAR
+F,Black or African American,BADM,MKT
+M,White,BADM,GBUS
+F,White,HSS,ENGL
+M,Multi-Racial,HSE,SPADM
+F,White,GRAD,MMC
+F,White,ENGR,IE
+M,White,MDA,MUSAR
+F,White,MDA,MUSED
+F,White,HSE,CFS
+M,White,BADM,ACCT
+M,White,L,JDCL
+F,White,HSE,ELED
+F,Black or African American,MCOM,MC
+F,White,AGRI,NFS
+M,White,ENGR,CE
+F,White,SCI,BIOL
+F,Multi-Racial,SCI,BIOL
+M,White,BADM,GBUS
+F,White,ENGR,ME
+F,White,GRAD,MSW
+F,White,HSS,SOCL
+F,White,BADM,ACCT
+F,White,VETM,VMED
+M,White,SCI,BIOL
+F,White,GRAD,PKIN
+M,White,SCI,MBIO
+F,White,AGRI,ADP
+M,White,ENGR,CM
+F,White,BADM,FIN
+M,White,AGRI,NFS
+F,White,AGRI,NFS
+F,White,AGRI,TAM
+M,White,SCI,BCH
+F,White,BADM,MKT
+F,White,SCI,BIOL
+F,White,HSE,ELED
+F,White,MDA,MUSIC
+F,White,ENGR,CHE
+F,White,GRAD,SPESS
+F,White,MCOM,MC
+F,White,HSE,KIN
+F,White,HSS,POLI
+F,Hispanic,GRAD,SVMPB
+F,Asian,HSS,PSYCS
+M,White,ENGR,CHE
+M,Black or African American,HSS,CMST
+M,White,GRAD,SENVS
+F,White,L,JDCL
+F,White,ENGR,CM
+M,White,ADSN,ARCH
+M,Multi-Racial,ENGR,CSC
+F,White,BADM,MKT
+F,White,SCI,BCH
+M,White,BADM,MGT
+F,White,BADM,MGT
+F,Multi-Racial,HSS,ANTH
+F,Black or African American,HSS,ENGL
+M,White,MDA,THTR
+F,White,HSS,COMD
+M,White,VETM,VMED
+F,White,HSE,KIN
+F,Hispanic,BADM,ACCT
+F,White,AGRI,TAM
+F,Asian,ENGR,CSC
+M,Black or African American,HSS,PSYCS
+F,White,AGRI,NREM
+F,White,HSE,KIN
+M,White,SCI,BIOL
+F,White,HSE,KIN
+F,White,SCI,BIOL
+F,White,HSE,KIN
+F,White,HSS,COMD
+M,White,ENGR,ME
+F,White,L,LLM
+F,White,HSE,KIN
+M,Hispanic,HSE,KIN
+F,White,GRAD,ECOUN
+F,Asian,HSS,POLI
+F,White,BADM,GBUS
+M,White,ENGR,ME
+M,White,L,JDCL
+F,White,MCOM,MC
+F,Asian,GRAD,PMCPA
+F,White,ENGR,BE
+M,Hispanic,ENGR,BE
+M,White,BADM,ISDS
+M,White,GRAD,DMUS
+M,White,ADSN,ID
+M,White,ENGR,PETE
+M,White,HSS,LIBAR
+F,White,HSE,ELED
+M,White,ENGR,PETE
+M,White,ENGR,ME
+M,White,ENGR,CHE
+F,Asian,GRAD,MBADM
+F,White,HSE,KIN
+F,White,AGRI,TAM
+F,White,BADM,ACCT
+F,White,ENGR,CE
+F,White,ENGR,BE
+F,White,HSS,COMD
+M,Asian,SCI,BIOL
+F,White,HSE,KIN
+M,White,ENGR,PETE
+F,White,GRAD,APHIL
+F,White,SCI,MBIO
+M,White,ADSN,ARCH
+M,White,SCI,CHEM
+F,Multi-Racial,AGRI,ADP
+F,White,SCI,BIOL
+F,White,HSE,CFS
+F,White,GRAD,SOCS
+F,White,GRAD,MATS
+M,White,ENGR,CM
+F,Multi-Racial,L,JDCL
+M,Multi-Racial,ENGR,PETE
+M,White,BADM,FIN
+M,White,BADM,FIN
+F,White,HSS,SOCL
+F,Hispanic,AGRI,NFS
+M,Hispanic,HSS,PHIL
+M,Hispanic,BADM,MKT
+F,Black or African American,HSS,SOCL
+M,White,GRAD,MBADM
+M,White,L,JDCL
+F,Hispanic,HSS,PSYCS
+M,Multi-Racial,GRAD,AHIST
+M,White,ENGR,CM
+M,White,GRAD,MBADM
+F,White,HSE,KIN
+F,Black or African American,MCOM,MC
+F,White,HSE,HRE
+F,White,SCI,BCH
+F,Black or African American,GRAD,ECIN
+M,White,L,JDCL
+F,Black or African American,GRAD,MSW
+F,White,AGRI,ADP
+M,Black or African American,HSS,IS
+M,White,HSE,KIN
+F,White,SCI,BIOL
+F,White,HSE,KIN
+M,Asian,GRAD,SACCT
+M,White,ENGR,CHE
+M,White,HSS,HIST
+F,Black or African American,HSS,HIST
+F,White,GRAD,MSW
+F,White,ENGR,CHE
+M,White,ENGR,CHE
+M,White,SCI,MATH
+M,White,ENGR,PETE
+M,White,ENGR,PETE
+F,Hispanic,SCI,BIOL
+M,White,ENGR,PETE
+F,White,AGRI,TAM
+F,White,MCOM,MC
+F,White,HSS,CMST
+M,White,SCI,BIOL
+F,Black or African American,HSS,PSYCS
+M,White,ENGR,PETE
+F,Hispanic,HSS,ENGL
+F,White,GRAD,MBAE
+F,White,BADM,MGT
+F,Black or African American,ENGR,EVEG
+M,Asian,GRAD,SENTM
+M,White,GRAD,SFIN
+F,Asian,SCI,BIOL
+F,White,HSS,PSYCS
+F,White,VETM,VMED
+F,Asian,HSE,KIN
+M,White,HSS,HIST
+M,White,BADM,GBUS
+F,White,HSS,PSYCS
+M,White,HSS,SOCL
+F,Black or African American,MDA,THTR
+M,White,ADSN,LA
+F,White,GRAD,MLIS
+F,Black or African American,GRAD,MLIS
+M,White,L,JDCL
+F,White,AGRI,NREM
+M,White,HSS,PHIL
+M,White,GRAD,SENVS
+F,White,BADM,GBUS
+M,White,BADM,ITF
+M,American Indian or Alaskan Native,GRAD,PMATH
+F,White,HSS,SOCL
+M,Hispanic,SCI,MBIO
+M,White,ENGR,CHE
+M,White,ENGR,CM
+M,Did not respond,GRAD,SISDS
+F,Did not respond,VETM,VMED
+M,Black or African American,HSS,PSYCS
+F,Asian,GRAD,PEDLR
+M,Black or African American,BADM,ITF
+M,Asian,ENGR,PETE
+M,Asian,GRAD,SISDS
+F,White,HSE,KIN
+F,Hispanic,BADM,ACCT
+M,White,BADM,MGT
+M,White,ENGR,PETE
+F,White,GRAD,PENGL
+M,White,BADM,ACCT
+M,White,HSS,IS
+F,White,HSS,COMD
+M,White,ENGR,CHE
+F,Multi-Racial,HSS,IS
+F,Asian,GRAD,SISDS
+M,White,GRAD,SACCT
+F,White,GRAD,SACCT
+F,White,SCI,BIOL
+M,White,ENGR,CSC
+F,White,BADM,MGT
+M,Hispanic,MCOM,MC
+F,White,AGRI,TAM
+F,White,BADM,MGT
+M,White,HSE,ATRN
+F,Multi-Racial,GRAD,SHRE
+F,White,MCOM,MC
+M,White,BADM,FIN
+F,White,HSS,ENGL
+M,White,L,JDCL
+F,White,ENGR,BE
+F,Black or African American,HSE,PK3CT
+F,White,HSS,COMD
+F,White,GRAD,MBADM
+M,Black or African American,HSS,PSYCS
+M,White,HSE,KIN
+F,White,HSS,PSYCS
+M,White,SCI,BIOL
+F,White,BADM,MKT
+F,White,ADSN,ID
+F,White,HSS,PSYCS
+F,Asian,HSS,PSYCS
+M,Asian,HSE,KIN
+F,White,GRAD,MBADM
+F,White,HSE,KIN
+F,White,HSE,KIN
+F,White,HSS,ENGL
+M,White,HSS,IS
+M,White,GRAD,PPOLI
+M,White,ENGR,EVEG
+F,White,AGRI,ADP
+F,White,VETM,VMED
+M,White,HSS,IS
+M,White,HSS,SOCL
+M,Asian,GRAD,SGEOG
+M,White,ENGR,CHE
+F,Black or African American,BADM,ACCT
+M,White,HSE,SPADM
+M,White,SCI,BIOL
+F,White,HSE,DUALC
+M,White,MDA,THTR
+F,White,HSE,KIN
+M,White,ENGR,ME
+M,White,ENGR,CM
+M,White,ENGR,CE
+F,Hispanic,L,JDCL
+F,White,HSE,ELED
+M,White,ENGR,IE
+M,White,ENGR,BE
+F,White,HSE,ELED
+M,White,GRAD,PSOCL
+F,Hispanic,HSS,INTL
+F,Black or African American,AGRI,NFS
+F,White,HSS,SOCL
+M,Hispanic,GRAD,DMUS
+F,White,BADM,MKT
+M,White,SCI,PHYS
+M,White,BADM,MKT
+M,White,ENGR,CHE
+F,White,HSE,CFS
+F,White,VETM,VMED
+F,White,HSE,CFS
+M,White,SCI,BIOL
+M,White,HSS,POLI
+M,White,ENGR,PETE
+F,Black or African American,ADSN,STAR
+M,Hispanic,ENGR,CSC
+F,Black or African American,L,JDCL
+F,White,ENGR,BE
+M,White,ENGR,CHE
+F,White,GRAD,SACCT
+F,White,BADM,FIN
+F,Black or African American,GRAD,MPADM
+F,White,HSE,KIN
+F,White,GRAD,MLIS
+F,White,HSS,SOCL
+F,White,SCI,MATH
+M,White,SCI,BIOL
+F,White,HSS,ANTH
+F,American Indian or Alaskan Native,HSE,KIN
+F,White,VETM,VMED
+F,Black or African American,HSS,ENGL
+M,Asian,BADM,MKT
+F,Black or African American,HSS,CMST
+F,Multi-Racial,L,JDCL
+F,Black or African American,HSS,COMD
+M,White,ENGR,CE
+F,White,SCI,BIOL
+M,White,GRAD,MBADM
+F,White,SCI,BIOL
+F,Black or African American,GRAD,MSW
+F,White,VETM,VMED
+F,White,BADM,FIN
+F,White,HSS,HIST
+F,White,GRAD,PPHYS
+M,White,BADM,FIN
+F,White,HSS,PSYCS
+F,White,GRAD,PPSYC
+F,White,HSS,POLI
+F,Multi-Racial,AGRI,NFS
+F,White,HSE,SPADM
+M,White,SCI,PHYS
+F,Black or African American,L,JD
+F,Multi-Racial,MCOM,MC
+M,White,ENGR,CM
+M,Hispanic,ENGR,ME
+F,White,GRAD,ACOMD
+M,White,GRAD,SKIN
+F,White,MCOM,MC
+F,White,HSS,SOCL
+M,White,HSS,CMST
+F,White,HSS,FREN
+F,White,VETM,VMED
+M,Hispanic,AGRI,PLSYS
+F,White,AGRI,ADP
+F,White,AGRI,NREM
+F,White,HSE,CFS
+M,White,ENGR,PETE
+F,White,AGRI,NFS
+F,Did not respond,GRAD,MARCH
+F,Hispanic,AGRI,ENSYS
+F,Black or African American,HSE,KIN
+F,White,SCI,BIOL
+F,White,GRAD,MBADM
+F,Black or African American,HSS,SOCL
+F,White,GRAD,MSW
+M,Black or African American,GRAD,AELRC
+F,White,BADM,GBUS
+F,Hispanic,GRAD,MLIS
+F,White,GRAD,MPADM
+F,Asian,ENGR,CHE
+F,White,HSS,COMD
+F,White,HSE,KIN
+F,White,ENGR,PETE
+F,Black or African American,HSE,ATRN
+F,White,ADSN,STAR
+M,White,BADM,GBUS
+F,White,GRAD,SISDS
+F,Hispanic,AGRI,NFS
+F,White,BADM,MKT
+F,White,ENGR,CE
+F,White,GRAD,MBADM
+M,White,BADM,ACCT
+F,White,L,JDCL
+F,Black or African American,GRAD,MSW
+F,White,GRAD,MPADM
+F,White,GRAD,SACCT
+F,White,GRAD,MEE
+M,White,HSS,SOCL
+M,Black or African American,L,JDCL
+M,White,L,JDCL
+M,White,ENGR,ME
+F,White,ENGR,PETE
+F,White,HSE,PK3CT
+M,White,GRAD,SENVS
+F,White,GRAD,MMUS
+F,Black or African American,BADM,GBUS
+M,Black or African American,HSS,ENGL
+M,White,GRAD,MMUS
+F,White,ENGR,CHE
+F,White,HSS,ENGL
+M,White,MCOM,MC
+F,Asian,SCI,BIOL
+M,Asian,GRAD,MEE
+F,Black or African American,HSE,KIN
+F,Black or African American,GRAD,MATS
+F,White,BADM,MKT
+F,White,BADM,ACCT
+F,White,MCOM,MC
+F,Hispanic,HSS,SOCL
+F,Multi-Racial,BADM,GBUS
+F,White,HSE,ELED
+F,White,BADM,MKT
+M,White,BADM,ITF
+F,White,HSS,ENGL
+F,Asian,GRAD,AELRC
+F,White,GRAD,DMUS
+M,White,BADM,ACCT
+F,Hispanic,L,JDCL
+F,White,HSE,KIN
+F,Black or African American,GRAD,SGEOL
+M,Asian,SCI,BIOL
+M,White,HSS,PSYCS
+F,White,BADM,FIN
+M,White,ENGR,CHE
+M,White,SCI,BIOL
+F,Multi-Racial,HSS,PSYCS
+M,White,GRAD,APHIL
+M,White,L,JDCL
+F,White,BADM,FIN
+M,White,GRAD,PBDM
+F,White,GRAD,MMUS
+M,White,HSE,ATRN
+F,White,BADM,MKT
+F,Asian,GRAD,MLA
+F,White,VETM,VMED
+M,White,GRAD,SACCT
+F,White,ENGR,CHE
+F,White,HSS,ENGL
+M,White,GRAD,PEE
+M,White,MCOM,MC
+M,Asian,GRAD,MBADM
+F,White,MCOM,MC
+M,Black or African American,GRAD,MMUS
+F,White,VETM,VMED
+M,White,BADM,ACCT
+F,White,HSS,SOCL
+F,White,BADM,MKT
+F,White,BADM,MKT
+F,White,BADM,MKT
+F,White,VETM,VMED
+M,White,ENGR,CHE
+F,Black or African American,BADM,ISDS
+M,White,SCI,PHYS
+M,White,ENGR,CM
+M,White,GRAD,AELRC
+F,White,HSE,CFS
+M,Asian,GRAD,MLA
+M,Asian,HSE,KIN
+F,White,VETM,VMED
+F,White,ADSN,STAR
+F,White,SCI,BIOL
+M,Hispanic,BADM,GBUS
+M,Hispanic,GRAD,SACCT
+M,Asian,HSE,SPADM
+M,White,L,JDCL
+F,White,BADM,ITF
+M,White,ENGR,ME
+M,White,ENGR,PETE
+M,Hispanic,ENGR,CHE
+F,Asian,GRAD,MBADM
+F,White,GRAD,ACOMD
+M,White,ENGR,PETE
+M,White,GRAD,SKIN
+F,White,ENGR,ME
+M,Hispanic,HSS,HIST
+F,Black or African American,HSS,POLI
+M,Hispanic,GRAD,SKIN
+M,White,ENGR,IE
+F,Multi-Racial,HSS,POLI
+F,Black or African American,SCI,BIOL
+F,White,HSS,COMD
+M,Asian,GRAD,AEDCI
+F,White,HSS,ENGL
+M,White,HSE,SPADM
+F,Hispanic,VETM,VMED
+M,White,ENGR,EVEG
+M,White,ENGR,ME
+F,White,HSE,KIN
+M,Hispanic,HSS,HIST
+F,Black or African American,HSE,CFS
+F,White,AGRI,NFS
+F,Multi-Racial,BADM,GBUS
+F,White,SCI,BCH
+F,White,ADSN,STAR
+M,White,ENGR,PETE
+F,White,VETM,VMED
+F,White,SCI,BIOL
+F,White,VETM,VMED
+F,Hispanic,MCOM,MC
+M,Did not respond,GRAD,MSW
+F,Hispanic,GRAD,PAGEC
+M,White,ENGR,CM
+F,White,HSE,KIN
+M,White,SCI,MBIO
+M,White,L,JDCL
+M,White,SCI,BIOL
+M,Black or African American,ENGR,ME
+M,White,BADM,ISDS
+M,Black or African American,HSS,INTL
+F,Black or African American,L,JDCL
+M,White,ENGR,CM
+F,White,HSS,CMST
+F,White,BADM,FIN
+F,White,SCI,BIOL
+F,White,SCI,BIOL
+F,White,HSE,KIN
+M,White,HSS,PHIL
+F,White,VETM,VMED
+F,Asian,SCI,BIOL
+M,White,ENGR,CHE
+F,White,SCE,CES
+M,White,HSS,ENGL
+M,Asian,BADM,FIN
+M,White,ENGR,PETE
+M,White,BADM,ISDS
+F,White,ADSN,STAR
+F,White,AGRI,NFS
+F,White,SCI,MATH
+F,White,BADM,ACCT
+F,White,BADM,MKT
+M,White,BADM,ECONS
+F,White,ENGR,PETE
+F,White,HSE,ELED
+M,Black or African American,ENGR,EE
+F,White,HSE,ELED
+F,White,HSS,ANTH
+M,White,BADM,FIN
+F,White,HSE,KIN
+F,White,GRAD,MBADM
+F,White,GRAD,MBADM
+F,Black or African American,MCOM,MC
+M,Black or African American,BADM,ACCT
+F,White,HSS,ENGL
+F,White,HSS,ENGL
+F,White,GRAD,MPADM
+M,White,BADM,ACCT
+M,White,MDA,MUSED
+M,White,ENGR,CSC
+M,White,ENGR,EVEG
+M,White,ENGR,PETE
+M,White,GRAD,SACCT
+F,White,L,JDCL
+F,White,HSE,KIN
+M,White,GRAD,SACCT
+F,White,HSS,PSYCS
+M,Asian,GRAD,SADPA
+M,White,BADM,FIN
+F,White,BADM,ACCT
+F,White,HSE,KIN
+M,Asian,HSE,KIN
+F,White,HSS,COMD
+M,Asian,GRAD,MBADM
+M,White,SCE,CES
+M,White,ENGR,CSC
+F,White,BADM,ISDS
+M,White,BADM,FIN
+F,White,BADM,ACCT
+F,White,HSS,HIST
+M,White,SCI,MATH
+M,Hispanic,ADSN,STAR
+M,White,L,JDCL
+F,White,MCOM,MC
+M,Hispanic,MCOM,MC
+F,White,VETM,VMED
+F,Black or African American,MDA,THTR
+M,White,ENGR,EVEG
+F,White,L,JDCL
+F,Hispanic,VETM,VMED
+F,White,GRAD,DMUS
+M,White,SCI,BIOL
+F,White,ENGR,CE
+M,White,ENGR,PETE
+M,White,VETM,VMED
+F,White,GRAD,PMATH
+F,Hispanic,HSS,PSYCS
+F,White,HSS,PHIL
+F,White,HSS,ENGL
+F,White,MCOM,MC
+F,Black or African American,BADM,GBUS
+M,White,HSE,SPADM
+M,White,SCI,BIOL
+F,White,HSS,ENGL
+M,White,ENGR,PETE
+F,White,HSS,COMD
+F,White,GRAD,SKIN
+M,White,ENGR,PETE
+M,Hispanic,ENGR,CE
+M,White,ENGR,ME
+M,White,SCI,GEOLP
+M,White,GRAD,SPESS
+F,White,HSS,INTL
+M,White,HSE,SPADM
+F,White,HSE,ELED
+F,White,GRAD,SKIN
+F,White,HSE,ELED
+M,Hispanic,HSS,PSYCS
+F,White,HSS,PSYCS
+F,White,BADM,ACCT
+M,White,ENGR,ME
+F,American Indian or Alaskan Native,HSS,POLI
+F,Asian,GRAD,MBADM
+F,Black or African American,HSS,PSYCS
+M,Asian,ENGR,CSC
+F,Black or African American,ENGR,CHE
+F,Multi-Racial,HSS,COMD
+F,White,HSS,LIBAR
+M,Black or African American,MDA,THTR
+F,White,HSS,COMD
+F,White,BADM,MKT
+F,Hispanic,GRAD,PHRE
+M,White,BADM,FIN
+M,Black or African American,BADM,FIN
+M,White,ENGR,ME
+F,White,MDA,MUSED
+M,White,HSE,SPADM
+F,White,ENGR,ME
+F,White,BADM,MKT
+M,White,HSS,IS
+F,White,GRAD,MSW
+M,White,BADM,MGT
+M,White,HSS,POLI
+F,White,SCI,MATH
+F,Black or African American,SCI,BIOL
+M,White,VETM,VMED
+M,White,GRAD,PMATH
+F,White,SCI,BIOL
+M,White,BADM,GBUS
+F,White,HSS,INTL
+M,White,HSS,ENGL
+F,White,MCOM,MC
+M,Asian,HSE,KIN
+F,White,GRAD,ECOUN
+F,White,MCOM,MC
+F,White,AGRI,ADP
+F,White,ENGR,CHE
+M,White,HSE,KIN
+M,Hispanic,GRAD,MALA
+F,White,HSS,COMD
+M,White,L,JDCL
+F,Asian,GRAD,MSYSC
+M,White,ENGR,CSC
+F,White,ENGR,PETE
+F,White,SCI,BIOL
+M,Asian,HSS,SOCL
+M,White,MCOM,MC
+F,White,SCI,BIOL
+F,White,HSS,COMD
+F,White,L,JDCL
+F,Asian,BADM,ACCT
+F,White,ENGR,PETE
+M,Multi-Racial,SCI,CHEM
+M,Hispanic,HSE,KIN
+F,Black or African American,HSS,COMD
+F,White,GRAD,MBADM
+F,White,SCI,BCH
+F,Hispanic,MCOM,MC
+F,White,VETM,VMED
+M,White,GRAD,SACCT
+F,White,MCOM,MC
+F,White,HSS,ENGL
+F,White,HSE,ATRN
+F,White,HSE,ELED
+M,White,ENGR,CE
+F,Black or African American,SCI,BIOL
+M,White,GRAD,PSOCL
+F,White,SCI,BIOL
+M,White,ENGR,CSC
+F,White,GRAD,SGEOL
+F,White,SCI,BIOL
+M,Black or African American,HSS,ANTH
+F,Hispanic,HSS,ENGL
+M,White,GRAD,MFACW
+F,White,MCOM,MC
+M,Hispanic,ENGR,CE
+F,White,HSE,ELED
+F,White,AGRI,ADP
+F,White,BADM,MGT
+M,White,ENGR,CHE
+M,White,ENGR,ME
+F,Asian,HSE,KIN
+F,White,SCI,BCH
+M,White,HSE,KIN
+M,White,L,JDCL
+F,White,ENGR,PETE
+M,Multi-Racial,BADM,GBUS
+M,White,SCI,BIOL
+F,White,HSE,ELED
+F,Asian,HSE,PK3CT
+F,White,BADM,FIN
+F,White,HSS,ANTH
+F,White,HSS,PSYCS
+F,Hispanic,HSE,KIN
+M,White,SCI,BCH
+M,White,SCI,GEOLP
+F,White,HSS,ENGL
+F,White,HSE,KIN
+F,White,GRAD,ACOMD
+M,Multi-Racial,ENGR,ME
+M,Hispanic,GRAD,SFIN
+F,White,GRAD,ESPE
+M,White,BADM,FIN
+M,Hispanic,ENGR,PETE
+M,White,BADM,ISDS
+M,White,ENGR,PETE
+M,White,BADM,ACCT
+M,White,HSS,ENGL
+M,White,BADM,FIN
+M,White,ENGR,EE
+F,White,BADM,MKT
+M,White,ENGR,ME
+F,White,BADM,ACCT
+F,Black or African American,HSE,PK3CT
+F,White,ADSN,ID
+F,Black or African American,AGRI,TAM
+F,Asian,GRAD,MBADM
+F,Black or African American,L,JDCL
+F,White,HSE,ELED
+M,Hispanic,GRAD,DMUS
+F,White,GRAD,PPSYC
+M,Asian,GRAD,PMCPA
+M,White,L,JD
+F,White,VETM,VMED
+F,White,GRAD,MSW
+M,White,BADM,ISDS
+M,White,HSS,SOCL
+M,Multi-Racial,GRAD,SKIN
+M,White,ENGR,ME
+F,Black or African American,HSE,ELED
+F,White,MCOM,MC
+F,Black or African American,GRAD,MMC
+F,White,HSS,POLI
+M,White,ENGR,PETE
+M,White,BADM,GBUS
+M,Black or African American,ADSN,STAR
+F,White,HSE,KIN
+F,Hispanic,GRAD,MSW
+M,Did not respond,ENGR,PETE
+F,White,BADM,MKT
+F,White,GRAD,EGFE
+F,Asian,SCI,BIOL
+M,White,ENGR,PETE
+F,White,GRAD,MSW
+F,White,BADM,ACCT
+F,White,BADM,MKT
+F,White,SCI,CHEM
+M,White,ENGR,PETE
+M,White,ENGR,CHE
+M,White,BADM,GBUS
+M,White,BADM,FIN
+M,Multi-Racial,L,JDCL
+F,White,GRAD,AHIST
+M,White,BADM,ACCT
+M,White,HSE,KIN
+F,Hispanic,BADM,GBUS
+M,White,BADM,FIN
+F,White,VETM,VMED
+M,White,ENGR,CSC
+F,White,HSE,KIN
+F,Asian,GRAD,PPSYC
+F,White,ENGR,CHE
+F,White,HSS,SOCL
+M,White,MCOM,MC
+M,White,L,JDCL
+M,Asian,GRAD,PBDM
+F,White,HSS,CMST
+M,White,MDA,MUSED
+M,White,ENGR,CE
+F,White,HSE,KIN
+M,White,BADM,FIN
+M,White,ENGR,ME
+F,White,MCOM,MC
+F,American Indian or Alaskan Native,GRAD,AANTH
+F,White,BADM,ITF
+M,White,BADM,FIN
+F,White,BADM,MKT
+F,White,SCI,MATH
+F,White,AGRI,AGED
+F,Hispanic,MCOM,MC
+F,White,HSE,KIN
+F,White,ENGR,IE
+F,White,BADM,ACCT
+F,Hispanic,GRAD,PPLHL
+M,White,BADM,GBUS
+F,White,SCI,BIOL
+F,White,HSS,PSYCS
+M,White,SCI,MBIO
+M,White,GRAD,SADPA
+M,White,BADM,ACCT
+M,White,GRAD,SADPA
+F,White,HSS,COMD
+M,White,SCI,BIOL
+M,White,SCI,BIOL
+M,White,ENGR,EE
+F,White,ADSN,ARCH
+M,White,SCI,BIOL
+F,White,GRAD,MATE
+M,White,SCI,BIOL
+F,White,GRAD,PEDLR
+F,White,L,LLM
+M,White,ENGR,CM
+M,White,SCI,CHEM
+M,White,BADM,GBUS
+M,White,HSS,SPAN
+M,White,ENGR,PETE
+F,Hispanic,MCOM,MC
+F,White,MCOM,MC
+M,White,ENGR,PETE
+F,White,ENGR,IE
+F,White,HSE,ATRN
+M,White,BADM,FIN
+M,White,BADM,ACCT
+M,White,ENGR,CSC
+F,White,HSE,ELED
+F,White,HSE,KIN
+F,White,ENGR,CE
+M,White,MDA,MUSAR
+M,White,ENGR,PETE
+F,Hispanic,ADSN,ID
+F,Hispanic,ENGR,IE
+F,Black or African American,SCI,BIOL
+M,White,GRAD,MMUS
+F,Black or African American,HSS,ENGL
+M,White,BADM,GBUS
+M,White,ENGR,ME
+M,White,GRAD,DMUS
+F,White,MCOM,MC
+F,Multi-Racial,BADM,ACCT
+M,White,SCI,CHEM
+M,White,ENGR,PETE
+M,White,ENGR,CHE
+F,White,HSE,CFS
+M,White,ENGR,ME
+F,Hispanic,ENGR,CM
+F,White,HSE,KIN
+F,White,BADM,MGT
+F,Black or African American,ENGR,CSC
+F,White,AGRI,TAM
+F,White,MCOM,MC
+F,White,HSS,CMST
+M,White,L,JDCL
+M,White,MDA,MUSIC
+F,White,BADM,ISDS
+F,White,BADM,ACCT
+M,White,GRAD,SKIN
+M,White,GRAD,MFACW
+M,White,GRAD,MFATH
+F,Black or African American,HSS,ENGL
+F,White,HSS,COMD
+F,White,GRAD,AHIST
+F,White,GRAD,ACOMD
+M,White,HSE,KIN
+M,Asian,GRAD,MFATH
+F,White,BADM,MKT
+F,Asian,GRAD,MMUS
+F,White,L,JDCL
+M,Black or African American,HSE,KIN
+F,White,HSE,KIN
+F,White,HSE,KIN
+F,White,SCI,BIOL
+F,White,HSS,PSYCS
+F,Black or African American,HSS,PSYCS
+F,White,HSS,ANTH
+F,White,HSS,IS
+M,Black or African American,BADM,ACCT
+F,White,HSS,CMST
+M,White,MDA,THTR
+M,White,BADM,ACCT
+F,White,HSS,ENGL
+M,Asian,ENGR,EE
+F,White,SCI,BCH
+M,White,HSS,PSYCS
+M,White,MDA,THTR
+F,White,HSS,PSYCS
+F,White,ENGR,CM
+F,Black or African American,HSE,KIN
+F,White,SCE,CES
+F,White,HSE,KIN
+M,White,GRAD,MBADM
+M,Hispanic,ENGR,BE
+M,Black or African American,GRAD,MMUS
+F,Multi-Racial,BADM,MGT
+M,White,L,JDCL
+M,White,AGRI,AGBU
+M,Asian,GRAD,PME
+F,Multi-Racial,AGRI,NREM
+M,White,HSS,IS
+M,White,HSS,POLI
+F,Asian,L,JDCL
+M,White,HSE,SPADM
+F,White,BADM,MKT
+F,White,HSS,PSYCS
+F,White,AGRI,NFS
+M,White,ENGR,CM
+M,White,HSS,ENGL
+F,White,L,JD
+M,Hispanic,GRAD,MBADM
+M,White,ENGR,PETE
+M,White,ENGR,PETE
+M,Multi-Racial,HSS,IS
+F,White,SCI,BIOL
+F,White,GRAD,MSW
+M,Asian,GRAD,MMUS
+F,Black or African American,HSS,ANTH
+F,White,HSS,FREN
+F,White,MCOM,MC
+M,White,AGRI,NREM
+F,White,GRAD,PPSYC
+F,White,BADM,MKT
+M,White,ENGR,CHE
+F,White,GRAD,MBADM
+F,White,MCOM,MC
+M,White,BADM,ISDS
+F,Hispanic,HSS,INTL
+F,White,HSS,SOCL
+F,Asian,ADSN,LA
+M,Black or African American,HSE,SPADM
+F,Asian,GRAD,PENVS
+F,White,HSS,POLI
+M,White,HSS,FREN
+F,Multi-Racial,HSS,HIST
+M,Hispanic,SCI,BCH
+M,White,ENGR,CM
+F,Asian,GRAD,MBADM
+M,White,L,JDCL
+F,Multi-Racial,BADM,MKT
+M,White,HSE,SPADM
+F,White,HSE,PK3CT
+F,White,HSS,CMST
+M,White,HSS,POLI
+F,White,HSS,COMD
+M,White,HSS,PSYCS
+M,White,MCOM,MC
+M,Black or African American,HSS,IS
+F,White,SCI,CHEM
+M,White,ENGR,CM
+M,White,SCI,BCH
+M,White,GRAD,MBADM
+M,White,GRAD,SACCT
+M,White,HSE,ELED
+F,White,HSE,SPADM
+M,White,ENGR,IE
+M,White,HSE,KIN
+M,Did not respond,GRAD,PENGL
+M,Black or African American,ADSN,STAR
+F,White,HSS,ENGL
+F,Hispanic,BADM,ISDS
+M,White,HSS,HIST
+F,White,GRAD,MSW
+M,White,BADM,FIN
+F,White,MDA,THTR
+F,White,MCOM,MC
+M,Hispanic,HSS,POLI
+F,Hispanic,AGRI,NFS
+M,White,HSE,KIN
+F,Black or African American,GRAD,MSW
+M,Hispanic,HSS,CMST
+F,White,ADSN,ARCH
+F,White,HSE,ATRN
+M,White,GRAD,MBADM
+F,White,HSS,ENGL
+M,White,SCI,BIOL
+M,White,BADM,FIN
+M,Black or African American,BADM,MGT
+M,White,SCE,CES
+M,White,L,JDCL
+F,White,MCOM,MC
+M,White,SCI,BIOL
+M,White,GRAD,SACCT
+M,Multi-Racial,L,JDCL
+F,White,BADM,MKT
+M,White,AGRI,NREM
+F,White,BADM,MGT
+F,White,HSS,PSYCS
+F,White,HSS,GEOGS
+F,White,GRAD,MSW
+M,White,HSE,KIN
+M,White,MCOM,MC
+F,White,ADSN,STAR
+F,White,HSS,INTL
+M,White,BADM,GBUS
+M,White,BADM,GBUS
+F,Black or African American,GRAD,SKIN
+F,White,HSE,PK3CT
+F,White,HSE,ELED
+F,White,HSE,KIN
+M,White,BADM,ACCT
+F,White,MCOM,MC
+M,White,ENGR,CE
+F,Black or African American,HSE,KIN
+F,White,HSE,SPADM
+F,White,AGRI,TAM
+M,White,ENGR,CE
+F,Black or African American,GRAD,PHRE
+M,Asian,SCI,BIOL
+M,White,ENGR,ME
+F,White,BADM,FIN
+F,White,HSE,KIN
+M,White,BADM,MKT
+M,White,ENGR,PETE
+F,White,ADSN,ID
+M,White,BADM,FIN
+F,White,ENGR,EVEG
+F,White,BADM,MKT
+F,White,ADSN,ID
+M,Black or African American,HSE,KIN
+F,White,GRAD,MBADM
+M,White,SCI,BIOL
+M,White,GRAD,SGEOL
+F,White,ENGR,CHE
+F,White,HSS,ANTH
+F,White,HSS,LIBAR
+M,White,ENGR,PETE
+F,White,BADM,GBUS
+M,White,BADM,FIN
+F,White,HSS,COMD
+F,White,BADM,ACCT
+M,White,ENGR,ME
+M,Hispanic,ENGR,EE
+M,White,BADM,FIN
+F,White,MCOM,MC
+M,White,L,JDCL
+M,White,HSS,PHIL
+F,White,GRAD,PEDLR
+F,Hispanic,GRAD,SPESS
+F,Multi-Racial,HSE,KIN
+F,White,HSS,POLI
+F,White,HSE,ELED
+F,White,HSE,HRE
+M,White,VETM,VMED
+M,White,BADM,ITF
+M,White,L,JDCL
+M,Black or African American,HSS,CMST
+F,Asian,SCI,BIOL
+M,White,BADM,GBUS
+M,Hispanic,HSS,IS
+M,White,SCI,PHYS
+F,White,HSS,ANTH
+M,White,L,JDCL
+M,White,ENGR,CE
+F,White,HSE,DUALC
+M,White,MCOM,MC
+M,Asian,GRAD,PBCH
+M,White,ENGR,ME
+F,Black or African American,GRAD,MPADM
+F,White,GRAD,SACCT
+F,White,SCI,BIOL
+F,White,BADM,FIN
+M,Multi-Racial,BADM,GBUS
+F,White,AGRI,PLSYS
+M,Asian,ENGR,CHE
+M,White,GRAD,MBADM
+M,White,HSE,KIN
+F,White,BADM,MKT
+M,White,ENGR,BE
+F,White,BADM,ITF
+F,White,L,JDCL
+M,White,ENGR,EVEG
+F,White,ENGR,PETE
+F,White,AGRI,ADP
+M,Multi-Racial,ENGR,PETE
+M,White,BADM,GBUS
+M,White,ENGR,CE
+F,Black or African American,MCOM,MC
+F,Multi-Racial,ENGR,IE
+F,Black or African American,ENGR,EEC
+M,White,SCI,BCH
+F,Hispanic,HSE,KIN
+M,White,BADM,ITF
+M,White,ENGR,EE
+F,White,BADM,GBUS
+F,White,SCI,BIOL
+F,White,VETM,VMED
+F,White,HSS,LIBAR
+M,Black or African American,MCOM,MC
+F,White,SCI,MBIO
+M,White,BADM,ECONS
+M,White,ENGR,CHE
+M,White,GRAD,DMUS
+F,White,HSE,CFS
+M,White,ENGR,PETE
+F,White,GRAD,AANTH
+F,White,HSS,LIBAR
+M,White,HSS,POLI
+M,Black or African American,BADM,ACCT
+F,Black or African American,BADM,ACCT
+F,White,MCOM,MC
+M,Black or African American,BADM,FIN
+F,Multi-Racial,HSE,SPADM
+F,White,HSS,FREN
+M,White,L,JDCL
+F,White,BADM,ACCT
+M,Black or African American,HSS,POLI
+M,White,ENGR,CM
+M,White,GRAD,MBADM
+F,White,BADM,MKT
+F,Native Hawaiian or Other Pacific Islander,HSS,COMD
+F,Asian,BADM,GBUS
+M,White,ENGR,ME
+M,White,SCI,MATH
+M,White,ENGR,CM
+F,White,BADM,MKT
+M,White,HSE,KIN
+M,White,GRAD,MMUS
+M,White,L,JDCL
+F,White,AGRI,TAM
+M,White,ENGR,PETE
+F,Asian,BADM,ACCT
+M,Multi-Racial,ENGR,CHE
+M,White,L,JD
+F,White,BADM,ACCT
+F,Black or African American,HSE,KIN
+M,Did not respond,GRAD,SENTM
+M,White,GRAD,PGA
+M,Asian,ENGR,PETE
+F,Asian,SCI,BIOL
+M,White,BADM,MKT
+M,White,HSS,HIST
+M,White,GRAD,MBADM
+M,White,BADM,MKT
+F,White,HSE,CFS
+F,White,HSS,HIST
+M,White,HSE,SPADM
+M,Black or African American,HSE,KIN
+F,Black or African American,HSS,COMD
+F,White,HSE,PK3CT
+F,White,HSE,ELED
+F,White,HSS,ENGL
+F,White,MCOM,MC
+M,White,HSE,SPADM
+F,White,ENGR,EVEG
+M,White,ADSN,STAR
+F,White,ENGR,PETE
+F,Asian,SCI,BIOL
+F,White,GRAD,MMUS
+F,Black or African American,HSS,SOCL
+F,White,HSE,KIN
+F,White,GRAD,MPADM
+F,Hispanic,GRAD,PCMST
+M,White,ENGR,CSC
+M,White,BADM,MKT
+M,Asian,HSS,SOCL
+M,Hispanic,HSS,INTL
+M,Black or African American,HSS,INTL
+M,White,ADSN,STAR
+F,White,HSS,POLI
+M,Black or African American,BADM,GBUS
+F,White,AGRI,NREM
+M,White,HSE,SPADM
+M,White,L,JDCL
+F,White,BADM,MKT
+F,White,BADM,ACCT
+M,White,GRAD,SFIN
+F,White,HSS,PSYCS
+M,White,ENGR,CSC
+F,White,GRAD,SACCT
+F,Black or African American,ADSN,STAR
+F,White,HSS,PSYCS
+M,White,HSE,HRE
+F,White,MCOM,MC
+M,White,ENGR,CHE
+F,White,BADM,GBUS
+M,White,BADM,ITF
+M,White,GRAD,SISDS
+F,Hispanic,GRAD,AELRC
+M,White,ENGR,ME
+F,White,AGRI,NFS
+F,White,SCI,CHEM
+F,White,ADSN,STAR
+M,White,HSE,KIN
+F,White,BADM,MGT
+F,White,HSS,CMST
+F,White,HSE,KIN
+M,White,HSS,LIBAR
+F,White,GRAD,SGEOL
+M,White,ENGR,ME
+M,White,ENGR,CM
+F,Hispanic,BADM,GBUS
+M,White,ENGR,PETE
+M,White,VETM,VMED
+F,White,HSE,KIN
+F,White,HSS,PSYCS
+F,White,HSE,ELED
+F,Asian,GRAD,DMUS
+F,White,MDA,THTR
+F,White,MCOM,MC
+F,White,GRAD,AHISP
+F,White,GRAD,ACOMD
+F,White,BADM,ISDS
+M,White,HSE,SPADM
+F,Black or African American,BADM,ECONS
+M,White,HSS,IS
+M,White,SCI,BIOL
+M,White,GRAD,MPADM
+F,Black or African American,L,JDCL
+F,Hispanic,GRAD,PCOMP
+F,White,BADM,GBUS
+F,Black or African American,HSS,SOCL
+M,Hispanic,AGRI,AGBU
+F,Black or African American,HSE,SPADM
+F,Multi-Racial,SCI,BCH
+F,White,AGRI,NFS
+F,White,L,JDCL
+F,White,SCI,BIOL
+M,White,ENGR,EE
+M,Asian,GRAD,SPLHL
+F,White,HSE,HRE
+M,Hispanic,SCI,BCH
+M,White,ENGR,CE
+F,Asian,SCI,BIOL
+F,White,HSS,INTL
+F,White,GRAD,MLIS
+F,White,L,JD
+M,White,BADM,MKT
+M,White,ENGR,CHE
+F,Hispanic,GRAD,PEDLR
+F,Black or African American,HSE,PK3CT
+F,White,ENGR,CHE
+M,White,GRAD,SACCT
+F,Asian,VETM,VMED
+F,White,GRAD,MSW
+M,White,ENGR,PETE
+M,Did not respond,GRAD,MMUS
+F,Multi-Racial,VETM,VMED
+F,White,MDA,MUSIC
+M,White,GRAD,SGEOL
+F,White,BADM,MGT
+M,White,ENGR,CHE
+F,White,HSS,CMST
+M,White,GRAD,SKIN
+M,White,GRAD,MBADM
+F,Did not respond,VETM,VMED
+M,White,ENGR,CE
+M,White,ENGR,CHE
+F,White,GRAD,MSW
+F,White,HSS,PSYCS
+F,White,GRAD,SRNR
+F,White,GRAD,MBADM
+M,White,GRAD,SACCT
+M,White,GRAD,SACCT
+F,White,AGRI,NFS
+M,White,ENGR,PETE
+M,Black or African American,ENGR,PETE
+F,White,AGRI,AGED
+M,Black or African American,ENGR,CSC
+F,White,BADM,MKT
+M,Black or African American,GRAD,PEDLR
+F,White,SCE,CES
+M,White,BADM,ACCT
+F,White,HSS,COMD
+F,White,BADM,MGT
+F,White,SCI,CHEM
+F,White,HSE,ELED
+F,White,MCOM,MC
+F,White,GRAD,AELRC
+F,White,BADM,MKT
+F,White,HSE,CFS
+F,White,HSS,LIBAR
+F,White,GRAD,MSW
+F,White,MCOM,MC
+M,White,SCI,BIOL
+F,Asian,GRAD,SACCT
+F,White,HSS,PSYCS
+M,White,ENGR,ME
+F,White,ENGR,EVEG
+M,White,HSE,SPADM
+F,Asian,GRAD,PACCT
+F,White,L,JDCL
+F,White,BADM,MKT
+F,White,BADM,ISDS
+M,Asian,ENGR,ME
+F,White,HSE,DUALC
+F,White,HSE,ELED
+M,Black or African American,GRAD,PEDCI
+F,White,VETM,VMED
+F,White,HSS,PSYCS
+F,Asian,BADM,ACCT
+F,White,ENGR,CHE
+M,White,ENGR,EE
+F,Hispanic,HSS,ANTH
+M,Black or African American,GRAD,PEDLR
+F,White,GRAD,MSW
+F,White,GRAD,MSW
+M,White,BADM,FIN
+M,White,ENGR,ME
+M,Black or African American,HSS,IS
+M,White,AGRI,ADP
+F,White,MCOM,MC
+F,White,BADM,MKT
+F,Black or African American,HSE,SPADM
+F,Asian,ENGR,EVEG
+M,White,SCI,BIOL
+M,Black or African American,GRAD,MMC
+M,White,BADM,MKT
+F,Hispanic,HSS,ANTH
+F,White,HSS,POLI
+F,White,SCI,BIOL
+M,White,ENGR,CHE
+F,White,SCI,BIOL
+F,Hispanic,HSE,CFS
+F,White,VETM,VMED
+M,Hispanic,HSS,CMST
+M,White,ADSN,ID
+F,White,ADSN,STAR
+M,White,SCI,GEOLP
+M,Asian,GRAD,MBADM
+F,White,HSS,SOCL
+F,White,HSS,PSYCS
+F,Black or African American,ENGR,BE
+M,Asian,ENGR,ME
+M,White,HSS,POLI
+F,White,GRAD,PENVS
+F,White,BADM,MKT
+M,Multi-Racial,BADM,FIN
+M,White,SCI,BIOL
+F,White,HSE,DUALC
+M,White,L,JDCL
+M,White,HSE,SPADM
+M,Hispanic,GRAD,PPSYC
+M,Black or African American,HSS,POLI
+M,White,ENGR,CM
+F,White,ENGR,PETE
+F,White,HSE,DUALC
+F,White,HSE,ELED
+F,Hispanic,HSS,POLI
+M,White,HSS,HIST
+M,White,SCI,GEOLP
+F,Multi-Racial,BADM,FIN
+F,White,HSS,IS
+F,American Indian or Alaskan Native,SCI,BIOL
+M,White,GRAD,SKIN
+F,White,SCI,BCH
+F,White,HSE,KIN
+F,White,BADM,ACCT
+M,White,HSS,PHIL
+F,White,GRAD,MBADM
+M,White,ENGR,ME
+F,White,HSS,SOCL
+M,White,BADM,MKT
+M,White,HSS,POLI
+M,White,ENGR,CSC
+F,White,ENGR,CHE
+M,White,GRAD,DMUS
+F,White,ENGR,ME
+F,White,L,JD
+M,White,ENGR,PETE
+F,Black or African American,GRAD,MFATH
+M,White,GRAD,SACCT
+F,Black or African American,HSE,KIN
+F,Black or African American,GRAD,CEDCI
+M,White,ENGR,CE
+M,White,ENGR,ME
+F,Asian,GRAD,PME
+F,White,MCOM,MC
+F,White,AGRI,NFS
+F,Black or African American,BADM,MKT
+M,Black or African American,SCI,MBIO
+F,Black or African American,HSE,DUALC
+F,White,AGRI,NFS
+F,White,VETM,VMED
+F,White,HSS,CMST
+M,Black or African American,ENGR,EEC
+F,Black or African American,GRAD,MSW
+F,White,HSE,CFS
+F,White,HSE,HRE
+M,White,HSS,IS
+M,Asian,ADSN,LA
+M,White,MCOM,MC
+F,Asian,GRAD,MLA
+M,White,BADM,FIN
+F,Black or African American,BADM,MKT
+F,Black or African American,HSE,ATRN
+F,White,L,JDCL
+F,White,BADM,ISDS
+F,Multi-Racial,SCI,BIOL
+F,White,AGRI,TAM
+F,White,MCOM,MC
+F,American Indian or Alaskan Native,GRAD,SADPA
+F,White,HSS,POLI
+M,White,HSS,FREN
+M,Black or African American,BADM,ISDS
+F,Hispanic,SCI,BIOL
+M,White,ENGR,ME
+F,White,L,JDCL
+M,White,L,JDCL
+F,White,BADM,MGT
+F,White,ENGR,CHE
+M,White,BADM,ECONS
+M,White,BADM,ISDS
+F,White,ENGR,CHE
+F,White,HSS,PSYCS
+M,White,GRAD,MBADM
+F,White,BADM,GBUS
+M,White,SCI,GEOLP
+F,Black or African American,GRAD,AELRC
+F,White,HSS,ANTH
+M,White,GRAD,PCHEM
+F,White,AGRI,NFS
+M,White,BADM,ACCT
+F,White,ENGR,PETE
+F,White,VETM,VMED
+F,White,ENGR,PETE
+M,Black or African American,HSE,SPADM
+M,Asian,GRAD,MLA
+M,White,ADSN,STAR
+F,White,ENGR,ME
+F,White,HSE,ELED
+F,White,HSS,PSYCS
+M,Hispanic,ADSN,ARCH
+M,White,BADM,FIN
+F,Hispanic,ENGR,PETE
+F,White,GRAD,MFAS
+M,White,ENGR,PETE
+M,Black or African American,BADM,MGT
+F,White,HSE,CFS
+M,White,ENGR,CE
+M,White,L,JDCL
+F,White,GRAD,PENGL
+M,White,BADM,GBUS
+M,Black or African American,ADSN,STAR
+M,White,GRAD,PMATH
+F,Multi-Racial,GRAD,PGEOL
+M,White,SCI,MATH
+F,White,HSS,ENGL
+M,Black or African American,AGRI,NREM
+F,Hispanic,HSE,KIN
+M,White,HSS,PHIL
+F,White,GRAD,AELRC
+M,White,GRAD,MBADM
+M,White,HSE,KIN
+F,Black or African American,MCOM,MC
+F,White,AGRI,ADP
+M,White,GRAD,MSW
+F,White,L,JDCL
+F,White,HSE,KIN
+M,White,BADM,MKT
+F,White,L,JDCL
+M,White,GRAD,SACCT
+M,White,ENGR,EE
+M,White,HSS,ENGL
+F,Hispanic,ENGR,PETE
+F,White,GRAD,SACCT
+F,White,HSE,KIN
+M,White,BADM,GBUS
+M,White,SCI,MATH
+M,American Indian or Alaskan Native,AGRI,ENSYS
+F,White,ENGR,CSC
+F,White,HSE,KIN
+F,White,HSS,SOCL
+F,Asian,GRAD,MBADM
+M,White,HSS,ENGL
+M,White,ENGR,PETE
+M,White,GRAD,MBADM
+F,White,HSE,KIN
+M,White,SCI,MBIO
+M,White,BADM,ITF
+F,White,ENGR,BE
+M,Asian,ENGR,CSC
+F,Multi-Racial,GRAD,MNS
+M,White,BADM,FIN
+M,Black or African American,GRAD,MFATH
+F,White,BADM,GBUS
+F,White,BADM,MKT
+F,White,GRAD,ACOMD
+F,White,SCI,BCH
+F,White,BADM,MGT
+F,White,HSE,KIN
+M,White,GRAD,MFACW
+F,White,BADM,ACCT
+F,Multi-Racial,HSS,ENGL
+F,White,GRAD,MBADM
+F,White,HSS,ENGL
+M,White,HSE,SPADM
+M,White,HSS,ENGL
+F,White,BADM,ACCT
+M,Multi-Racial,HSS,POLI
+F,White,L,JD
+M,White,AGRI,NREM
+F,White,SCI,BIOL
+M,White,HSS,LIBAR
+F,White,HSE,KIN
+M,Asian,ADSN,LA
+F,White,HSE,SPADM
+M,White,BADM,ACCT
+M,White,ENGR,CM
+F,White,HSS,PSYCS
+F,Did not respond,HSE,CFS
+M,Asian,GRAD,MBADM
+M,Did not respond,VETM,VMED
+F,White,ENGR,PETE
+M,White,ENGR,EEC
+M,White,BADM,MKT
+F,White,BADM,FIN
+F,White,HSS,PSYCS
+F,Black or African American,HSE,KIN
+M,White,VETM,VMED
+M,White,GRAD,MBADM
+F,American Indian or Alaskan Native,AGRI,TAM
+M,White,ENGR,ME
+F,White,HSE,KIN
+M,White,L,JDCL
+M,White,ENGR,ME
+M,White,HSE,KIN
+F,Black or African American,HSS,IS
+F,White,VETM,VMED
+F,Hispanic,BADM,ISDS
+F,White,GRAD,PVMCS
+F,White,GRAD,MSW
+M,White,AGRI,NREM
+M,Did not respond,MCOM,MC
+F,Black or African American,MCOM,MC
+F,Multi-Racial,ENGR,CHE
+F,White,GRAD,SACCT
+F,White,ENGR,IE
+M,Hispanic,HSS,SOCL
+F,White,ENGR,CE
+F,White,HSS,IS
+M,Hispanic,GRAD,MBADM
+F,White,HSE,DUALC
+F,Hispanic,AGRI,ADP
+F,White,HSS,ENGL
+M,White,GRAD,PCSC
+M,White,GRAD,SFIN
+M,White,ENGR,PETE
+F,White,BADM,MKT
+M,Hispanic,ENGR,CE
+M,White,BADM,MKT
+F,White,HSE,PK3CT
+F,White,HSE,ELED
+M,White,BADM,FIN
+M,White,ENGR,ME
+M,Black or African American,ENGR,EE
+F,White,GRAD,PPSYC
+M,White,ENGR,PETE
+F,White,VETM,VMED
+M,Asian,SCI,BCH
+F,White,MDA,MUSED
+F,White,GRAD,MBADM
+F,Black or African American,SCI,CHEM
+F,White,HSS,PSYCS
+M,White,HSS,ENGL
+F,White,HSE,ELED
+M,White,AGRI,ENSYS
+F,White,ADSN,ARCH
+F,Asian,AGRI,TAM
+F,White,ENGR,EVEG
+M,White,BADM,ECONS
+F,Black or African American,ADSN,ID
+M,White,GRAD,MPADM
+M,White,HSS,CMST
+M,White,MCOM,MC
+M,White,HSS,IS
+F,White,MCOM,MC
+M,White,BADM,ACCT
+F,White,HSS,PSYCS
+F,White,L,JDCL
+F,White,GRAD,SACCT
+M,Black or African American,HSS,IS
+M,White,ENGR,ME
+M,White,SCI,BIOL
+F,White,GRAD,SACCT
+F,White,BADM,MKT
+F,Asian,ENGR,CSC
+F,White,HSE,KIN
+F,White,HSE,KIN
+F,White,SCI,BIOL
+F,White,GRAD,CELRC
+F,White,HSS,PSYCS
+F,White,HSS,ENGL
+M,Asian,GRAD,PCHEN
+F,White,VETM,VMED
+F,White,HSS,PSYCS
+M,White,GRAD,SACCT
+F,Black or African American,HSS,CMST
+F,White,HSS,ENGL
+M,Black or African American,GRAD,MSW
+F,Hispanic,MCOM,MC
+M,Black or African American,HSS,IS
+F,White,HSE,CFS
+F,White,GRAD,MATS
+M,Hispanic,HSS,PSYCS
+M,White,BADM,ACCT
+M,White,MCOM,MC
+F,White,GRAD,MBADM
+M,White,L,JDCL
+F,White,GRAD,ACOMD
+F,White,GRAD,MARCH
+M,White,L,JD
+M,White,GRAD,PPESS
+M,White,ENGR,ME
+F,White,GRAD,AHISP
+F,White,AGRI,NFS
+M,Asian,SCI,BIOL
+F,White,ENGR,CHE
+M,White,GRAD,MPADM
+M,White,HSS,CMST
+M,White,GRAD,PCHEM
+F,White,ADSN,ID
+F,White,HSE,KIN
+M,White,ENGR,CE
+M,Black or African American,HSS,IS
+F,White,MCOM,MC
+F,White,HSS,ENGL
+F,Black or African American,AGRI,ANMLS
+F,White,SCI,BIOL
+M,Black or African American,HSS,ENGL
+F,Black or African American,VETM,VMED
+F,Multi-Racial,HSS,HIST
+F,Black or African American,HSE,CFS
+M,White,ENGR,IE
+F,White,MCOM,MC
+F,White,AGRI,NREM
+F,Hispanic,SCI,BIOL
+F,White,GRAD,SISDS
+F,Asian,L,JDCL
+M,White,BADM,MGT
+M,White,BADM,ECONS
+F,Asian,GRAD,MES
+M,White,HSS,CMST
+M,White,ENGR,CHE
+M,White,ENGR,PETE
+F,White,MCOM,MC
+F,White,GRAD,AELRC
+F,White,MCOM,MC
+F,White,AGRI,TAM
+F,White,GRAD,MSW
+F,White,ADSN,ARCH
+M,White,HSS,PHIL
+F,White,HSS,PSYCS
+F,White,MCOM,MC
+F,White,GRAD,SACCT
+M,White,ENGR,CM
+M,White,ENGR,PETE
+F,Did not respond,VETM,VMED
+F,White,AGRI,ADP
+M,Hispanic,SCI,MATH
+M,White,SCI,MATH
+M,White,BADM,GBUS
+F,White,BADM,MKT
+F,Hispanic,HSS,PSYCS
+F,White,HSE,KIN
+F,Hispanic,AGRI,PLSYS
+F,Hispanic,HSE,DUALC
+M,Did not respond,HSS,IS
+M,White,GRAD,MBADM
+F,White,HSS,COMD
+M,White,ENGR,ME
+F,White,SCI,BIOL
+M,Asian,GRAD,MBADM
+F,Did not respond,VETM,VMED
+M,White,ENGR,CE
+F,White,HSS,COMD
+M,White,HSS,PSYCS
+M,White,GRAD,PES
+F,White,ENGR,EVEG
+M,White,L,JDCL
+F,White,ADSN,ID
+F,Black or African American,GRAD,SKIN
+M,Hispanic,SCI,PHYS
+F,Black or African American,HSE,CFS
+M,White,BADM,FIN
+F,Black or African American,GRAD,MCE
+M,White,GRAD,MARCH
+M,White,MDA,MUSIC
+F,White,BADM,FIN
+F,White,BADM,FIN
+F,White,SCI,BIOL
+F,White,HSS,POLI
+M,White,GRAD,SISDS
+F,White,HSE,KIN
+M,White,HSS,POLI
+F,Did not respond,HSS,PSYCS
+F,White,BADM,ECONS
+M,White,GRAD,SKIN
+F,White,HSE,PK3CT
+F,White,BADM,MGT
+F,White,BADM,MGT
+F,White,HSS,SOCL
+F,Black or African American,HSE,KIN
+M,Black or African American,GRAD,PPPCP
+F,White,AGRI,NFS
+F,Multi-Racial,HSE,KIN
+F,White,GRAD,MSW
+F,White,HSS,LIBAR
+M,White,GRAD,SFIN
+M,White,SCI,BIOL
+F,White,GRAD,MATE
+F,White,HSE,KIN
+F,White,HSE,ELED
+F,White,AGRI,TAM
+M,Black or African American,HSS,PSYCS
+F,White,GRAD,MPADM
+M,White,ADSN,LA
+F,White,GRAD,SKIN
+F,White,VETM,VMED
+F,White,BADM,ACCT
+F,White,MCOM,MC
+M,White,ENGR,PETE
+F,White,ENGR,ME
+F,White,MCOM,MC
+M,White,GRAD,PMATH
+F,White,HSS,POLI
+F,White,ADSN,STAR
+F,White,L,JDCL
+M,Black or African American,HSS,SOCL
+F,Hispanic,HSE,CFS
+M,White,L,JD
+F,White,AGRI,ADP
+F,Black or African American,GRAD,PPSYC
+F,Hispanic,GRAD,PPSYC
+M,White,GRAD,SENTM
+F,White,ENGR,CHE
+F,White,MCOM,MC
+M,Hispanic,ENGR,CHE
+F,White,MCOM,MC
+F,White,HSS,CMST
+M,White,AGRI,PLSYS
+F,White,HSE,KIN
+M,White,L,JDCL
+F,White,GRAD,MFATH
+M,White,MCOM,MC
+M,White,BADM,ACCT
+F,Asian,GRAD,MLA
+F,White,HSS,COMD
+F,White,BADM,FIN
+F,White,HSS,IS
+F,White,GRAD,MSW
+F,White,HSE,PK3CT
+M,White,ENGR,ME
+M,White,BADM,MKT
+M,White,MCOM,MC
+M,White,ENGR,CM
+F,White,GRAD,MFAS
+F,White,HSE,KIN
+F,White,HSS,PSYCS
+M,White,HSS,ENGL
+F,White,GRAD,SHRE
+F,Multi-Racial,SCI,BIOL
+M,Black or African American,ADSN,ID
+M,Asian,GRAD,SFIN
+M,White,SCI,BIOL
+M,White,AGRI,NFS
+M,Hispanic,ENGR,CM
+F,White,GRAD,PPSYC
+M,White,ADSN,STAR
+F,Hispanic,HSS,PSYCS
+F,Hispanic,HSE,HRE
+M,White,SCI,PHYS
+F,White,GRAD,MFAS
+F,White,VETM,VMED
+F,White,HSE,KIN
+F,Hispanic,HSS,PSYCS
+F,White,MCOM,MC
+M,White,HSS,SOCL
+M,White,L,JDCL
+M,Asian,ENGR,PETE
+M,White,BADM,FIN
+F,White,HSS,HIST
+F,White,HSE,ELED
+M,White,MDA,THTR
+F,Multi-Racial,HSE,KIN
+M,White,L,JDCL
+M,White,BADM,MKT
+F,White,HSS,IS
+F,Black or African American,HSS,CMST
+F,White,GRAD,MMC
+F,Black or African American,BADM,MKT
+F,White,ENGR,CSC
+F,White,BADM,MKT
+F,White,HSS,ENGL
+F,Native Hawaiian or Other Pacific Islander,HSS,PSYCS
+F,White,HSS,COMD
+F,White,BADM,FIN
+F,White,MCOM,MC
+M,White,ENGR,ME
+F,White,HSE,KIN
+M,White,HSS,POLI
+M,Asian,GRAD,PCHEM
+M,Hispanic,GRAD,MATS
+F,White,HSE,PK3CT
+F,Multi-Racial,HSS,COMD
+F,White,MCOM,MC
+M,White,BADM,ECONS
+F,White,GRAD,MPADM
+M,White,ENGR,CHE
+M,White,GRAD,MPADM
+M,White,ENGR,ME
+F,White,SCI,BIOL
+M,White,ADSN,LA
+F,Black or African American,GRAD,PPETE
+F,White,L,JDCL
+F,White,L,JDCL
+F,White,HSS,SOCL
+M,Hispanic,L,JDCL
+F,White,MDA,THTR
+F,Asian,ADSN,STAR
+M,White,SCI,BIOL
+F,White,BADM,MGT
+F,White,HSS,FREN
+F,White,BADM,MKT
+F,White,BADM,MKT
+F,White,BADM,GBUS
+M,Asian,GRAD,PEE
+F,White,SCI,CHEM
+F,White,HSE,KIN
+M,White,ENGR,CM
+F,White,HSS,POLI
+M,Hispanic,ENGR,CE
+M,White,L,JDCL
+F,White,AGRI,ADP
+M,White,L,JDCL
+F,White,ADSN,ID
+F,Multi-Racial,MDA,THTR
+M,White,SCI,BIOL
+F,Asian,HSE,KIN
+M,White,ENGR,CE
+F,White,HSE,ELED
+M,White,GRAD,PPHYS
+M,White,HSS,PSYCS
+M,White,ENGR,CM
+F,Black or African American,HSE,ELED
+M,White,BADM,MKT
+F,White,HSS,PSYCS
+F,White,BADM,GBUS
+F,White,GRAD,MSW
+F,White,AGRI,ADP
+M,White,ENGR,PETE
+F,White,GRAD,MATS
+F,White,BADM,MKT
+F,Black or African American,L,JD
+M,Asian,GRAD,PEE
+F,Black or African American,GRAD,AELRC
+M,White,L,JDCL
+F,White,GRAD,SRNR
+M,White,ENGR,ME
+F,White,MCOM,MC
+M,White,ENGR,CHE
+F,White,HSE,ELED
+M,White,GRAD,MFACW
+F,White,HSS,PSYCS
+F,White,AGRI,NREM
+F,White,VETM,VMED
+F,White,HSS,ENGL
+M,White,ENGR,PETE
+F,White,AGRI,NFS
+F,White,BADM,ISDS
+M,White,HSE,SPADM
+F,Black or African American,GRAD,MSW
+F,White,MCOM,MC
+M,White,ENGR,PETE
+M,White,HSE,SPADM
+F,White,HSE,KIN
+F,White,BADM,MKT
+F,White,VETM,VMED
+M,White,L,JDCL
+F,White,BADM,MGT
+F,Black or African American,GRAD,PEDLR
+F,White,MDA,MUSED
+F,Black or African American,GRAD,PAGEC
+M,White,ENGR,CM
+F,White,ENGR,PETE
+M,White,BADM,ACCT
+F,White,BADM,FIN
+M,White,ENGR,CE
+M,White,VETM,VMED
+M,Black or African American,BADM,MKT
+M,Asian,BADM,ACCT
+F,White,HSE,DUALC
+M,White,BADM,FIN
+F,White,HSS,SOCL
+F,White,BADM,FIN
+F,White,VETM,VMED
+F,Black or African American,HSE,SPADM
+M,White,ENGR,CSC
+F,White,BADM,FIN
+M,White,GRAD,MATS
+F,White,GRAD,MATS
+F,White,HSS,INTL
+F,White,SCI,BIOL
+M,White,ENGR,PETE
+M,White,BADM,MKT
+M,White,ENGR,ME
+F,Hispanic,GRAD,MATS
+M,White,BADM,MGT
+F,White,HSE,SPADM
+M,Black or African American,ENGR,CHE
+F,White,VETM,VMED
+M,White,HSS,INTL
+M,White,BADM,ACCT
+F,Multi-Racial,L,JD
+M,Hispanic,HSS,ANTH
+F,White,GRAD,MCSC
+M,White,SCI,PHYS
+M,White,BADM,ACCT
+F,White,BADM,GBUS
+F,White,BADM,FIN
+F,White,BADM,ACCT
+M,White,L,JDCL
+M,White,ENGR,PETE
+M,White,AGRI,NFS
+F,White,HSS,SOCL
+F,White,HSE,CFS
+M,Hispanic,HSS,ENGL
+F,White,SCI,BIOL
+F,Hispanic,BADM,ACCT
+F,Black or African American,MCOM,MC
+F,Black or African American,BADM,MKT
+M,White,BADM,FIN
+M,White,ENGR,ME
+F,White,HSS,COMD
+F,Hispanic,HSS,SOCL
+M,White,ENGR,CHE
+F,White,ADSN,STAR
+F,White,GRAD,MSW
+F,White,GRAD,MMC
+M,White,ENGR,CE
+M,White,ENGR,IE
+F,Asian,GRAD,MAPST
+M,White,SCI,BCH
+M,White,ENGR,ME
+F,White,HSS,LIBAR
+F,White,SCI,MATH
+F,White,HSS,POLI
+M,White,SCI,BIOL
+F,White,AGRI,ADP
+F,White,ENGR,CHE
+M,White,HSE,SPADM
+F,White,L,JDCL
+M,White,ENGR,BE
+M,White,AGRI,NREM
+M,White,SCI,GEOLP
+M,Asian,GRAD,MLA
+F,White,HSS,CMST
+M,White,BADM,GBUS
+F,White,HSS,ENGL
+F,White,ADSN,ARCH
+M,White,GRAD,PEE
+F,Hispanic,ENGR,CSC
+F,White,HSE,KIN
+M,White,GRAD,MSW
+M,White,HSE,SPADM
+M,White,ENGR,CSC
+M,White,ENGR,EVEG
+F,White,HSE,CFS
+F,White,HSS,SOCL
+F,White,GRAD,MSW
+F,White,GRAD,MATS
+M,White,ENGR,CM
+F,White,GRAD,ACOMD
+M,White,MCOM,MC
+M,White,BADM,MKT
+M,White,L,JDCL
+M,White,SCI,BCH
+F,Asian,GRAD,MLA
+M,White,BADM,FIN
+F,White,HSS,IS
+M,White,ENGR,EEC
+F,White,HSE,PK3CT
+F,White,HSS,IS
+F,White,SCI,BIOL
+F,White,BADM,MKT
+F,Black or African American,BADM,ECONS
+F,White,HSS,CMST
+F,White,GRAD,AANTH
+M,White,L,JDCL
+M,White,ENGR,PETE
+M,White,ENGR,ME
+F,Hispanic,HSS,PSYCS
+F,White,GRAD,SACCT
+F,Hispanic,ENGR,PETE
+F,White,SCI,BIOL
+M,White,ENGR,CSC
+M,White,MCOM,MC
+F,White,HSE,KIN
+F,Asian,HSE,KIN
+M,White,ADSN,STAR
+M,White,GRAD,MME
+M,White,HSE,SPADM
+M,Black or African American,GRAD,PGA
+M,White,SCI,BIOL
+F,Black or African American,GRAD,MPADM
+F,White,HSS,COMD
+M,White,HSS,POLI
+M,Black or African American,ENGR,CE
+F,White,GRAD,MMUS
+F,White,HSS,SOCL
+F,White,SCI,BIOL
+F,White,BADM,ACCT
+M,White,SCI,BIOL
+M,White,ENGR,CSC
+F,White,HSS,ANTH
+M,White,AGRI,AGBU
+F,White,GRAD,MSW
+F,White,BADM,ACCT
+F,Black or African American,ENGR,CSC
+M,White,SCI,BIOL
+F,White,GRAD,ECOUN
+F,Hispanic,HSE,SPADM
+F,White,HSS,PSYCS
+M,White,ENGR,IE
+M,White,HSS,PSYCS
+F,White,HSS,COMD
+M,White,ENGR,PETE
+F,White,BADM,FIN
+M,White,BADM,GBUS
+M,White,ENGR,CE
+M,White,HSS,POLI
+F,Black or African American,BADM,MKT
+F,White,SCI,BIOL
+M,Black or African American,ADSN,LA
+F,White,HSE,CFS
+M,White,BADM,MKT
+M,White,ENGR,CM
+M,Hispanic,BADM,ACCT
+F,White,GRAD,ESPE
+F,White,MDA,MUSED
+F,White,HSE,KIN
+M,Hispanic,HSS,PSYCS
+M,White,ENGR,PETE
+M,Hispanic,ENGR,EVEG
+M,White,BADM,MKT
+F,White,GRAD,SISDS
+M,White,L,JDCL
+M,White,MDA,MUSED
+F,White,MDA,THTR
+F,White,ADSN,ARCH
+F,White,VETM,VMED
+F,White,GRAD,AHIST
+F,Asian,AGRI,NREM
+F,White,BADM,MKT
+M,White,HSS,SOCL
+F,White,L,JDCL
+F,White,HSS,PSYCS
+M,White,L,JDCL
+F,White,GRAD,MBADM
+M,White,ENGR,CHE
+F,White,AGRI,NREM
+F,Black or African American,GRAD,MMC
+M,White,ENGR,ME
+M,White,GRAD,PNFS
+M,White,ENGR,PETE
+F,White,HSS,CMST
+F,Hispanic,ENGR,EVEG
+M,White,GRAD,MPADM
+M,White,L,JDCL
+F,White,ENGR,ME
+F,White,HSS,ENGL
+F,White,ADSN,STAR
+F,White,HSE,DUALC
+F,White,HSS,COMD
+F,Black or African American,BADM,MKT
+F,Multi-Racial,SCI,BIOL
+F,White,HSE,KIN
+F,Multi-Racial,ENGR,CSC
+F,White,HSS,PSYCS
+M,Multi-Racial,GRAD,PENGL
+F,Hispanic,BADM,GBUS
+F,White,HSE,HRE
+M,White,ADSN,LA
+F,White,HSE,ELED
+F,White,HSE,KIN
+F,White,BADM,MKT
+F,White,BADM,MKT
+F,Black or African American,ENGR,PETE
+M,Black or African American,GRAD,MSW
+M,White,HSS,ENGL
+F,White,BADM,MKT
+F,White,VETM,VMED
+M,White,ENGR,CM
+F,White,SCI,BIOL
+M,White,MCOM,MC
+F,Hispanic,L,JDCL
+M,White,HSS,CMST
+M,White,GRAD,SACCT
+M,White,BADM,MKT
+F,Asian,HSE,KIN
+F,Asian,SCI,BIOL
+F,White,SCI,BIOL
+M,White,ADSN,ARCH
+M,Black or African American,BADM,FIN
+F,Black or African American,HSE,HRE
+M,White,SCI,BIOL
+M,White,BADM,MKT
+M,White,ENGR,PETE
+F,Hispanic,ENGR,BE
+M,White,ENGR,PETE
+M,White,L,JDCL
+F,Asian,GRAD,PPESS
+M,White,ENGR,IE
+F,Black or African American,BADM,MGT
+M,White,ENGR,ME
+F,White,BADM,MKT
+F,White,BADM,GBUS
+F,White,SCE,CES
+F,White,HSS,HIST
+F,White,MCOM,MC
+F,White,HSE,PK3CT
+M,White,AGRI,NREM
+F,White,GRAD,MMUS
+M,White,HSE,KIN
+F,Did not respond,GRAD,POCS
+M,White,ENGR,PETE
+F,Multi-Racial,MCOM,MC
+F,White,HSE,KIN
+M,White,HSE,KIN
+F,White,HSS,ENGL
+M,White,ENGR,EE
+F,White,BADM,FIN
+F,Asian,GRAD,MBADM
+M,Black or African American,GRAD,AELRC
+M,White,HSE,SPADM
+F,Black or African American,GRAD,MSW
+F,White,BADM,MGT
+M,White,BADM,FIN
+F,White,ENGR,PETE
+M,White,ENGR,CM
+M,White,GRAD,PBIOL
+M,White,ENGR,PETE
+M,Black or African American,MDA,MUSAR
+F,White,L,JDCL
+F,Hispanic,HSS,IS
+F,Black or African American,ENGR,PETE
+F,Multi-Racial,HSS,ENGL
+M,Did not respond,GRAD,PPETE
+M,White,L,JD
+M,White,ENGR,PETE
+M,White,GRAD,SOCS
+F,Asian,BADM,MKT
+F,White,MCOM,MC
+M,Black or African American,ENGR,CHE
+M,White,L,JD
+M,White,ENGR,ME
+F,White,MCOM,MC
+F,White,HSE,KIN
+F,White,BADM,MKT
+M,White,L,JDCL
+F,White,VETM,VMED
+M,White,ENGR,PETE
+F,White,L,JDCL
+M,White,BADM,ACCT
+M,White,HSS,PSYCS
+F,White,HSS,HIST
+F,Black or African American,HSS,HIST
+M,White,HSS,IS
+M,White,ENGR,CE
+F,White,GRAD,SACCT
+M,Multi-Racial,GRAD,SKIN
+M,White,GRAD,MBADM
+M,Hispanic,GRAD,MBADM
+F,Did not respond,VETM,VMED
+M,White,SCI,BIOL
+F,Multi-Racial,BADM,MGT
+M,White,L,JD
+F,White,BADM,ECONS
+F,Black or African American,HSS,PSYCS
+M,White,ENGR,EE
+M,White,BADM,MKT
+M,White,BADM,MKT
+M,White,ENGR,CHE
+M,White,L,JDCL
+M,White,L,JDCL
+F,White,HSE,PK3CT
+F,White,HSE,KIN
+F,White,SCI,BIOL
+F,White,BADM,ACCT
+M,White,SCI,MATH
+M,White,ENGR,BE
+F,White,ENGR,CSC
+M,White,ENGR,CE
+M,Black or African American,HSS,HIST
+M,White,GRAD,MMUS
+F,Asian,SCI,BIOL
+M,White,BADM,FIN
+F,White,BADM,FIN
+M,White,MDA,THTR
+M,White,ENGR,CE
+F,White,L,JDCL
+M,White,GRAD,SHRE
+M,White,GRAD,SGEOL
+F,White,HSS,PSYCS
+M,Black or African American,BADM,MGT
+F,White,GRAD,AELRC
+F,White,HSE,KIN
+F,White,ENGR,CE
+M,Black or African American,SCI,BIOL
+M,White,ENGR,PETE
+F,White,HSE,CFS
+F,White,HSE,ELED
+F,White,HSE,KIN
+M,White,ENGR,PETE
+M,White,BADM,GBUS
+M,Asian,GRAD,MME
+F,Multi-Racial,L,JDCL
+M,White,AGRI,NREM
+M,White,HSS,PSYCS
+M,White,ENGR,PETE
+M,White,ENGR,CSC
+M,White,HSE,KIN
+M,White,SCI,MBIO
+F,White,ADSN,STAR
+F,White,AGRI,NFS
+M,Hispanic,GRAD,SACCT
+F,White,HSS,IS
+F,Multi-Racial,MCOM,MC
+F,White,HSE,CFS
+F,White,MDA,THTR
+F,White,BADM,MKT
+F,White,VETM,VMED
+M,Black or African American,HSE,KIN
+M,White,ENGR,PETE
+F,White,HSS,SOCL
+F,White,AGRI,ADP
+F,White,HSE,ELED
+F,White,L,JDCL
+F,White,HSE,KIN
+M,White,SCI,GEOLP
+M,White,BADM,ACCT
+F,Black or African American,BADM,MKT
+F,White,ENGR,PETE
+M,White,ENGR,EVEG
+F,White,GRAD,SENTM
+F,White,SCI,BIOL
+M,Black or African American,SCI,BIOL
+M,White,BADM,GBUS
+F,White,ENGR,EVEG
+M,White,ENGR,PETE
+F,White,HSE,SPADM
+M,White,ENGR,ME
+F,White,HSS,ANTH
+F,White,GRAD,MATE
+F,White,L,JDCL
+F,White,SCI,BIOL
+F,White,HSS,COMD
+F,Black or African American,GRAD,MSW
+F,White,L,JDCL
+F,Hispanic,HSS,COMD
+M,Asian,SCI,BIOL
+F,White,BADM,MGT
+M,White,SCI,BCH
+M,Hispanic,ENGR,CE
+F,White,HSE,CFS
+F,White,HSE,CFS
+F,White,HSS,PSYCS
+M,Hispanic,ENGR,PETE
+F,White,BADM,MKT
+F,White,ENGR,IE
+F,Asian,GRAD,MLA
+F,White,HSS,IS
+M,White,ENGR,CE
+M,White,ENGR,PETE
+M,White,ENGR,IE
+M,White,GRAD,MSW
+M,White,HSS,IS
+F,White,HSS,CMST
+M,White,ENGR,ME
+M,White,HSS,HIST
+F,White,ENGR,CE
+F,White,AGRI,ADP
+M,White,ENGR,CE
+F,White,BADM,MKT
+F,Black or African American,HSS,ENGL
+M,Asian,HSS,PHIL
+M,Black or African American,ENGR,PETE
+F,White,SCI,BIOL
+M,White,ENGR,PETE
+F,Black or African American,GRAD,PCHEM
+F,White,GRAD,SISDS
+M,White,BADM,GBUS
+M,Black or African American,HSS,CMST
+F,White,SCI,BIOL
+M,White,SCI,BIOL
+F,White,BADM,FIN
+F,White,HSS,SOCL
+F,White,ENGR,CHE
+M,White,GRAD,MAPST
+M,White,ENGR,CHE
+M,White,GRAD,SOCS
+M,White,GRAD,MSYSC
+M,Black or African American,HSS,ENGL
+F,Hispanic,ENGR,CHE
+F,White,GRAD,ECIN
+M,White,ADSN,STAR
+M,White,ENGR,CM
+M,White,BADM,MKT
+F,White,HSE,KIN
+M,White,ENGR,EE
+M,Black or African American,ENGR,CHE
+M,White,HSS,ENGL
+F,White,HSS,COMD
+F,White,HSE,KIN
+F,White,HSS,CMST
+F,White,VETM,VMED
+F,White,HSS,HIST
+M,White,ENGR,ME
+M,White,ENGR,ME
+F,Black or African American,HSE,CFS
+F,White,HSS,PSYCS
+F,Black or African American,BADM,GBUS
+M,Did not respond,GRAD,PMATH
+F,White,SCI,BIOL
+M,White,SCI,BIOL
+M,White,ENGR,ME
+F,Hispanic,HSS,PSYCS
+F,White,ENGR,CHE
+M,Asian,ENGR,ME
+M,White,ENGR,CE
+M,White,ENGR,CM
+F,White,GRAD,ECOUN
+F,White,GRAD,MLIS
+F,White,HSS,CMST
+M,White,BADM,MGT
+M,White,L,JD
+M,White,AGRI,NREM
+F,White,HSE,CFS
+F,Black or African American,BADM,ISDS
+M,Asian,ENGR,PETE
+M,White,BADM,GBUS
+M,Asian,BADM,ISDS
+M,White,L,JDCL
+F,White,GRAD,CEDCI
+F,White,HSS,CMST
+M,White,ENGR,PETE
+M,Multi-Racial,ENGR,PETE
+F,White,BADM,MKT
+M,White,SCI,BCH
+M,White,ENGR,PETE
+F,White,HSS,PSYCS
+F,White,BADM,ACCT
+F,White,VETM,VMED
+F,Black or African American,HSS,CMST
+F,White,MDA,THTR
+F,White,AGRI,ADP
+F,Multi-Racial,VETM,VMED
+F,White,HSE,KIN
+M,White,ENGR,CM
+M,Asian,ENGR,EE
+M,White,ENGR,PETE
+F,White,SCI,BCH
+F,White,HSS,POLI
+M,White,ADSN,ARCH
+M,White,L,LLM
+M,White,HSE,SPADM
+F,Black or African American,HSS,PSYCS
+F,Black or African American,GRAD,ECOUN
+F,White,MCOM,MC
+M,Hispanic,HSS,SOCL
+F,White,SCI,BIOL
+F,Multi-Racial,MCOM,MC
+M,White,BADM,MGT
+M,White,AGRI,AGED
+M,White,BADM,MKT
+M,White,L,JDCL
+M,White,HSE,KIN
+M,White,SCI,BCH
+F,White,AGRI,TAM
+M,Asian,SCI,BIOL
+F,White,HSE,KIN
+M,White,BADM,MKT
+F,Asian,HSS,PSYCS
+F,White,GRAD,MFATH
+F,Hispanic,SCI,BIOL
+F,White,BADM,ACCT
+M,Black or African American,HSS,CMST
+M,White,BADM,ITF
+F,White,BADM,ACCT
+F,White,HSS,ENGL
+M,White,ENGR,PETE
+F,White,SCI,BIOL
+F,White,GRAD,MATE
+F,White,HSS,ENGL
+F,White,ENGR,BE
+F,White,L,JDCL
+M,White,ENGR,ME
+M,Black or African American,SCI,BCH
+F,White,HSE,ELED
+F,White,HSE,HRE
+M,White,HSS,LIBAR
+F,White,BADM,FIN
+F,White,HSS,COMD
+F,White,HSE,KIN
+M,White,HSE,KIN
+M,Asian,ENGR,CHE
+F,Black or African American,GRAD,MSW
+F,White,MCOM,MC
+F,White,ENGR,BE
+F,Asian,ENGR,PETE
+F,White,HSS,POLI
+M,White,ENGR,IE
+M,White,ENGR,CHE
+F,Asian,GRAD,PPHYS
+M,White,GRAD,MFACW
+M,White,ENGR,PETE
+M,White,BADM,FIN
+M,Did not respond,GRAD,PME
+F,White,HSE,KIN
+F,White,GRAD,PEE
+M,White,ENGR,PETE
+M,White,SCI,GEOLP
+F,White,MCOM,MC
+M,White,ENGR,ME
+M,Multi-Racial,GRAD,PPOLI
+M,Hispanic,GRAD,PHRE
+F,White,BADM,ACCT
+F,White,SCI,BIOL
+F,White,HSE,ELED
+F,White,HSS,LIBAR
+M,White,HSE,SPADM
+F,Multi-Racial,GRAD,PADA
+F,White,HSE,DUALC
+F,White,SCI,BIOL
+M,White,ENGR,ME
+M,White,HSE,SPADM
+F,White,HSE,KIN
+F,Black or African American,MDA,THTR
+F,White,HSS,CMST
+M,White,ENGR,PETE
+M,White,GRAD,MBADM
+M,White,ENGR,CHE
+M,White,BADM,FIN
+F,White,HSS,INTL
+F,White,VETM,VMED
+M,White,ENGR,ME
+M,White,GRAD,PPLHL
+M,Asian,ENGR,PETE
+M,Hispanic,GRAD,MBADM
+F,Asian,HSS,PSYCS
+F,Hispanic,ENGR,CHE
+F,White,MCOM,MC
+M,White,GRAD,SACCT
+M,Asian,SCI,BIOL
+F,White,HSE,KIN
+M,White,ENGR,ME
+F,White,GRAD,MLIS
+F,White,ENGR,EVEG
+M,White,BADM,FIN
+M,Black or African American,AGRI,NFS
+F,Black or African American,HSS,PSYCS
+M,White,ENGR,PETE
+M,White,ENGR,EE
+F,Hispanic,GRAD,DMUS
+M,White,BADM,MKT
+M,Black or African American,HSS,INTL
+F,White,HSS,PSYCS
+M,White,BADM,ISDS
+M,White,HSE,KIN
+F,White,HSS,COMD
+F,Black or African American,BADM,MKT
+F,White,SCI,MATH
+F,White,HSS,POLI
+F,White,HSE,ELED
+F,White,MDA,THTR
+M,White,GRAD,SGEOL
+F,White,GRAD,MSW
+F,White,MCOM,MC
+M,Did not respond,GRAD,PPETE
+F,White,ENGR,BE
+F,White,GRAD,PGA
+M,White,BADM,FIN
+F,White,HSS,ENGL
+M,White,L,JD
+F,Asian,GRAD,SISDS
+F,White,ENGR,CE
+F,Hispanic,MCOM,MC
+F,White,L,JDCL
+M,White,SCI,BIOL
+M,White,HSS,POLI
+M,White,GRAD,PCE
+F,White,HSS,ENGL
+M,White,SCI,MATH
+F,White,SCI,BIOL
+F,White,ADSN,ID
+F,American Indian or Alaskan Native,BADM,ACCT
+M,White,SCI,BIOL
+M,Hispanic,MDA,MUSIC
+M,Black or African American,MCOM,MC
+F,Asian,HSS,SPAN
+F,White,AGRI,TAM
+M,White,ENGR,PETE
+M,White,L,JD
+F,White,BADM,MKT
+F,White,MCOM,MC
+M,White,HSS,INTL
+M,White,BADM,MKT
+M,Black or African American,ENGR,PETE
+M,White,BADM,FIN
+M,White,VETM,VMED
+F,White,HSE,KIN
+M,White,BADM,GBUS
+F,Asian,HSE,CFS
+F,White,BADM,ACCT
+F,Hispanic,MCOM,MC
+F,White,HSS,LIBAR
+M,White,ADSN,ARCH
+M,White,ENGR,ME
+M,Black or African American,ADSN,ARCH
+F,Black or African American,HSS,PSYCS
+F,White,HSS,POLI
+F,White,SCI,BIOL
+M,White,GRAD,ACOMD
+F,White,MDA,MUSIC
+F,Black or African American,BADM,ACCT
+F,White,HSE,CFS
+F,White,ADSN,STAR
+F,White,BADM,MKT
+M,White,HSE,KIN
+F,White,HSE,ELED
+F,White,ENGR,CHE
+F,White,SCI,BCH
+M,White,GRAD,MMUS
+M,White,ADSN,LA
+M,White,SCI,BIOL
+F,White,HSE,CFS
+F,White,HSE,KIN
+F,Hispanic,HSS,ENGL
+F,White,GRAD,PEDCI
+M,Asian,ENGR,EE
+M,White,GRAD,PPOLI
+F,White,ENGR,CM
+M,White,HSE,KIN
+F,White,ADSN,STAR
+M,White,ENGR,PETE
+M,White,HSS,SOCL
+F,White,AGRI,NREM
+F,Black or African American,ENGR,EE
+F,White,GRAD,ACOMD
+M,White,L,JDCL
+F,White,ADSN,STAR
+F,Black or African American,HSE,SPADM
+M,White,ENGR,CE
+M,White,L,JD
+F,White,AGRI,NFS
+F,Asian,HSE,ELED
+M,White,BADM,FIN
+F,White,SCI,BIOL
+F,Black or African American,GRAD,SKIN
+M,White,SCI,BIOL
+F,White,HSE,KIN
+M,Hispanic,BADM,MKT
+F,White,BADM,MKT
+F,White,BADM,GBUS
+M,Black or African American,HSS,PSYCS
+F,Multi-Racial,MDA,MUSIC
+F,White,L,JD
+M,White,HSS,GEOGA
+F,Multi-Racial,BADM,MGT
+M,White,L,JDCL
+M,White,ENGR,CHE
+F,White,HSE,ELED
+F,White,GRAD,MBADM
+M,White,MCOM,MC
+F,White,ENGR,ME
+M,White,ENGR,PETE
+F,White,HSE,PK3CT
+M,Black or African American,MDA,MUSIC
+M,Hispanic,L,JDCL
+F,White,HSS,COMD
+F,White,ENGR,PETE
+F,White,BADM,MKT
+F,White,BADM,MKT
+M,White,ADSN,LA
+F,Asian,HSS,COMD
+M,White,GRAD,MBADM
+F,Black or African American,GRAD,MSW
+F,White,AGRI,NFS
+M,Hispanic,ADSN,STAR
+F,White,HSS,POLI
+F,White,BADM,ACCT
+F,Black or African American,L,JDCL
+F,White,GRAD,PMCPA
+M,White,HSE,SPADM
+F,White,HSE,DUALC
+M,White,BADM,FIN
+M,White,AGRI,NREM
+M,Asian,SCI,BIOL
+F,White,HSS,COMD
+M,Multi-Racial,AGRI,ENSYS
+F,White,GRAD,AELRC
+F,White,BADM,MKT
+F,White,HSE,ELED
+F,Asian,SCI,BIOL
+F,White,MCOM,MC
+F,White,GRAD,MLIS
+M,Hispanic,BADM,FIN
+F,Black or African American,ENGR,CHE
+F,White,MDA,THTR
+F,White,HSS,ENGL
+M,White,BADM,MKT
+M,White,ENGR,ME
+F,White,AGRI,NFS
+F,White,SCI,BIOL
+F,Black or African American,GRAD,SKIN
+F,White,HSS,PSYCS
+F,White,HSS,ENGL
+F,Black or African American,HSS,PSYCS
+F,White,HSE,KIN
+M,White,BADM,FIN
+F,Multi-Racial,HSE,KIN
+M,Hispanic,BADM,ITF
+F,White,ENGR,IE
+F,Hispanic,HSS,POLI
+F,White,BADM,MGT
+F,White,L,JD
+F,White,ENGR,CSC
+F,Hispanic,HSS,PHIL
+F,White,SCI,CHEM
+F,White,L,JDCL
+F,White,HSE,ATRN
+M,White,L,JDCL
+F,Hispanic,AGRI,ADP
+M,White,ENGR,PETE
+M,White,HSS,ENGL
+M,White,ENGR,ME
+M,White,BADM,GBUS
+F,White,SCI,BIOL
+F,White,HSE,KIN
+F,White,VETM,VMED
+F,White,GRAD,SHUEC
+M,White,MDA,MUSED
+F,Black or African American,GRAD,PEDLR
+M,White,BADM,ACCT
+F,Hispanic,AGRI,ADP
+F,White,BADM,MGT
+F,White,VETM,VMED
+F,Hispanic,HSE,CFS
+F,Hispanic,HSS,SPAN
+M,Asian,ENGR,ME
+F,White,HSS,PSYCS
+F,White,ADSN,ID
+F,White,HSE,KIN
+F,Hispanic,HSS,PSYCS
+M,White,GRAD,SACCT
+F,Black or African American,BADM,MKT
+F,White,BADM,MGT
+F,White,HSS,POLI
+M,Asian,GRAD,MARCH
+F,White,HSE,KIN
+F,White,HSS,ENGL
+F,Asian,BADM,MKT
+F,Black or African American,L,JDCL
+F,White,HSE,KIN
+F,White,ENGR,IE
+F,Hispanic,GRAD,SKIN
+M,White,AGRI,NREM
+F,Hispanic,GRAD,SKIN
+F,White,ADSN,ARCH
+F,White,BADM,FIN
+F,White,GRAD,MBADM
+F,White,SCI,BIOL
+M,White,ENGR,PETE
+F,Multi-Racial,ADSN,STAR
+F,Black or African American,AGRI,NFS
+M,Hispanic,GRAD,SPLHL
+M,Black or African American,HSS,SOCL
+F,White,BADM,ACCT
+F,White,BADM,GBUS
+M,White,SCI,BIOL
+F,White,AGRI,ADP
+M,Multi-Racial,GRAD,MSW
+F,White,BADM,ACCT
+M,White,SCI,BIOL
+M,Asian,MDA,MUSED
+M,Black or African American,HSE,SPADM
+F,White,HSS,ENGL
+F,White,BADM,MGT
+M,White,GRAD,SACCT
+F,White,HSE,CFS
+F,White,AGRI,PLSYS
+F,White,AGRI,NFS
+M,Black or African American,GRAD,PMUSC
+F,Asian,GRAD,ACOMD
+F,Hispanic,HSE,ELED
+M,White,HSE,KIN
+M,White,BADM,ISDS
+F,White,BADM,GBUS
+F,White,AGRI,NFS
+F,White,L,LLM
+F,White,HSE,PK3CT
+F,White,GRAD,PEDCI
+M,White,ENGR,ME
+F,White,VETM,VMED
+M,White,BADM,FIN
+F,White,SCI,BCH
+F,White,HSE,CFS
+M,White,ENGR,EE
+M,White,HSS,HIST
+F,White,HSS,CMST
+F,White,ADSN,ARCH
+F,White,ADSN,ARCH
+M,White,ENGR,PETE
+M,White,L,JDCL
+M,White,SCI,MATH
+M,Multi-Racial,ADSN,ARCH
+F,White,GRAD,PCOMP
+F,White,HSS,ENGL
+F,White,AGRI,TAM
+M,White,ENGR,CE
+F,White,HSS,COMD
+M,White,ENGR,PETE
+M,Multi-Racial,ADSN,STAR
+M,White,HSE,KIN
+M,White,ADSN,LA
+M,White,GRAD,PCE
+F,White,ADSN,ID
+M,White,MCOM,MC
+F,White,ENGR,CHE
+M,White,ENGR,CSC
+F,White,GRAD,ACOMD
+M,White,BADM,FIN
+F,White,ADSN,STAR
+F,White,HSE,KIN
+M,White,ENGR,EE
+M,White,ENGR,PETE
+F,Black or African American,HSS,PSYCS
+F,Multi-Racial,HSS,SOCL
+F,White,HSS,HIST
+F,White,GRAD,PWFS
+F,White,GRAD,ECIN
+F,White,HSS,ENGL
+M,White,HSE,SPADM
+F,White,GRAD,MALA
+F,White,MCOM,MC
+M,Black or African American,L,JDCL
+F,White,ADSN,STAR
+F,White,MCOM,MC
+M,White,BADM,MKT
+M,Hispanic,GRAD,MBADM
+M,White,MCOM,MC
+F,White,HSE,KIN
+F,White,GRAD,AHISP
+F,White,L,JDCL
+F,Asian,GRAD,MLA
+F,White,GRAD,AANTH
+F,White,SCI,BIOL
+M,Black or African American,AGRI,NFS
+F,White,GRAD,SRNR
+F,White,HSE,ELED
+F,Hispanic,HSE,KIN
+F,White,HSE,KIN
+M,White,ENGR,CSC
+M,White,GRAD,SKIN
+M,White,GRAD,MARCH
+F,Black or African American,GRAD,MSW
+M,White,ENGR,ME
+F,White,BADM,MKT
+F,White,AGRI,NFS
+M,Multi-Racial,ENGR,PETE
+M,White,VETM,VMED
+F,White,BADM,MKT
+F,Multi-Racial,ENGR,PETE
+F,White,GRAD,SACCT
+F,White,HSS,SPAN
+F,White,HSE,KIN
+F,Black or African American,HSS,PSYCS
+M,White,ENGR,EE
+F,White,GRAD,MMUS
+F,Black or African American,HSS,IS
+M,White,ENGR,CM
+F,White,AGRI,NFS
+F,White,MCOM,MC
+F,White,HSE,PK3CT
+M,White,BADM,FIN
+F,White,SCE,CES
+F,White,HSE,KIN
+F,Asian,SCI,MATH
+F,Asian,GRAD,SISDS
+M,Hispanic,ENGR,CHE
+M,White,ENGR,CSC
+F,White,AGRI,NFS
+F,Hispanic,ENGR,PETE
+F,White,VETM,VMED
+M,White,ENGR,CE
+M,Hispanic,ENGR,PETE
+M,White,BADM,MGT
+M,Hispanic,BADM,FIN
+F,White,HSS,COMD
+M,White,GRAD,MNS
+F,Asian,SCI,BIOL
+F,Hispanic,MDA,THTR
+M,White,ADSN,STAR
+F,White,AGRI,NREM
+F,White,ENGR,BE
+M,White,ENGR,CE
+F,White,SCI,MATH
+M,White,ENGR,ME
+M,White,BADM,ACCT
+F,White,HSS,SOCL
+M,White,L,JDCL
+F,White,ENGR,PETE
+M,White,L,JDCL
+F,White,ENGR,EVEG
+F,Black or African American,L,JDCL
+M,White,ENGR,CE
+M,Black or African American,SCI,BIOL
+F,White,AGRI,AGED
+M,White,HSS,IS
+F,Hispanic,MCOM,MC
+M,Hispanic,ENGR,ME
+F,White,HSS,ENGL
+M,White,GRAD,MMUS
+M,White,HSE,KIN
+M,White,ENGR,ME
+F,White,HSE,KIN
+M,White,SCI,BCH
+F,Multi-Racial,MDA,MUSED
+M,White,GRAD,APHIL
+F,White,ENGR,BE
+F,White,AGRI,NFS
+F,White,HSS,COMD
+F,White,HSE,KIN
+F,White,MDA,MUSED
+F,White,HSS,PSYCS
+F,White,HSE,KIN
+F,White,BADM,FIN
+F,White,MCOM,MC
+M,White,GRAD,MPADM
+M,White,L,JDCL
+M,White,HSE,HRE
+M,White,BADM,ACCT
+F,White,BADM,MGT
+F,Multi-Racial,GRAD,SACCT
+M,White,BADM,MGT
+M,Asian,GRAD,PPHYS
+M,White,SCI,MATH
+F,White,GRAD,ACOMD
+F,White,BADM,MGT
+M,Hispanic,BADM,FIN
+M,White,HSE,SPADM
+F,White,SCI,MATH
+M,Hispanic,ENGR,PETE
+F,White,AGRI,ADP
+M,White,BADM,GBUS
+M,White,ENGR,CM
+M,White,BADM,FIN
+M,White,SCI,BIOL
+M,White,GRAD,MMUS
+M,Did not respond,L,JDCL
+F,White,HSE,KIN
+F,Hispanic,SCI,CHEM
+M,White,SCI,BIOL
+F,White,HSE,KIN
+M,White,GRAD,MBADM
+F,White,HSS,COMD
+M,White,SCI,BIOL
+M,White,ENGR,ME
+F,White,VETM,VMED
+F,White,GRAD,MALA
+F,White,HSS,PSYCS
+M,White,GRAD,MBADM
+F,White,BADM,MGT
+F,Multi-Racial,VETM,VMED
+F,White,ENGR,ME
+M,White,ENGR,PETE
+F,White,MCOM,MC
+F,White,GRAD,MSW
+M,White,GRAD,MBADM
+F,White,HSE,ATRN
+M,White,L,JDCL
+F,Black or African American,BADM,MKT
+F,Black or African American,HSS,PSYCS
+M,White,L,JDCL
+M,White,GRAD,AHISP
+M,White,ENGR,EVEG
+F,White,GRAD,ACOMD
+F,White,MCOM,MC
+F,Hispanic,ENGR,CHE
+F,White,BADM,ECONS
+F,White,ADSN,ID
+M,Multi-Racial,ENGR,BE
+F,White,MCOM,MC
+M,White,BADM,ACCT
+F,White,ENGR,CHE
+M,White,HSS,ENGL
+M,White,ENGR,EE
+F,White,GRAD,SKIN
+F,White,HSE,KIN
+F,White,BADM,ACCT
+M,White,HSS,HIST
+F,Black or African American,HSS,PSYCS
+F,White,SCI,BIOL
+F,White,ENGR,CM
+F,White,SCI,CHEM
+M,White,SCI,BIOL
+F,Did not respond,VETM,VMED
+F,White,HSE,HRE
+F,White,AGRI,NREM
+F,White,HSS,HIST
+M,White,GRAD,SISDS
+M,Multi-Racial,HSS,PSYCS
+M,White,ENGR,ME
+M,White,ENGR,PETE
+M,White,ENGR,ME
+M,Multi-Racial,L,JD
+F,Hispanic,HSS,PSYCS
+F,White,HSS,COMD
+F,White,GRAD,PHIST
+M,White,ENGR,CM
+M,White,ENGR,CHE
+M,White,BADM,MKT
+F,White,ADSN,STAR
+M,Hispanic,BADM,ISDS
+M,White,GRAD,MBADM
+M,White,ENGR,CSC
+F,White,VETM,VMED
+M,White,ENGR,PETE
+F,Black or African American,AGRI,ADP
+M,White,GRAD,PENGL
+F,White,MCOM,MC
+M,White,BADM,GBUS
+F,Black or African American,HSS,PSYCS
+F,Black or African American,SCI,BIOL
+F,White,SCI,BIOL
+M,White,AGRI,NREM
+M,Multi-Racial,HSS,IS
+F,White,HSS,PSYCS
+F,White,MCOM,MC
+F,White,HSE,KIN
+F,Black or African American,BADM,MKT
+M,White,SCI,CHEM
+F,White,MDA,THTR
+M,White,ENGR,ME
+M,White,HSS,HIST
+F,Black or African American,HSE,CFS
+F,Black or African American,HSS,ENGL
+F,White,BADM,MKT
