@@ -33,18 +33,24 @@ ggplot(data = freqCasualties, aes(x = class, y = n, fill = gender)) +
 
 #we want to plot the below chart using selfiesCasualties
 #1. Replicate the above using selfiesCasualties and geom_bar() instead of geom_col. You need to change the default stat  to 'identity'
+ggplot(data = selfiesCasualties) + 
+  geom_bar(aes(x = class, fill = gender)) 
+  
 
 #ggplot( data = selfiesCasualties, aes()) +
 #  geom_bar()
 
 #2. Plot proportions instead of counts for both the previous charts
+ggplot(data = selfiesCasualties) +
+ geom_bar(aes( x = class, y=..prop.., fill = gender, group = gender), position = 'dodge')
 
 ```
 
 To plot a barchart for `selfiesCasualties`, you need to map y to the frequencies count of each `class` and `gender`. For dataset where **each row is an observation** (versus the count for each grouping level) you can use `geom_*(stat = 'count')`, which is the default for `geom_bar()`. To concude, you can view `geom_col` as a special instance of `geom_bar(... , stat='identity')`
 
 ```{r}
-
+ggplot( data =dt ) +
+ geom_bar(aes(x=College, fill=Sex))
 ```
 
 
@@ -65,8 +71,8 @@ Read the documentation for `?geom_bar` to see how you can map `y = ..propr..` in
 
 ```{r}
 #' 3.
-#' ggplot(data  = ..., aes(... , ...)) +
-#' geom_bar()
+ggplot(data = dt)+
+ geom_bar(aes(x = College,y = ..prop.., fill = Sex, group = 1))
 ```
 
 
@@ -86,9 +92,9 @@ Now try to use `may2017graduates`, to map the fill to gender and the number of g
 Mapping too many variables on the same geom can make your chart hard to comprehend. When you have a categorical variable that you want to control for, facets allow to create a grid of charts of your dataset, where each chart is a level of the variable that you are faceting for. For instance, let's say we want to analyse gender bias controlling for race in each college. Use
 
 ```{r}
-#ggplot() +
-#  geom_bar() +       #plot a count of students in each college
-#  facet_wrap(~ Ethnicity)
+ggplot() +
+  geom_bar(aes(x = College, fill = Sex)) +       #plot a count of students in each college
+  facet_wrap(~ Ethnicity, scales = 'free')
 ```
 
 
@@ -104,10 +110,14 @@ You can change the defaults of certain attributes using `scale_attrName_*` funct
 To select colors, you can sue rgb, hex or [color names]((http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 
 ```{r}
-#ggplot(data = dt) +
-#  geom_bar(aes(College, fill = Sex)) +
-#  scale_fill_manual(values  = replace this with a vector of colors)
+ggplot(data = dt) +
+  geom_bar(aes(College, fill = Sex)) +
+  scale_fill_manual(values  = c('#2D9FD9', 'red'))
 #  OR (ALTERNATIVELY) change the colors usig :     scale_fill_brewer(type = ..., palette = ...)
+ggplot(data = dt) +
+  geom_bar(aes(College, fill = Sex)) +
+  scale_fill_brewer(palette = "greens", name ='Gender') +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1), panel.background = element_blank())
 # use theme(panel.background = element_blank()) to remove the background color
 # check the documentation for element_text() and use it within theme(axis.text.x = element_text()) to rotate the lables by 45 degrees
 ```
