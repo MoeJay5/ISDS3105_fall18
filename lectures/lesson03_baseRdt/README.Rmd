@@ -69,16 +69,23 @@ iphoneSales$iPhone4S
 # use dataframe[row,col] to
 
 #extract the first two elements of column "IPhone6s"
+iphoneSales$iphone6s[1:2]
 
 #subset iphoneSales to a dataframe with only time, iPhone5C, IPhoneX
+iphoneSales[,c(1, 3, 14)]
+iphoneSales[,c('time', 'iPhone5C', 'iPhoneX')]
 
 #keep only the rows where the sales for iPhoneSE are higher than 7 AND are not NA (AND = &, OR = |, NOT = !)
+iphoneSales$IPhoneSE > 7 & !is.na(iphoneSales$IPhoneSE)
 
 #Use %in% to keep only the rows for c("Sep 2014", "Sep 2015", "Sep 2018")
+iphoneSales[iphoneSales$time %in% c("Sep 2014", "sep 2015", "Sep 2018"),]
 
 #calculate the mean() of the IPhone7 sold 
+mean(iphoneSales$IPhone7, na.rm = T)
 
 #use inline code to print the mean of the iphone sold in Jun 2018
+avg <- mean(as.numeric(iphoneSales[iphoneSales$time == 'Jun 2018',]), na.rm = T)
 
 ```
 

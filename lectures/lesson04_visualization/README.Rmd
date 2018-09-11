@@ -58,13 +58,15 @@ The [concept of _mapping_](http://r4ds.had.co.nz/data-visualisation.html#aesthet
 
 ```{r, eval=FALSE}
 ggplot() +
-  geom_col(data =  twitter_users, aes(x = Year, y = millions, ------ ))
+  geom_col(data =  twitter_users, aes(x = Year, y = millions, fill = factor(Year)))
 ```
 
 From `freqCasualties`, plot a barchart of the count of casualties by class and gender (each bar refers to a class)
 
 ```{r}
 #what do we want to map to x and y? how do we map the third variable?
+ggplot() +
+  geom_col(data =  freqCasualties, aes(x = class, y = n, fill = factor(gender)))
 ```
 
 
@@ -85,12 +87,18 @@ So far, we specified aesthetics and datasets inside a specific geom. However, if
 #Use the dataset twitter_users
 #Use the set of aesthetics: aes(x = Year, y = millions )
 #combine together geom_line() and geom_point() 
+ggplot() +
+  geom_line(data =  twitter_users, aes(x = Year, y = millions, color ='blue')) +
+  geom_point(data =  twitter_users, aes(x = Year, y = millions, color ='red'))
 ```
 
 
 ```{r}
 #use twitter_users to plot a linechart of twitter users over time
 #use sn_users to overlay a linechart of FB users over time
+ggplot() +
+  geom_line(data =  twitter_users, aes(x = Year, y = millions, color ='twitter')) +
+   geom_line(data =  sn_users, aes(x = year, y = facebook, color ='facebook'))
 ```
 
 
@@ -106,7 +114,10 @@ So far, we specified aesthetics and datasets inside a specific geom. However, if
     2. Map `myBirthYear` to the fill of `geom_point` to flag your birth year
     3. Use ggtitle to add a title to the chart
 
-
+```{r}
+ggplot() +
+  geom_col(data =  twitter_users, aes(x = Year, y = millions, fill = factor(Year)))
+```
 
 
 

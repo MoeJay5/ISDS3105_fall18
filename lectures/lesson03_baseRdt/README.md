@@ -95,6 +95,7 @@ iphoneSales$iPhone4S
 
 #extract the first two elements of column "IPhone6s"
 
+
 #subset iphoneSales to a dataframe with only time, iPhone5C, IPhoneX
 
 #keep only the rows where the sales for iPhoneSE are higher than 7 AND are not NA (AND = &, OR = |, NOT = !)
@@ -113,13 +114,13 @@ as_tibble(iphoneSales)
 ## # A tibble: 7 x 14
 ##   time  iPhone4S iPhone5C iPhone5S iPhoneSE iPhone6 iPhone6Plus iPhone6S
 ##   <fct>    <dbl>    <dbl>    <dbl>    <dbl>   <dbl>       <dbl>    <dbl>
-## 1 Sep …        9     15.5       30     NA        33        12.5       NA
-## 2 Sep …       NA      5         19     NA        33        19         16
-## 3 Sep …       NA     NA         NA      9.5       5         7         19
-## 4 Dec …       NA     NA         NA      6        NA        NA         11
-## 5 Sep …       NA     NA         NA     11        NA        NA         10
-## 6 Dec …       NA     NA         NA      7        NA        NA          6
-## 7 Jun …       NA     NA         NA      8        NA        NA          8
+## 1 Sep ~        9     15.5       30     NA        33        12.5       NA
+## 2 Sep ~       NA      5         19     NA        33        19         16
+## 3 Sep ~       NA     NA         NA      9.5       5         7         19
+## 4 Dec ~       NA     NA         NA      6        NA        NA         11
+## 5 Sep ~       NA     NA         NA     11        NA        NA         10
+## 6 Dec ~       NA     NA         NA      7        NA        NA          6
+## 7 Jun ~       NA     NA         NA      8        NA        NA          8
 ## # ... with 6 more variables: iPhone6SPlus <dbl>, iPhone7 <dbl>,
 ## #   iPhone7Plus <dbl>, iPhone8 <dbl>, iPhone8Plus <dbl>, iPhoneX <dbl>
 class(as_tibble(iphoneSales))
