@@ -1,19 +1,19 @@
-Assignment 4
+Assignment 3
 ================
 
-For this assignment we are using a dataset from the website [Fivethirtyeight](http://fivethirtyeight.com/). All these datasets are available on their [GitHub page](https://github.com/fivethirtyeight/data/), but they are distributed also within the `fivethirtyeight` package.
+For this assignment we are using a dataset from the website [Fivethirtyeight](http://fivethirtyeight.com/). All these datasets are available on their [GitHub page](https://github.com/fivethirtyeight/data/) and in the `fivethirtyeight` package.
 
 1.  Install and load the `fivethirtyeight` library. For this assigment we are using the dataset `bad_drivers`.
 
-2.  Add a brief description (`?bad_drivers` for a description of the dataset) using inline code to list the variable names.
+2.  In the narrative, add a brief description (`?bad_drivers` for a description of the dataset) using *inline code* to show the variable names.
 
 3.  Plot a dot chart of premiums by losses. Map the count of drivers to the size of the dots.
 
 4.  Test what values from `state` are equal to "Louisiana" and assign the output to a new variable called \`Louisiana' (logical)
 
-5.  Map the variable "Louisiana" to `color`, and make sure the plot you created marks the observation for Louisiana in a different color
+5.  Map the variable "Louisiana" to `color`. That way, the dot referring to Louisiana should have a different color.
 
-6.  In your narrative, use inline code to report the average insurance premium and count of losses in US, and the premium and losses in Louisiana. Do not type the figures, but use inline code to extract all these values from the datset.
+6.  In your narrative, use inline code to report the average insurance premium and count of losses in US, and the premium and losses in Louisiana. Do not type those values manually, but extract them from the dataset using inline code.
 
 7.  Report in a tabular format the 5 states with the highest premiums (include only state and insurance\_premiums)
 
@@ -25,4 +25,4 @@ For this assignment we are using a dataset from the website [Fivethirtyeight](ht
 -   insurance\_premiums and perc\_speeding
 -   insurance\_premiums and perc\_not\_distracted
 
-1.  Mute the code for both charts and add a title to both. Knit to pdf and submit both your pdf and .Rmd.
+1.  Mute the code for both charts and add a title to both. Knit to html.

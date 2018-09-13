@@ -65,10 +65,10 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 | Tuesday, September 4    |  Base  R - data structures 2  |    Assignment2        | lesson3
 | Thursday, September 6    | DataViz ggplot2     |                       | lesson4
 | Tuesday, September 11   | DataViz ggplot2     |                       | lesson5         
-| Thursday, September 13  | Tidy data           | Assignment3           | lesson6
+| Thursday, September 13  | Tidy data           | ~~Assignment3~~           | lesson6
 | Tuesday, September 18   | dplyr               |                       | lesson7 
-| Thursday, September 20  | dplyr - connecting and querying DB     |              | lesson8
-| Tuesday, September 25   | dplyr - connecting and querying DB |  Assignment4 | lesson9 
+| Thursday, September 20  | dplyr - connecting and querying DB     |  Assignment3   | lesson8
+| Tuesday, September 25   | dplyr - connecting and querying DB |  ~~Assignment4~~ | lesson9 
 | Thursday, September 27  | **Mid-term**              |                     | lesson10
 | Tuesday, October 2      | Geospatial Viz      |                       | lesson11 
 | ~~Thursday, October 4~~     | Fall Holiday| |    |
