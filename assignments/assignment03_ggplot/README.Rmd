@@ -61,7 +61,7 @@ bad_drivers %>%
 8. Reshape the dataset gathering together perc_speeding, perc_alcohol, perc_not_distracted in one variable, paired with their pecentages. Name this variable "ViolationType" and the variable for the value pairs "perc".
 
 ```{r}
-gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted)
+gather(bad_drivers, key = 'ViolationType', value = 'perc', perc_alcohol, perc_speeding, perc_not_distracted)
 ```
 
 
@@ -72,10 +72,10 @@ gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_sp
    - insurance_premiums and perc_not_distracted
    
 ```{r}
-gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted) %>%
+gather(bad_drivers, key = 'ViolationType', value = 'perc', perc_alcohol, perc_speeding, perc_not_distracted) %>%
  ggplot() +
-  geom_point(aes(x= ViolationType, y = insurance_premiums)) +
-    facet_wrap(~perc)
+  geom_point(aes(x= insurance_premiums, y = perc)) +
+    facet_wrap(~ViolationType)
 ```
    
    
