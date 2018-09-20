@@ -51,23 +51,8 @@ bad_drivers %>%
 1.  Reshape the dataset gathering together perc\_speeding, perc\_alcohol, perc\_not\_distracted in one variable, paired with their pecentages. Name this variable "ViolationType" and the variable for the value pairs "perc".
 
 ``` r
-gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted)
+percGathered <- gather(bad_drivers, key = 'ViolationType', value = 'perc', perc_alcohol, perc_speeding, perc_not_distracted)
 ```
-
-    ## # A tibble: 153 x 7
-    ##    state num_drivers perc_no_previous insurance_premi~ losses perc 
-    ##    <chr>       <dbl>            <int>            <dbl>  <dbl> <chr>
-    ##  1 Alab~        18.8               80             785.   145. perc~
-    ##  2 Alas~        18.1               94            1053.   134. perc~
-    ##  3 Ariz~        18.6               96             899.   110. perc~
-    ##  4 Arka~        22.4               95             827.   142. perc~
-    ##  5 Cali~        12                 89             878.   166. perc~
-    ##  6 Colo~        13.6               95             836.   140. perc~
-    ##  7 Conn~        10.8               82            1069.   167. perc~
-    ##  8 Dela~        16.2               99            1138.   151. perc~
-    ##  9 Dist~         5.9              100            1274.   136. perc~
-    ## 10 Flor~        17.9               94            1160.   144. perc~
-    ## # ... with 143 more rows, and 1 more variable: ViolationType <int>
 
 1.  Use facetting (DO NOT use 3 distinct calls to `ggplot()`) to plot 3 dot plots for the correlation between:
 
@@ -76,10 +61,10 @@ gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_sp
 -   insurance\_premiums and perc\_not\_distracted
 
 ``` r
-gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted) %>%
+percGathered %>%
  ggplot() +
-  geom_point(aes(x= ViolationType, y = insurance_premiums)) +
-    facet_wrap(~perc)
+  geom_point(aes(x= insurance_premiums, y = perc)) +
+    facet_wrap(~ViolationType)
 ```
 
 ![](README_files/figure-markdown_github/unnamed-chunk-6-1.png)
