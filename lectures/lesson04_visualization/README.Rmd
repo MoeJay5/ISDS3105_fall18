@@ -115,8 +115,10 @@ ggplot() +
     3. Use ggtitle to add a title to the chart
 
 ```{r}
-ggplot() +
-  geom_col(data =  twitter_users, aes(x = Year, y = millions, fill = factor(Year)))
+myBirthYear <- c(1997)
+ggplot() + 
+  geom_line(data = beerDt, aes(x = Year, y = GallonsCapita),color = 'blue') + 
+  geom_point(data = myBirthYear, aes(x = Year, y = GallonsCapita, fill(year)))
 ```
 
 

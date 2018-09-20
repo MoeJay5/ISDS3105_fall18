@@ -7,31 +7,76 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 if (!require(fivethirtyeight)) {install.packages('fivethirtyeight')}
 library(fivethirtyeight)
+if (!require(ggplot2)) {install.packages('ggplot2')}
+library(ggplot2)
+if (!require(tidyverse)) {install.packages('tidyverse')}
+library(tidyverse)
 ```
 
 For this assignment we are using a dataset from the website [Fivethirtyeight](http://fivethirtyeight.com/). All these datasets are available on their [GitHub page](https://github.com/fivethirtyeight/data/) and in the `fivethirtyeight` package.
 
 1. Install and load the `fivethirtyeight` library. For this assigment we are using the dataset `bad_drivers`.
 
+The fivethirtyeight and all other dependencies are loaded.
+
 2. In the narrative, add a brief description (`?bad_drivers` for a description of the dataset) using *inline code* to show the variable names.
+
+The Variable names for bad_drivers: `r colnames(bad_drivers)`
 
 3. Plot a dot chart of premiums by losses. Map the count of drivers to the size of the dots.
 
+```{r, echo=FALSE}
+ggplot()+
+  geom_point(data = bad_drivers, aes(x = insurance_premiums, y = losses, size= bad_drivers$num_drivers)) + labs(size='Number of Drivers') + ggtitle("Bad Drivers in US")
+```
+
 4. Test what values from `state` are equal to "Louisiana" and assign the output to a new variable called `Louisiana' (logical)
+
+```{r}
+Louisiana <- bad_drivers %>%
+  filter(state == "Louisiana") 
+```
 
 5. Map the variable "Louisiana" to `color`. That way, the dot referring to Louisiana should have a different color.
 
+```{r, echo=FALSE}
+ggplot()+
+  geom_point(data = bad_drivers, aes(x = insurance_premiums, y =losses, size= bad_drivers$num_drivers)) + labs(size='Number of Drivers') +
+  geom_point(data = Louisiana, aes(x = insurance_premiums, y =losses, size= Louisiana$num_drivers, color = "Red")) + labs(color='Louisiana') + ggtitle("Bad Drivers in US")
+```
+
 6. In your narrative, use inline code to report the average insurance premium and count of losses in US, and the premium and losses in Louisiana. Do not type those values manually, but extract them from the dataset using inline code.
+
+The average insurance premium in US is `r mean(bad_drivers$insurance_premiums)` and the count of losses is `r sum(bad_drivers$losses)`. The average insurance premium in Louisiana is `r mean(Louisiana$insurance_premiums)` and the count of losses is `r sum(Louisiana$losses)`.
 
 7. Report in a tabular format the 5 states with the highest premiums (include only state and insurance_premiums)
 
+```{r}
+bad_drivers %>% 
+  arrange(desc(insurance_premiums)) %>%
+  select(state, insurance_premiums) %>%
+  head(n=5)
+```
+
 8. Reshape the dataset gathering together perc_speeding, perc_alcohol, perc_not_distracted in one variable, paired with their pecentages. Name this variable "ViolationType" and the variable for the value pairs "perc".
+
+```{r}
+gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted)
+```
+
 
 9. Use facetting (DO NOT use 3 distinct calls to `ggplot()`) to plot 3 dot plots for the correlation between:
 
    - insurance_premiums and perc_alcohol
    - insurance_premiums and perc_speeding
    - insurance_premiums and perc_not_distracted
+   
+```{r}
+gather(bad_drivers, key = 'perc', value = 'ViolationType', perc_alcohol, perc_speeding, perc_not_distracted) %>%
+ ggplot() +
+  geom_point(aes(x= ViolationType, y = insurance_premiums)) +
+    facet_wrap(~perc)
+```
    
    
 10. Mute the code for both charts and add a title to both. Knit to html.

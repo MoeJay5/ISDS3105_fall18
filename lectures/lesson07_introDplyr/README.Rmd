@@ -82,12 +82,14 @@ selfiesCasualties %>%
 
 1. Using `titanicDt`, filter the count of female children who did not survive
 ```{r}
-
+titanicDt %>%
+  filter(Age == 'Child' & Sex == "Female" & Survived == "No")
 ```
 
 2. Using `beerDt`, filter the records from 1903 to 1997 (use the shortcut `dplyr::between()`)
 ```{r}
-
+beerDt %>%
+ filter(between(Year, 1903, 1997))
 ```
 
 3. Using `untidyReview`, filter all records with missing values on `reviewLocation`. Hint: you need to use `is.na()` to test what elements are missing.
@@ -122,12 +124,14 @@ Note that `distinct` will also automatically drop all columns that are not passe
 
 1. Using `selfiesCasualties`, subset the dataset by the distinct levels for `class`
 ```{r}
-
+selfiesCasualties %>%
+ distinct(class, .keep_all = TRUE)
 ```
 
 2. Using `titanicDt`, create a 2 columns dataset for the unique combinations of `Age` and `Sex`
 ```{r}
-
+titanicDt %>%
+  distinct(Age,Sex)
 ```
 
 
@@ -143,12 +147,14 @@ selfiesCasualties %>%
 
 1. Using `titanicDt`, arrange by Class, Age, Sex
 ```{r}
-
+titanicDt %>% 
+  arrange(Class, Age, Sex)
 ```
 
 2. Using `titanicDt`, arrange descending by `n`
 ```{r}
-
+titanicDt %>% 
+  arrange(desc(Class, Age, Sex))
 ```
 
 ## Manipulate Columns
@@ -165,12 +171,13 @@ To select multiple columns, you can use `class:age` (from variable class to vari
 
 1. Using `sn_revenue`, select only variables for company names and year 2015.
 ```{r}
-
+sn_revenue %>%   select(company, y2015)
 ```
 
 2. Using `untidyReview`, select only the variables containing review ratings.
 ```{r}
-
+untidyReview %>%
+select(starts_with("Review"))
 ```
 
 
@@ -178,17 +185,19 @@ To select multiple columns, you can use `class:age` (from variable class to vari
 
 ```{r}
 selfiesCasualties %>% 
-  mutate(birthDate = year - as.numeric(age))
+  mutate(birthDate = year - as.numeric(age)) %>% slice(1:2)
 ```
 
 1. Using `beerDt`, convert the consumption from gallons per capita to liters (1 gallon 3.78 liters)
 ```{r}
-
+beerDt %>%
+  mutate(liters = GallonsCapita * 3.78 )
 ```
 
 2. Using `socialNetwork_users` add a percent sign to the variable percent (use `paste0()`)
 ```{r}
-
+socialNetwork_users %>%
+ mutate(percent = paste0(percent,'%'))
 ```
 
 3. Using `untidyReview`, turn `reviewStayYear` into a integer
@@ -209,7 +218,10 @@ selfiesCasualties %>%
 
 1. Using `titanicDt`, calculate the average casualties by class (note that the dataset has both survivors/non-survivors counts)
 ```{r}
-
+titanicDt %>%
+ filter(Survived == "No") %>%
+ group_by(Class) %>%
+ summarise(tot = mean(n))
 ```
 
 2. Using `titanicDt`, calculate the average casualties by gender (note that the dataset has both survivors/non-survivors counts)
