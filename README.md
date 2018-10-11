@@ -1,6 +1,5 @@
 ![](pics/header.png)
 
-
 **Required Text**:	Wickham, H., & Grolemund, G. (2016). [R for data science](http://r4ds.had.co.nz/)
 
 **Required Softwares**:	[R](https://cran.r-project.org/mirrors.html), [RStudio Desktop](https://www.rstudio.com/products/rstudio/download), Git ([Windows](https://gitforwindows.org/) | [Mac](https://git-scm.com/))

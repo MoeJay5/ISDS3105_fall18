@@ -11,7 +11,7 @@
 
 ![](pics/myasset.png)
 
-#. Create the authentication token with the keys from the previous step and use `read.socrata` to call the API
+#. Create an authentication token using the keys from the previous step and use `read.socrata` to call the API
 
 ```
 token <- c(sec = 'yourSecretToken', app = 'youAppToken') #keep this private/on your local machine
