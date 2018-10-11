@@ -6,6 +6,9 @@ output: github_document
 ```{r setup, include=FALSE, message=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=FALSE)
 library(tidyverse)
+library(lubridate)
+library(ggplot2)
+library(maps)
 ```
 
 # Trump's Tweets
@@ -18,7 +21,13 @@ Note that there is a difference between time and datetime: If you coerce `create
 
 
 ```{r}
-dt <- read_csv('https://raw.githubusercontent.com/fivethirtyeight/data/master/trump-twitter/realDonaldTrump_poll_tweets.csv')
+dt <- read_csv('https://raw.githubusercontent.com/fivethirtyeight/data/master/trump-twitter/realDonaldTrump_poll_tweets.csv')  %>%
+  mutate(created_at = mdy_hms(created_at))
+
+date <- dt$created_at
+
+ggplot(dt, aes(x = date)) + scale_x_datetime(date_labels = "%b %y") +
+  geom_histogram(bins = length(date))
 ```
 
 
@@ -28,8 +37,47 @@ Use the below dataset to plot a choropleth map of incomes by state. Map `median_
 
 ```{r}
 dt <- read_csv('https://raw.githubusercontent.com/fivethirtyeight/data/master/hate-crimes/hate_crimes.csv')
+
+states <- map_data("state")
+
+dt <- dt %>%
+  mutate(state = tolower(state))
+
+MHI<- dt %>%
+  select(state, median_household_income)
+
+states<- right_join(states, MHI, by= c( 'region'='state'))
+
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Median income')
 ```
 
 Repeat the above for the Deep South only (Louisiana, Alabama, Mississippi, Georgia, South Carolina). Add a title.
 
+```{r}
+dt <- read_csv('https://raw.githubusercontent.com/fivethirtyeight/data/master/hate-crimes/hate_crimes.csv')
+
+dt <- dt %>% 
+  filter(state == "Louisiana" | state == "Alabama" | state ==  "Mississippi" | state ==  "Georgia" |state ==  "South Carolina")
+
+states <- map_data("state")
+
+dt <- dt %>%
+  mutate(state = tolower(state))
+
+MHI<- dt %>%
+  select(state, median_household_income)
+
+states<- right_join(states, MHI, by= c( 'region'='state'))
+
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Deep South Median Income')
+```
+
 Use inline code to output the median income (appropriately formatted) and the Gini-Index for Louisiana.
+
+```{r}
+l <- dt %>%
+  filter(state == "louisiana")
+```
+
+
+The median income is `r median(dt$median_household_income)` and the Gini-Index for Louisiana is `r l$gini_index`.
