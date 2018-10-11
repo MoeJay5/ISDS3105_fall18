@@ -40,7 +40,7 @@ MHI<- dt %>%
 
 states<- right_join(states, MHI, by= c('region'='state'))
 
-ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Median income')
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Median income') + scale_fill_gradient(label = dollar_format())
 ```
 
 ![](README_files/figure-markdown_github/unnamed-chunk-2-1.png)
@@ -63,7 +63,7 @@ MHI<- dt %>%
 
 states<- right_join(states, MHI, by= c( 'region'='state'))
 
-ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Deep South Median Income')
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Deep South Median Income') + scale_fill_gradient(label = dollar_format())
 ```
 
 ![](README_files/figure-markdown_github/unnamed-chunk-3-1.png)

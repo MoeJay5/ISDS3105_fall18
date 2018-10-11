@@ -49,7 +49,7 @@ MHI<- dt %>%
 
 states<- right_join(states, MHI, by= c('region'='state'))
 
-ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Median income')
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Median income') + scale_fill_gradient(label = dollar_format())
 ```
 
 Repeat the above for the Deep South only (Louisiana, Alabama, Mississippi, Georgia, South Carolina). Add a title.
@@ -70,7 +70,7 @@ MHI<- dt %>%
 
 states<- right_join(states, MHI, by= c( 'region'='state'))
 
-ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Deep South Median Income')
+ggplot(data = states) + geom_polygon(aes(x = long, y = lat, group = group, fill = median_household_income), color = "white") + coord_fixed(1.3)+ labs(title = 'Deep South Median Income') + scale_fill_gradient(label = dollar_format())
 ```
 
 Use inline code to output the median income (appropriately formatted) and the Gini-Index for Louisiana.
