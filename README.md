@@ -1,8 +1,5 @@
-## ISDS3105: Internet Development Tools - R programming (Fall 2018) 
+![](pics/header.png)
 
-**T-Th, 3.00-4.20 PM, 1835 Business Education Complex**
-
-**Office Hours: Tu–Th 4.30–5.30 PM, 2400b BEC**
 
 **Required Text**:	Wickham, H., & Grolemund, G. (2016). [R for data science](http://r4ds.had.co.nz/)
 
@@ -73,14 +70,14 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 | Tuesday, October 2      | Geospatial Viz      |                       | lesson11 
 | ~~Thursday, October 4~~     | Fall Holiday| |    |
 | Tuesday, October 9       | Manipulating Dates  |                       |  lesson12
-| Thursday, October 11    | Open Data API       |   Assignment5 GeoViz                   | lesson13
+| Thursday, October 11    | Open Data API       |   Assignment4 GeoViz                   | lesson13
 | Tuesday, October 16      | OpenData    |                              | lesson14
 | Thursday, October 18  | Iteration with purrr                |         | lesson15
-| Tuesday, October 23   | Iteration with purrr        |    Assignment6 Assingment on OpenData Map            | lesson16   
+| Tuesday, October 23   | Iteration with purrr        |    Assignment6 Assingnment on OpenData Map            | lesson16   
 | Thursday, October 25  | WebScraping        |   | lesson17  
 | Tuesday, October 30   | Regression              |                | lesson18   
 | Thursday, November 1  | Regression              | Assignment7               | lesson19  
-| Tuesday, November 6   | Regression              |          | lesson20   
+| Tuesday, November 6   | ~~Regression~~  Supervised lab - group project        |          | lesson20   
 | Thursday, November 8  | Parametrized Reports    |                | lesson21  
 | Tuesday, November 13  | Supervised lab - group project |      |                           |
 | Thursday, November 15 | Supervised lab - group project        |    Assignment8            |    
