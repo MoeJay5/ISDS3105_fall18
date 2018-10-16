@@ -72,8 +72,8 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 | Thursday, October 11    | Open Data API       |   Assignment4 GeoViz                   | lesson13
 | Tuesday, October 16      | OpenData    |                              | lesson14
 | Thursday, October 18  | Iteration with purrr                |         | lesson15
-| Tuesday, October 23   | Iteration with purrr        |    Assignment6 Assingnment on OpenData Map            | lesson16   
-| Thursday, October 25  | WebScraping        |   | lesson17  
+| Tuesday, October 23   | Iteration with purrr        |    ~~Assignment6 Assingnment on OpenData Map~~            | lesson16   
+| Thursday, October 25  | WebScraping        | Assignment5 Assingnment on OpenData Map  | lesson17  
 | Tuesday, October 30   | Regression              |                | lesson18   
 | Thursday, November 1  | Regression              | Assignment7               | lesson19  
 | Tuesday, November 6   | ~~Regression~~  Supervised lab - group project        |          | lesson20   
