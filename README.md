@@ -75,11 +75,11 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 | Tuesday, October 23   | Iteration with purrr        |    ~~Assignment6 Assingnment on OpenData Map~~            | lesson16   
 | Thursday, October 25  | WebScraping        | Assignment5 Assingnment on OpenData Map  | lesson17  
 | Tuesday, October 30   | Regression              |                | lesson18   
-| Thursday, November 1  | Regression              | Assignment7               | lesson19  
-| Tuesday, November 6   | ~~Regression~~  Supervised lab - group project        |          | lesson20   
-| Thursday, November 8  | Parametrized Reports    |                | lesson21  
+| Thursday, November 1  | Regression              | ~Assignment6~               | lesson19  
+| Tuesday, November 6   | ~~Regression~~  Parametrized Reports        | Assignment6         | lesson20   
+| Thursday, November 8  | Dashoboards with RMarkdown    |                | lesson21  
 | Tuesday, November 13  | Supervised lab - group project |      |                           |
-| Thursday, November 15 | Supervised lab - group project        |    Assignment8            |    
+| Thursday, November 15 | Supervised lab - group project        |    Assignment7            |    
 | Tuesday, November 20  |   Case-study - online reviews     | Group Project       | lesson23     
 | ~~Thursday, November 22~~   | Thanksgiving |                | 
 | Tuesday, November 27     | Case-study - online reviews       |                     | lesson 24

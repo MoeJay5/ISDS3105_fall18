@@ -118,7 +118,7 @@ your folder effectively, for
     \figure     #ggplot charts, logos, figures, and general visual static content
     \data       #the dataset you are using (consider whether you want them in .csv/.tvs or .RDta)
     \Rmd        #.Rmd files for your report(s)
-    index.html  #the HTML version of your presentation
+    index.html  #the HTML version of your presentation if needed
     README      #this is your "abstract""
 
 ## Reproducibility
