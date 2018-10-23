@@ -8,6 +8,8 @@ editor_options:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, error=T)
 library(tidyverse)
+install.packages("RMySQL")
+library(RMySQL)
 ```
 
 `dplyr` makes easy to translate R code into SQL code for querying databases. To see how that works, first we connect to our online reviews MySQL DB:
@@ -47,15 +49,61 @@ However, you want to `collect()` as late as possible to make sure you leverage t
 
 #. Report the distinct types of hotels
 
+```{r}
+options(warn = -1)
+tbl(con, 'hotel') %>%
+  distinct(hotelType) -> q1 #query is saved 
+collect(q1) #becomes local table now 
+```
+
 #. Report the top 3 hotels with the highest number of rooms (keep only hotelId, hotelName, hotelRooms)
+
+```{r}
+#options(warn = -1)
+tbl(con, 'hotel') %>%
+select(hotelId, hotelName, hotelRooms) %>%
+  arrange(desc(hotelRooms)) %>% collect() %>%
+slice(1:3)
+
+tbl(con, sql('SELECT hotelId hotelName, hotelRooms from hotel order by hotelRooms desc limit 3'))
+```
 
 #. Count the independent business (those who do not belong to any brand)
 
+```{r}
+
+tbl(con, 'hotel') %>%
+ select(hotelId, hotelName, brandId) %>%
+ filter(is.na(brandId)) %>%
+ #tally()
+  count()
+
+tbl(con, sql('SELECT COUNT(hotelId) FROM hotel WHERE brandId IS NULL '))
+```
+
 #. Report the top 3 hotels with the best service (calculate the average using review.reviewService)
+
+```{r}
+tbl(con, 'hotel') %>%
+select(hotelId, hotelName, hotelRooms) %>%
+  arrange(desc(hotelRooms)) %>% collect() %>%
+slice(1:3)
+
+tbl(con, sql('SELECT hotelId hotelName, hotelRooms from hotel order by hotelRooms desc limit 3'))
+```
+
 
 #. Report all the authors and the hotels they reviewed. Report the author name, the hotel ID and hotel name. Order the output by author name
 
 ```{r}
+
+tbl(con, 'hotel') %>%
+ inner_join(tbl(con, 'review')) %>%
+ inner_join(tbl(con, 'author')) %>%
+ select(authorNickname, hotelName, hotelId) %>%
+ arrange(desc(authorNickname))
+
+tbl(con, sql('select authorNickname, h.hotelId, hotelName from hotel h join review r join author a where h.hotelId = r.hotelId and r.authorid = a.authorid order by authorNickname'))
 
 ```
 
@@ -63,6 +111,13 @@ However, you want to `collect()` as late as possible to make sure you leverage t
 #. Report the total number of reviews received by each hotel. Report a three columns table with `hotelId`, `hotelName` and total number of reviews. Make sure that you are including hotels with zero reviews as well. Note that some hotels have 0 reviews. If you decide to count the rows in each grouping level, make sure you you don't count as 1 those who have zero reviews.
 
 ```{r}
+
+tbl(con, 'hotel') %>%
+left_join(tbl(con, 'review')) %>% 
+filter(is.na(reviewLocation)) %>% 
+select(hotelId, hotelName, reviewLocation)
+
+tbl(con, sql('SELECT hotel.hotelId, hotel.hotelName, COUNT(reviewId) FROM hotel LEFT JOIN review ON hotel.hotelId = review.hotelId GROUP BY review.hotelId'))
 
 ```
 

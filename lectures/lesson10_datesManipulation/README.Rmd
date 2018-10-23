@@ -127,7 +127,7 @@ dt <- left_join(dt, lkt)
 
 ```{r, error=TRUE}
 #substitute ... with the appropriate code
-ggplot(...) +
+ggplot(dt) +
   geom_density(aes(x = ...)) +
   facet_wrap(~ ..., scales = ... , ncol = 1) +
   scale_x_date(name = ... , date_breaks = ..., date_labels = ...) #?strptime() for the list of specifications
@@ -139,6 +139,13 @@ Using a dataset of terrorism casualties in Europe, plot a line chart of victims 
 
 ```{r}
 dt <- read_csv(file = 'https://raw.githubusercontent.com/fivethirtyeight/data/master/terrorism/eu_terrorism_fatalities_by_country.csv')
+
+dt %>%
+ mutate(fulldate = paste(offensedate,offensetime)) %>%
+ mutate(weekday = wday(fulldate, label = T, abbr = F)) %>%
+ select(fulldate, weekday) %>%
+ count(weekday) %>%
+ arrange(desc(weekday))
 ```
 
 

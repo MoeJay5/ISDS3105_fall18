@@ -88,6 +88,20 @@ Create an ggplot function to draw a linechart of the `AverageRoomRate` over time
 #' want to save each file into ISDS3105_fall/lectures/lesson13_purrr_2/timeLines.
 #' You could use `dir.create()` to create the `timeLines` directory - perhaps conditionally using `dir.exists()`
 #' if the folder does not exists yet.
+
+drawMap <- function(data, title) {
+                   ggplot(data = data) +
+                      geom_polygon(aes(x = long, y = lat, group = group, fill = insurance_premiums), color = "white") + 
+                      coord_fixed(1.3) +
+                      labs(title = paste('Insurance Preiums for ', title)) +
+    scale_fill_gradient(labels = scales::dollar_format())
+}
+
+bad_driversNested <- bad_driversNested %>% 
+  mutate(stateMap = pmap(list(data = .$stateShape, title = .$isSouth), .f = drawMap))
+
+ggsave(bad_driversNested, path = here::here())
+
 ```
 
 

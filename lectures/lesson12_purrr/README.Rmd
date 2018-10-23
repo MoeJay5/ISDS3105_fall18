@@ -64,10 +64,10 @@ Build a for-loop to calcualte the mean for each element of `t`
 
 ```{r}
 
-output <-       # output
+output <- vector('list',nrow(t))      # output
 
-for (...) {     # sequence
-  ...           # body
+for (i in 1:nrow(t)) {     # sequence
+  output <- mean(t$x[[i]])          # body
 }
 ```
 
@@ -127,6 +127,8 @@ To pass the arguments of the function `.f`, when have to options:
 #load the environment load(here::here('data', 'dataset.rdata'))
 # calculate the quarterly means of iphoneSales removing NAs
 
+map(.x = iphoneSales, .f = ~ mean(.x, na.rm = T))
+
 ```
 
 
@@ -139,13 +141,13 @@ t <- tibble(nums = list(obs1 = c(a = 'first', b = 'second'),
                         obs2 = c(a = 'first'), 
                         obs3 = c(a = 'first', b = 'second', c = 'third')))
 
-t %>% mutate(nums = map(.x = nums, 2, .default = as.character(NA)))
+t %>% mutate(nums = purrr::map(.x = nums, 2, .default = as.character(NA)))
 #' we can simplify the data structure to an atomic vector using 
 #' the functions map_chr, map_int, map_dbl, map_lgl
 t %>% mutate(nums = map_chr(.x = nums, 2, .default = as.character(NA)))
 
 #using map() to pluck values like iterating the subset function `[`
-t %>% mutate(nums = map_chr(.x = nums, `[`, 2))
+t %>% mutate(nums = map_chr(.x = nums, 2))
 ```
 
 You can extract also by element name:
@@ -202,8 +204,20 @@ bad_driversNested$chart[1]
 #' Use map to produce 3 charts: Southern State, Mountain states, Others. 
 #' Follow one of the 2 approaches above or to come up with your own, but don't 
 #' forget to iterate the call to ggplot() rather then typing it down multiple times
-mountainStates <- c('Montana', 'Wyoming', 'Colorado', 'New Mexico', 'Idaho', 'Utah', 'Arizona', 'Nevada')
+bad_driversMountain <-
+ bad_drivers %>%
+         mutate(isMountain = case_when(
+         state %in% mountainStates ~ 'Mountain',
+         state %in% c('Louisiana', 'Mississippi', 'Alabama', 'Georgia', 'South Carolina') ~ 'South',
+         T ~ 'Other'),
+         state = tolower(state))
 
+bad_driversMountain %>%
+split(.$isMountain) %>%
+ purrr::map(.x = ., ~ right_join(.x, states, by = c('state' = 'region')) %>%
+                     filter(!is.na(insurance_premiums)) %>%
+                     ggplot() +
+                     geom_polygon(aes(x = long, y = lat, group = group, fill = insurance_premiums), color = "white") + coord_fixed(1.3) + labs(title = paste('Insurance premiums')))
 ```
 
 

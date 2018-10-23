@@ -3,11 +3,11 @@
 #' create your  `token <- c(sec = ..., app = ...)` and keep 
 #' it into a separate .R to source()
 
-source(here('lectures/lesson11_openData/tokenSocrata.R'))
 library(RSocrata)
 library(here)
 library(tidyverse)
 
+source(here('lectures/lesson11_openData/tokenSocrata.R'))
 #' Google API requirements has changed. As a results, the package
 #' ggmap needs revisions. For now, we are stacked witht he dev version
 if(!requireNamespace("devtools")) install.packages("devtools")
@@ -21,6 +21,7 @@ library(ggmap)
 #' go to the page of a dataset: https://data.brla.gov/Government/311-Citizen-Requests-for-Service/7ixm-mnvx
 #' click on the tab API and copy paste the link for "API Endpoint'
 #' 
+
 apiEndpoint <- 'https://data.brla.gov/resource/uqxt-dtpe.csv?'
 
 #' learn how to write queries: https://dev.socrata.com/

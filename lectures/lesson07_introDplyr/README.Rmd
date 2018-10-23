@@ -9,6 +9,7 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 load(here::here('data', 'dataset.RData'))
+library(fivethirtyeight)
 ```
 
 
@@ -305,6 +306,27 @@ left_join(twitter_users, fbMobile_users, by = 'Year') #retain all records from A
 right_join(twitter_users, fbMobile_users, by = 'Year') #retain all records from B, add those from A that match
 anti_join(twitter_users, fbMobile_users, by = 'Year') #retain all records from A with not matches in B (keep just columns from A)
 semi_join(twitter_users, fbMobile_users, by = 'Year') #retain all records from A with matches in B (keep just columns from A)
+```
+
+#Notes
+
+```{r}
+drug_use %>%
+  filter(age %in% c('18', '19','20', '21', '22-23')) %>%
+  gather(key = 'drug', value = 'usage', alcohol_use, cocaine_use, marijuana_use) %>%
+    ggplot(data = .) +
+      geom_bar(aes(x = drug, y = usage), stat = 'identity') + facet_wrap(~age) + 
+      theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+or (tyler's block)
+
+```{r}
+fivethirtyeight::drug_use %>%
+ select( age, alcohol_use, cocaine_use, marijuana_use,n) %>%
+ gather(key = 'DrugType', value = 'percent',-age,-n) %>%
+ filter(age %in% c('18','19','20','21','22-23')) %>%
+ ggplot() + geom_bar(aes(x = DrugType, y = percent, fill = DrugType), stat = 'identity') + facet_wrap(~age) + theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
 
