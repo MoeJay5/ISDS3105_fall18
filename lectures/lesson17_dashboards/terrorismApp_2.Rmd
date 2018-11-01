@@ -1,0 +1,86 @@
+---
+title: "Terrorism in Europe"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+editor_options: 
+  chunk_output_type: console
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(flexdashboard)
+library(plotly)
+```
+
+```{r}
+dtYear <- read_csv(file = 'https://raw.githubusercontent.com/fivethirtyeight/data/master/terrorism/eu_terrorism_fatalities_by_country.csv') %>% 
+  tidyr::gather('state', 'casualties', - iyear)
+dt <- dtYear %>% 
+  group_by(state) %>% summarise(total = sum(casualties))
+```
+
+Inputs {.sidebar}
+-------------------------------------
+
+```{r}
+statesNames <- setNames(unique(dt$state), unique(dt$state)) %>% as.list()
+
+#drop down menu for the 1st plot
+ selectInput("state1", label = h4("State 1"), 
+    choices = statesNames, 
+    selected = 'Belgium')
+
+#dropdown menu for the second (uncomment and fill the ...)
+ selectInput(id = ..., label = ..., 
+    choices = ..., 
+    selected = ...)
+```
+ 
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Europe
+
+```{r}
+
+renderPlot({
+  #create a logical variable named `selected` that is TRUE if a country is selected in either one of the drop-down menus and FALSE otherwise. To extract the selected value use input$selectInputID e.g., input$state1
+  dt %>%  mutate(selected  = ... %in%  ....) %>% 
+  ggplot(aes(x = state, y = total, fill = selected)) +
+  geom_col(show.legend = F) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+})
+
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### `r reactive({ input$state1 })`
+
+```{r}
+#create a function to plot a linechart given a dataset `df` and a country name `country`
+statePlot <- function(df, country) { 
+          .....
+}
+
+renderPlot({ 
+  statePlot(...) 
+  })
+```
+
+### Make this reactive using reactive({})
+
+```{r}
+
+renderPlot({ 
+  statePlot(dtYear, country = input$state2) 
+  })
+```
+
