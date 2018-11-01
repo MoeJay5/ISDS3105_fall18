@@ -72,14 +72,14 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 | Thursday, October 11    | Open Data API       |   Assignment4 GeoViz                   | lesson13
 | Tuesday, October 16      | OpenData    |                              | lesson14
 | Thursday, October 18  | Iteration with purrr                |         | lesson15
-| Tuesday, October 23   | Iteration with purrr        |    ~~Assignment6 Assingnment on OpenData Map~~            | lesson16   
-| Thursday, October 25  | WebScraping        | Assignment5 Assingnment on OpenData Map  | lesson17  
-| Tuesday, October 30   | Regression              |                | lesson18   
-| Thursday, November 1  | Regression              | ~Assignment6~               | lesson19  
-| Tuesday, November 6   | ~~Regression~~  Parametrized Reports        | Assignment6         | lesson20   
-| Thursday, November 8  | Dashoboards with RMarkdown    |                | lesson21  
+| Tuesday, October 23   | WebScraping        |            | lesson16   
+| Thursday, October 25  |   Regression      | Assignment5 Assingnment on OpenData Map  | lesson17  
+| Tuesday, October 30   |   Parametrized Reports             |                | lesson18   
+| Thursday, November 1  |  Dashoboards with flexdashboard             |               | lesson19  
+| ~~Tuesday, November 6~~  |        |        |    
+| Thursday, November 8  | Dashoboards with flexdashboard   |                | lesson21  
 | Tuesday, November 13  | Supervised lab - group project |      |                           |
-| Thursday, November 15 | Supervised lab - group project        |    Assignment7            |    
+| Thursday, November 15 | Supervised lab - group project        |    Assignment6            |    
 | Tuesday, November 20  |   Case-study - online reviews     | Group Project       | lesson23     
 | ~~Thursday, November 22~~   | Thanksgiving |                | 
 | Tuesday, November 27     | Case-study - online reviews       |                     | lesson 24
