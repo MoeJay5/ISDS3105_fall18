@@ -56,34 +56,34 @@ We adopt the standard LSU +/- grading scale without any forced curve. The breakd
 |-------------------------|---------------|----------------|----------|
 | Tuesday, August 21       | Introduction and set-up    |   |  |
 | Thursday, August 23     | Git/GitHub  |   Assignment1 (install RStudio, git/github)  | [*Do you have a moment to talk about version control?*](https://moodle3.lsu.edu/pluginfile.php/1643503/mod_resource/content/1/about_version_control.pdf)|
-| Tuesday, August 28      | Base  R - data structures 1  |              |    lesson1     
-| Thursday, August 30     |  Base R - functions             |  | lesson2            
-| Tuesday, September 4    |  Base  R - data structures 2  |    Assignment2        | lesson3
-| Thursday, September 6    | DataViz ggplot2     |                       | lesson4
-| Tuesday, September 11   | DataViz ggplot2     |                       | lesson5         
-| Thursday, September 13  | Tidy data           | ~~Assignment3~~           | lesson6
-| Tuesday, September 18   | dplyr               |                       | lesson7 
-| Thursday, September 20  | dplyr - connecting and querying DB     |  Assignment3   | lesson8
-| Tuesday, September 25   | dplyr - connecting and querying DB |  ~~Assignment4~~ | lesson9 
-| Thursday, September 27  | **Mid-term**              |                     | lesson10
-| Tuesday, October 2      | Geospatial Viz      |                       | lesson11 
+| Tuesday, August 28      | Base  R - data structures 1  |              
+| Thursday, August 30     |  Base R - functions             |  
+| Tuesday, September 4    |  Base  R - data structures 2  |    Assignment2        | 
+| Thursday, September 6    | DataViz ggplot2     |                       |
+| Tuesday, September 11   | DataViz ggplot2     |                       | 
+| Thursday, September 13  | Tidy data           |           | 
+| Tuesday, September 18   | dplyr               |                       | 
+| Thursday, September 20  | dplyr - connecting and querying DB     |  Assignment3   | 
+| Tuesday, September 25   | dplyr - connecting and querying DB |  | 
+| Thursday, September 27  | **Mid-term**              |                     | 
+| Tuesday, October 2      | Geospatial Viz      |                       | 
 | ~~Thursday, October 4~~     | Fall Holiday| |    |
-| Tuesday, October 9       | Manipulating Dates  |                       |  lesson12
-| Thursday, October 11    | Open Data API       |   Assignment4 GeoViz                   | lesson13
-| Tuesday, October 16      | OpenData    |                              | lesson14
-| Thursday, October 18  | Iteration with purrr                |         | lesson15
-| Tuesday, October 23   | WebScraping        |            | lesson16   
-| Thursday, October 25  |   Regression      | Assignment5 Assingnment on OpenData Map  | lesson17  
-| Tuesday, October 30   |   Parametrized Reports             |                | lesson18   
-| Thursday, November 1  |  Dashoboards with flexdashboard             |               | lesson19  
+| Tuesday, October 9       | Manipulating Dates  |                       |  
+| Thursday, October 11    | Open Data API       |   Assignment4 GeoViz                   
+| Tuesday, October 16      | OpenData    |                              | 
+| Thursday, October 18  | Iteration with purrr                |         | 
+| Tuesday, October 23   | WebScraping        |            |    
+| Thursday, October 25  |   Regression      | Assignment5 Assingnment on OpenData Map  |
+| Tuesday, October 30   |   Parametrized Reports             |                |   
+| Thursday, November 1  |  Dashoboards with flexdashboard             |               | 
 | ~~Tuesday, November 6~~  |        |        |    
-| Thursday, November 8  | Dashoboards with flexdashboard   |                | lesson21  
+| Thursday, November 8  | Dashoboards with flexdashboard   |                | 
 | Tuesday, November 13  | Supervised lab - group project |      |                           |
-| Thursday, November 15 | Supervised lab - group project        |    Assignment6            |    
-| Tuesday, November 20  |   Case-study - online reviews     | Group Project       | lesson23     
+| Thursday, November 15 | Supervised lab - group project        |                |    
+| Tuesday, November 20  |   Case-study - online reviews     | Assignment6       | 
 | ~~Thursday, November 22~~   | Thanksgiving |                | 
-| Tuesday, November 27     | Case-study - online reviews       |                     | lesson 24
-| Thursday, November 29   | Case-study                        |                     | lesson25
+| Tuesday, November 27     | Presentations      |                     | 
+| Thursday, November 29   | Presentations                        |                     | 
 | Wednesday, December 5| **Final exam 5.30-7.30 PM** | | |
 
 
