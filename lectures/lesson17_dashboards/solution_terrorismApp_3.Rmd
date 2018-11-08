@@ -1,0 +1,100 @@
+---
+title: "Terrorism in Europe"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+editor_options: 
+  chunk_output_type: console
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(flexdashboard)
+library(plotly)
+```
+
+```{r}
+dtYear <- read_csv(file = 'https://raw.githubusercontent.com/fivethirtyeight/data/master/terrorism/eu_terrorism_fatalities_by_country.csv') %>% 
+  tidyr::gather('state', 'casualties', - iyear)
+dt <- dtYear %>% 
+  group_by(state) %>% summarise(total = sum(casualties))
+```
+
+Inputs {.sidebar}
+-------------------------------------
+
+```{r}
+statesNames <- setNames(unique(dt$state), unique(dt$state)) %>% as.list()
+ selectInput("state1", label = h4("Country 1"), 
+    choices = statesNames, 
+    selected = 'Belgium')
+
+statesNames <- setNames(unique(dt$state), unique(dt$state)) %>% as.list()
+ selectInput("state2", label = h4("Country 2"), 
+    choices = statesNames, 
+    selected = 'United Kingdom')
+ 
+checkboxInput('scalePlot', 'Rescale plots', value = FALSE, width = NULL) 
+ 
+```
+ 
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Europe
+
+```{r}
+
+renderPlot({
+  dt %>% mutate(selected  = state %in% c(input$state1, input$state2)) %>% 
+  ggplot(aes(x = state, y = total, fill = selected)) +
+  geom_col(show.legend = F) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+})
+
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### `r reactive({ unname(input$state1) })`
+
+```{r}
+statePlot <- function(df, country) { 
+              filter(df, state == country) %>% 
+                      ggplot(aes(iyear, casualties )) + 
+                      geom_line() + 
+                      scale_x_continuous(name = 'year')
+}
+
+
+statePlot_scaled <- function(df, country, countries) { 
+    max <- filter(df, state %in% countries) %>%  #save the max number of casualties from both countries (y-axis)
+      pull(casualties) %>% max
+   statePlot(df, country) +
+      scale_y_continuous(limits = c(0, max))   #a scaled plot is like statePlot except with different y-axis limits
+  }
+
+
+renderPlot({ 
+  if (input$scalePlot) { 
+    statePlot_scaled( dtYear, country = input$state1, countries = c(input$state1, input$state2) )
+    } else { statePlot( dtYear, country = input$state1) }
+  })
+```
+
+### `r reactive({ unname(input$state2) })`
+
+```{r}
+renderPlot({ 
+  if (input$scalePlot) { 
+    statePlot_scaled( dtYear, country = input$state2, countries = c(input$state1, input$state2) )
+    } else { statePlot( dtYear, country = input$state2) }
+  })
+```
+
