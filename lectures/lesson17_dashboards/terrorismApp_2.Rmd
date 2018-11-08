@@ -28,15 +28,15 @@ Inputs {.sidebar}
 ```{r}
 statesNames <- setNames(unique(dt$state), unique(dt$state)) %>% as.list()
 
-#drop down menu for the 1st plot
+#dropdown menu for the 1st plot
  selectInput("state1", label = h4("State 1"), 
     choices = statesNames, 
     selected = 'Belgium')
 
 #dropdown menu for the second (uncomment and fill the ...)
- selectInput(id = ..., label = ..., 
-    choices = ..., 
-    selected = ...)
+ selectInput("state2", label = h4("State 2"),
+   choices = statesNames,
+   selected = 'France')
 ```
  
 
@@ -50,12 +50,19 @@ Column {data-width=650}
 
 renderPlot({
   #create a logical variable named `selected` that is TRUE if a country is selected in either one of the drop-down menus and FALSE otherwise. To extract the selected value use input$selectInputID e.g., input$state1
-  dt %>%  mutate(selected  = ... %in%  ....) %>% 
-  ggplot(aes(x = state, y = total, fill = selected)) +
-  geom_col(show.legend = F) +
-    theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+  dt %>%  mutate(selected = input$state1 %in%  statesNames) %>%
+ ggplot(aes(x = state, y = total, fill = selected)) +
+ geom_col(show.legend = F) +
+   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 })
-
+renderPlot({
+ dtYear %>% mutate(selected = input$state1 %in% statesNames) %>%
+   ggplot(aes(x = iyear, y = casualties)) + geom_line()
+})
+renderPlot({
+ dtYear %>% mutate(selected = input$state2 %in% statesNames) %>%
+   ggplot(aes(x = iyear, y = casualties)) + geom_line()
+})
 
 ```
 

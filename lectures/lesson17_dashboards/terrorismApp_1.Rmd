@@ -39,9 +39,12 @@ Column {data-width=350}
 ### State 1
 
 ```{r}
-
-#plot a linechart of the yearly casualties for 1 country (using dtYear)
-
+function.plot <- function(dt,myCountry){dt <- dt %>% filter(country == myCountry)
+ ggplot( data = dt,aes(iyear, casualties ))+
+   scale_x_continuous("Year")+
+   geom_line()
+}
+function.plot(dtYear,"Belgium")
 
 ```
 
