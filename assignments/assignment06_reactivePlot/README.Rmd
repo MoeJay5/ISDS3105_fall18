@@ -1,0 +1,46 @@
+---
+title: "Assignment 6"
+output: html_document
+runtime: shiny
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+library(shiny)
+library(fivethirtyeight)
+library(tidyverse)
+library(ggiraph)
+knitr::opts_chunk$set(echo = F)
+```
+
+
+### A tool for exploratory visualization of insurance data
+
+```{r}
+div(style="display:inline-block", selectInput( inputId = "xaxis", "X variable:", names(bad_drivers), selected = 'perc_speeding'))
+div(style="display:inline-block", selectInput( inputId = "yaxis", "Y variable:", names(bad_drivers), selected = 'perc_alcohol'))
+div(style="display:inline-block", selectInput( inputId = "dotsize", "Dot Size:", names(bad_drivers), selected = 'perc_alcohol'))
+div(style="display:inline-block", textInput( inputId = "state", "Selected State:", value = 'Louisiana'))
+```
+
+
+```{r}
+renderGirafe({
+
+mutatedData <- bad_drivers %>%
+  mutate(selectedState = state == input$state)
+  
+p1 <- 
+ggplot(data = mutatedData, aes_string(x = input$xaxis, y = input$yaxis, size = input$dotsize, color = mutatedData$selectedState, tooltip = "state")) +
+geom_point_interactive() +
+ggtitle('Insurance premiums data') + 
+guides(color = FALSE)
+
+girafe(ggobj = p1, width = .7)
+})
+```
+
+
+
+
